@@ -1,0 +1,2 @@
+# 📖 Website Bot settings
+
