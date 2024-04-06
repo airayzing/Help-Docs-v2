@@ -6,7 +6,7 @@ description: This page contains the API documentation for the adding new WhatsAp
 
 ### Introduction
 
-The **Inbox User Import API** allows you to import WhatsApp contacts into the BotBuddy AI platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+The **Inbox User Import API** allows you to import WhatsApp contacts into the BotBuddy platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
 
 #### Base URL
 
@@ -87,7 +87,7 @@ jsonCopy code{
 
 ### Conclusion
 
-The Inbox User Import API allows you to easily import user profiles into the BotBuddy AI platform. Make sure to follow the authentication and data format guidelines for successful imports.
+The Inbox User Import API allows you to easily import user profiles into the BotBuddy platform. Make sure to follow the authentication and data format guidelines for successful imports.
 
 ### :question: Got any questions?
 

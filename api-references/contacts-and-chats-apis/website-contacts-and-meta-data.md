@@ -6,7 +6,7 @@ description: This section contains the Leads and Chat API references
 
 ## Get the essentials first!
 
-To use the BotBuddy AI APIs, You need to insure that you have following details with you.
+To use the BotBuddy APIs, You need to insure that you have following details with you.
 
 A. **UUID -** You can get the UUID from the local web session storage as show in the image below:
 
@@ -30,7 +30,7 @@ For Chatbot Script
 
 <pre class="language-markup" data-overflow="wrap" data-line-numbers><code class="lang-markup"><strong>// Chatbot Script Structure
 </strong>
-&#x3C;script id="BotBuddy AI-messenger-widget" src="https://cdn.botbuddyai.com/BotBuddy AI.js" defer>BotId,CustomerId&#x3C;/script>
+&#x3C;script id="BotBuddy-messenger-widget" src="https://cdn.botbuddyai.com/BotBuddy.js" defer>BotId,CustomerId&#x3C;/script>
 
 // The first value after defer> is the BotId &#x26; second value is the CustomerId.
 </code></pre>
@@ -43,7 +43,7 @@ Now you are ready to run the POC
 
 Please use the below APIs in order to play with your leads and chat data.
 
-### Create a lead in the BotBuddy AI
+### Create a lead in the BotBuddy
 
 As soon as any user opens up the Bot, It creates one UUId; pass the same along with the other required details to create and update the lead's details.
 
@@ -145,7 +145,7 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
             "lastMessage": {
                 "at": "2023-02-01T06:00:20.000Z",
                 "by": "bot",
-                "text": "Welcome to BotBuddy AI. I am here to help you."
+                "text": "Welcome to BotBuddy. I am here to help you."
             },
             "lastSeenAt": "2023-02-01T06:00:21.000Z",
             "profile": {

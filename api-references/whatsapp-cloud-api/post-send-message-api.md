@@ -97,7 +97,7 @@ curl --location 'https://api.v7.express-chat.com/whatsapp-automation/wa/send-mes
 
 {% code overflow="wrap" %}
 ```
-curl --location '<https://api.v7.BotBuddy AI.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
+curl --location '<https://api.v7.BotBuddy.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
 --header 'apiKey: *API KEY*' \\\\
 --header 'Content-Type: application/json' \\\\
 --data '{

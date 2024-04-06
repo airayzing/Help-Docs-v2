@@ -1,18 +1,18 @@
 ---
 description: >-
   Complete documentation with all tricks and hacks to help you get started with
-  BotBuddy AI
+  BotBuddy
 ---
 
 # 🏠 Introduction
 
-## :white\_check\_mark: Get Started with BotBuddy AI
+## :white\_check\_mark: Get Started with BotBuddy
 
-BotBuddy AI is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
+BotBuddy is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
 
-We have built comprehensive documentation for you to quickly get started. BotBuddy AI Platform is primarily divided into the following sections.
+We have built comprehensive documentation for you to quickly get started. BotBuddy Platform is primarily divided into the following sections.
 
-1. Start with BotBuddy AI - Get started
+1. Start with BotBuddy - Get started
 2. Bot Management - To create, edit, manage, configure and integrate bots.
 3. Inbox - To manage all customer interactions with the Bot.
 4. Team- To manage your team.
@@ -22,16 +22,16 @@ We have built comprehensive documentation for you to quickly get started. BotBud
 
 You can get detailed know-how by navigating to the below section.
 
-{% content-ref url="BotBuddy AI-resource-center/how-BotBuddy AI-works/" %}
-[how-BotBuddy AI-works](BotBuddy AI-resource-center/how-BotBuddy AI-works/)
+{% content-ref url="BotBuddy-resource-center/how-BotBuddy-works/" %}
+[how-BotBuddy-works](BotBuddy-resource-center/how-BotBuddy-works/)
 {% endcontent-ref %}
 
-{% content-ref url="BotBuddy AI-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](BotBuddy AI-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="BotBuddy-resource-center/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](BotBuddy-resource-center/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="BotBuddy AI-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](BotBuddy AI-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="BotBuddy-resource-center/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](BotBuddy-resource-center/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

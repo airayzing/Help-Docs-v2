@@ -8,7 +8,7 @@ description: >-
 
 ### Update User Status
 
-This API endpoint allows you to update the status of users in your BotBuddy AI application.
+This API endpoint allows you to update the status of users in your BotBuddy application.
 
 **Endpoint URL:** `https://api.v7.express-chat.com/inbox/users/status-update`
 
