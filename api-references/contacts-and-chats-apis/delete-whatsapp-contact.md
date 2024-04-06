@@ -8,7 +8,7 @@ description: >-
 
 ### Update User Status
 
-This API endpoint allows you to update the status of users in your ChatbotWorld application.
+This API endpoint allows you to update the status of users in your Romulus application.
 
 **Endpoint URL:** `https://api.v7.express-chat.com/inbox/users/status-update`
 
@@ -49,4 +49,4 @@ Please replace `[MASKED_TOKEN]` in the request with your actual API token for ac
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@chatbotworld.io
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at support@romulus.live

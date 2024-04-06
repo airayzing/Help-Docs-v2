@@ -1,16 +1,16 @@
 ---
 description: >-
   This page contains end to end guide to create the WhatsApp Bot with Automated
-  ChatbotWorld Onboarding.
+  Romulus Onboarding.
 ---
 
 # ⚙️ WhatsApp Bot Creation with Automated onboarding
 
-be talkingThis document will guide you through the step-by-step process of creating the ChatbotWorld WhatsApp Bot using the WhatsApp Business Cloud API. Following these instructions, you can set up your WhatsApp Bot and integrate it with the ChatbotWorld platform.
+be talkingThis document will guide you through the step-by-step process of creating the Romulus WhatsApp Bot using the WhatsApp Business Cloud API. Following these instructions, you can set up your WhatsApp Bot and integrate it with the Romulus platform.
 
 ## **Step 1:** Check for Pre-requisites
 
-Before you begin, ensure you have the necessary prerequisites in place, such as access to the ChatbotWorld platform, WhatsApp number, etc.
+Before you begin, ensure you have the necessary prerequisites in place, such as access to the Romulus platform, WhatsApp number, etc.
 
 #### Pre-requisites
 
@@ -33,9 +33,9 @@ Please note that a single mobile number can only be utilized on one of the Whats
 
 ## **Step 2:** Create a WhatsApp bot & go through the WhatsApp Automated onboarding process
 
-### 2.1 Register your bot on ChatbotWorld
+### 2.1 Register your bot on Romulus
 
-1. Login to your ChatbotWorld Portal and Click the "Create Bot" button on the top right.
+1. Login to your Romulus Portal and Click the "Create Bot" button on the top right.
 2. Select "WhatsApp" as the platform on the next page.
 3. Provide the required details and follow the bot creation process.
 4. Scan the QR Code and initiate a WhatsApp message to create the demo bot 1st.
@@ -82,6 +82,6 @@ In the Business Manager, update the payment method for your WhatsApp Business Cl
 1. After successful verification, make any necessary updates to your business information.
 2. You have successfully updated the payment method on your WhatsApp account.
 
-Congratulations! You have successfully created the ChatbotWorld WhatsApp Bot using the WhatsApp Business Cloud API and integrated it with the ChatbotWorld platform. Your WhatsApp Bot is now ready to interact with users and provide automated responses.
+Congratulations! You have successfully created the Romulus WhatsApp Bot using the WhatsApp Business Cloud API and integrated it with the Romulus platform. Your WhatsApp Bot is now ready to interact with users and provide automated responses.
 
-Please note that specific steps and requirements may vary based on updates and changes in the ChatbotWorld and WhatsApp Business Cloud API platforms. If you encounter any difficulties during the process or have further questions, please refer to the official documentation of ChatbotWorld and WhatsApp Business Cloud API, or contact their support teams for assistance.
+Please note that specific steps and requirements may vary based on updates and changes in the Romulus and WhatsApp Business Cloud API platforms. If you encounter any difficulties during the process or have further questions, please refer to the official documentation of Romulus and WhatsApp Business Cloud API, or contact their support teams for assistance.
