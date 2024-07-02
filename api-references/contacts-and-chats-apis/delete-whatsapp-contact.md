@@ -8,7 +8,7 @@ description: >-
 
 ### Update User Status
 
-This API endpoint allows you to update the status of users in your ChatbotWorld application.
+This API endpoint allows you to update the status of users in your S10U AI Studio application.
 
 **Endpoint URL:** `https://api.v7.express-chat.com/inbox/users/status-update`
 
