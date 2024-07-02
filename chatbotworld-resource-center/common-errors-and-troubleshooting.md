@@ -171,7 +171,7 @@ This feature is only available to users with a King plan subscription and above.
 Due to security reasons, a payment link is only available for a specific period.
 
 1. If your payment link has expired, you must retry payment again by creating a new one from the payment gateway.
-2. If your money is deducted and the transaction has failed, it usually returns in three business days. If not, please contact us at enquiries@chatbotworld.io
+2. If your money is deducted and the transaction has failed, it usually returns in three business days. If not, please contact us at production@s10u.co.za
 
 </details>
 

@@ -10,7 +10,7 @@ description: >-
 
 <summary><strong>How to change my email ID?</strong></summary>
 
-You cannot change your email address once you have created your account from the ChatbotWorld app. However, You can contact ChatbotWorld at enquiries@chatbotworld.io to change your email address.
+You cannot change your email address once you have created your account from the ChatbotWorld app. However, You can contact ChatbotWorld at production@s10u.co.za to change your email address.
 
 </details>
 

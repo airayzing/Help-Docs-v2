@@ -67,6 +67,6 @@ To conclude the chat flow:
 
 ## **Need Further Assistance?**
 
-If you encounter any issues or need assistance, please contact us at [enquiries@chatbotworld.io](mailto:enquiries@chatbotworld.io). We will respond within 48 business hours.
+If you encounter any issues or need assistance, please contact us at [production@s10u.co.za](mailto:production@s10u.co.za). We will respond within 48 business hours.
 
 That's it! You're now equipped to customize your chatbot's flow and engage users effectively.

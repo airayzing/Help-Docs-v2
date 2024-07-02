@@ -210,4 +210,4 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@chatbotworld.io
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@s10u.co.za

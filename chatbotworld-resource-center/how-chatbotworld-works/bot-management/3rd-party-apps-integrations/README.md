@@ -45,4 +45,4 @@ If the app you are looking for is unavailable on the app list, You can build you
 
 #### Having Questions?
 
-If you have any questions, you can refer to the below link or contact us at [contact@](mailto:enquiries@chatbotworld.io)chatbotworld.io.
+If you have any questions, you can refer to the below link or contact us at [contact@](mailto:production@s10u.co.za)chatbotworld.io.
