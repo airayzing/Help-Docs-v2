@@ -8,7 +8,7 @@ description: >-
 
 ### Get Segments/Groups
 
-This API endpoint allows you to retrieve segments for your ChatbotWorld application.
+This API endpoint allows you to retrieve segments for your EkoChat Connect application.
 
 **Endpoint URL:** `https://api.v7.express-chat.com/inbox/segments`
 
@@ -31,10 +31,10 @@ Replace `[MASKED_TOKEN]` in the request with your actual API token.
 
 #### Response
 
-The API will respond with a JSON object containing the segments available in your ChatbotWorld application. The response format may vary depending on the segments you have configured.
+The API will respond with a JSON object containing the segments available in your EkoChat Connect application. The response format may vary depending on the segments you have configured.
 
 Please replace `[MASKED_TOKEN]` in the request with your actual API token for actual usage.
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@chatbotworld.io
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@https://help.eko.chat
