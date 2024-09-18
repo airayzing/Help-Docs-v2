@@ -39,8 +39,8 @@ Before you begin, ensure you have the necessary prerequisites in place, such as 
 1. Subscribe the WhatsApp (WA) web hook with the EkoChat Connect platform.
 2. This will enable your WhatsApp Bot to receive messages and interact with users.
 
-{% content-ref url="subscribe-wa-webhook-with-ekochat.md" %}
-[subscribe-wa-webhook-with-ekochat.md](subscribe-wa-webhook-with-ekochat.md)
+{% content-ref url="subscribe-wa-webhook-with-ekochatconnect.md" %}
+[subscribe-wa-webhook-with-ekochatconnect.md](subscribe-wa-webhook-with-ekochatconnect.md)
 {% endcontent-ref %}
 
 #### **Step 5:** Update Payment Method to WhatsApp

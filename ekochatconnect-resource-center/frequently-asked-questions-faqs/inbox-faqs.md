@@ -54,7 +54,7 @@ You can integrate Twilio from the integrate Twilio option in the Inbox Tab.
    4. API Key API Secret App
    5. URL (POST)
 3. You can find all of these credentials on the Twilio Dashboard.
-4. Also, you can contact us at production@ekochat.co.za for further assistance.
+4. Also, you can contact us at production@ekochatconnect.co.za for further assistance.
 5. After you fill out these parameters, you can quickly call leads from EkoChat Connect.
 6. Refer To The Following Steps To Obtain Your API Key and SID On Twilio
    1. Click on the Account link in the top-right navigation.

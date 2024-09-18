@@ -10,7 +10,7 @@ description: >-
 
 <summary><strong>How to change my email ID?</strong></summary>
 
-You cannot change your email address once you have created your account from the EkoChat Connect app. However, You can contact EkoChat Connect at production@ekochat.co.za to change your email address.
+You cannot change your email address once you have created your account from the EkoChat Connect app. However, You can contact EkoChat Connect at production@ekochatconnect.co.za to change your email address.
 
 </details>
 

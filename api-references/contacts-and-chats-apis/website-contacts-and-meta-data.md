@@ -30,7 +30,7 @@ For Chatbot Script
 
 <pre class="language-markup" data-overflow="wrap" data-line-numbers><code class="lang-markup"><strong>// Chatbot Script Structure
 </strong>
-&#x3C;script id="ekochat-messenger-widget" src="https://cdn.https://help.eko.chat/ekochat.js" defer>BotId,CustomerId&#x3C;/script>
+&#x3C;script id="ekochatconnect-messenger-widget" src="https://cdn.https://help.eko.chat/ekochatconnect.js" defer>BotId,CustomerId&#x3C;/script>
 
 // The first value after defer> is the BotId &#x26; second value is the CustomerId.
 </code></pre>
@@ -145,7 +145,7 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
             "lastMessage": {
                 "at": "2023-02-01T06:00:20.000Z",
                 "by": "bot",
-                "text": "Welcome to ekochat. I am here to help you."
+                "text": "Welcome to ekochatconnect. I am here to help you."
             },
             "lastSeenAt": "2023-02-01T06:00:21.000Z",
             "profile": {
@@ -210,4 +210,4 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@ekochat.co.za
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@ekochatconnect.co.za

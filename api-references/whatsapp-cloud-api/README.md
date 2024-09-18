@@ -16,7 +16,7 @@ The team will be required to create and get the templates approved by the Facebo
 
 In order to generate the WhatsApp API key,
 
-1. Go to the EkoChat Connect Dashboard ( [https://app.https://help.eko.chat/](https://app.ekochat.com/) )
+1. Go to the EkoChat Connect Dashboard ( [https://app.https://help.eko.chat/](https://app.ekochatconnect.com/) )
 2. Find your bot and go to `WhatsApp Bot Settings` section.
 3. Under `WhatsApp Bot Settings`, Navigate to the API key and Click on generate an API key.
 4. You will require to update the webhook URL, on which we will send the delivery reports.

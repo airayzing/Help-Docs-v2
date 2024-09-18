@@ -81,8 +81,8 @@ In the document ready function, create a timeout function of 3sec. In that timeo
 ```javascript
 <script>
     const scriptEle = document.createElement("script");
-    scriptEle.src = ('src', 'https://cdn.https://help.eko.chat/ekochat.js');
-    scriptEle.setAttribute('id', 'ekochat-messenger-widget');
+    scriptEle.src = ('src', 'https://cdn.https://help.eko.chat/ekochatconnect.js');
+    scriptEle.setAttribute('id', 'ekochatconnect-messenger-widget');
     scriptEle.innerHTML = '[Your Bot ID]';
 
     document.onreadystatechange = function () {

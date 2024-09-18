@@ -8,7 +8,7 @@ description: >-
 
 ## **Overview**
 
-A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the ekochat platform.
+A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the ekochatconnect platform.
 
 ## **Accessing Chatbot Builder**
 
@@ -67,6 +67,6 @@ To conclude the chat flow:
 
 ## **Need Further Assistance?**
 
-If you encounter any issues or need assistance, please contact us at [production@ekochat.co.za](mailto:production@ekochat.co.za). We will respond within 48 business hours.
+If you encounter any issues or need assistance, please contact us at [production@ekochatconnect.co.za](mailto:production@ekochatconnect.co.za). We will respond within 48 business hours.
 
 That's it! You're now equipped to customize your chatbot's flow and engage users effectively.

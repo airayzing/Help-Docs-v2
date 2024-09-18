@@ -88,7 +88,7 @@ It may occur due to the following reasons:
 1. Authentication credentials such as Auth Token or API key entered incorrectly or have expired, So try reconnecting the CRM.
 2. Make sure that your CRM account is working fine.
 3. Make sure all the parameters fields are mapped correctly
-4. Make sure you have a paid subscription to ekochat, and that You have not exhausted your message limit.
+4. Make sure you have a paid subscription to ekochatconnect, and that You have not exhausted your message limit.
 
 </details>
 
@@ -171,7 +171,7 @@ This feature is only available to users with a King plan subscription and above.
 Due to security reasons, a payment link is only available for a specific period.
 
 1. If your payment link has expired, you must retry payment again by creating a new one from the payment gateway.
-2. If your money is deducted and the transaction has failed, it usually returns in three business days. If not, please contact us at production@ekochat.co.za
+2. If your money is deducted and the transaction has failed, it usually returns in three business days. If not, please contact us at production@ekochatconnect.co.za
 
 </details>
 

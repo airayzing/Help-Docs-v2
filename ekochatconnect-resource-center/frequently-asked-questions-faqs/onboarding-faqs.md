@@ -13,7 +13,7 @@ If you haven't received your verification link, then you can check following thi
 * Check your spam folder in your Inbox.
 * You can also regenerate a new link after 30 seconds by clicking on the `Resend` button on the verification page.
 
-If the issue persists, you can contact at production@ekochat.co.za for further assistance.
+If the issue persists, you can contact at production@ekochatconnect.co.za for further assistance.
 
 </details>
 
@@ -23,7 +23,7 @@ If the issue persists, you can contact at production@ekochat.co.za for further a
 
 If you are unable to resend the verification link request, then you can regenerate a new link after 30 seconds since the last request by clicking on the <mark style="color:blue;">`Resend`</mark> button on the verification page.
 
-If the issue persists, you can contact at production@ekochat.co.za for further assistance.
+If the issue persists, you can contact at production@ekochatconnect.co.za for further assistance.
 
 </details>
 

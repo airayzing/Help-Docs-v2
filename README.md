@@ -22,16 +22,16 @@ We have built comprehensive documentation for you to quickly get started. EkoCha
 
 You can get detailed know-how by navigating to the below section.
 
-{% content-ref url="ekochat-resource-center/how-ekochat-works/" %}
-[how-ekochat-works](ekochat-resource-center/how-ekochat-works/)
+{% content-ref url="ekochatconnect-resource-center/how-ekochatconnect-works/" %}
+[how-ekochatconnect-works](ekochatconnect-resource-center/how-ekochatconnect-works/)
 {% endcontent-ref %}
 
-{% content-ref url="ekochat-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](ekochat-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="ekochatconnect-resource-center/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](ekochatconnect-resource-center/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="ekochat-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](ekochat-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="ekochatconnect-resource-center/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](ekochatconnect-resource-center/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
