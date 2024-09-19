@@ -1,18 +1,18 @@
 ---
 description: >-
   Complete documentation with all tricks and hacks to help you get started with
-  EkoChat Connect
+  WeBots
 ---
 
 # 🏠 Introduction
 
-## :white\_check\_mark: Get Started with EkoChat Connect
+## :white\_check\_mark: Get Started with WeBots
 
-EkoChat Connect is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
+WeBots is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
 
-We have built comprehensive documentation for you to quickly get started. EkoChat Connect Platform is primarily divided into the following sections.
+We have built comprehensive documentation for you to quickly get started. WeBots Platform is primarily divided into the following sections.
 
-1. Start with EkoChat Connect - Get started
+1. Start with WeBots - Get started
 2. Bot Management - To create, edit, manage, configure and integrate bots.
 3. Inbox - To manage all customer interactions with the Bot.
 4. Team- To manage your team.
@@ -22,16 +22,16 @@ We have built comprehensive documentation for you to quickly get started. EkoCha
 
 You can get detailed know-how by navigating to the below section.
 
-{% content-ref url="ekochatconnect-resource-center/how-ekochatconnect-works/" %}
-[how-ekochatconnect-works](ekochatconnect-resource-center/how-ekochatconnect-works/)
+{% content-ref url="webots-resource-center/how-webots-works/" %}
+[how-webots-works](webots-resource-center/how-webots-works/)
 {% endcontent-ref %}
 
-{% content-ref url="ekochatconnect-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](ekochatconnect-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="webots-resource-center/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](webots-resource-center/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="ekochatconnect-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](ekochatconnect-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="webots-resource-center/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](webots-resource-center/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

@@ -6,7 +6,7 @@ description: This page contains the API documentation for the adding new WhatsAp
 
 ### Introduction
 
-The **Inbox User Import API** allows you to import WhatsApp contacts into the EkoChat Connect platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+The **Inbox User Import API** allows you to import WhatsApp contacts into the WeBots platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
 
 #### Base URL
 
@@ -59,8 +59,8 @@ curl 'https://api.v7.express-chat.com/inbox/users/import' \
   -H 'Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9...' \
   -H 'Content-Type: application/json' \
   -H 'Accept: */*' \
-  -H 'Origin: https://app.https://help.eko.chat' \
-  -H 'Referer: https://app.https://help.eko.chat/' \
+  -H 'Origin: https://app.webots.online' \
+  -H 'Referer: https://app.webots.online/' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Sec-Fetch-Site: same-site' \
@@ -87,8 +87,8 @@ jsonCopy code{
 
 ### Conclusion
 
-The Inbox User Import API allows you to easily import user profiles into the EkoChat Connect platform. Make sure to follow the authentication and data format guidelines for successful imports.
+The Inbox User Import API allows you to easily import user profiles into the WeBots platform. Make sure to follow the authentication and data format guidelines for successful imports.
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@ekochatconnect.co.za
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@webots.co.za
