@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# MoEngage CRM integration with m1Bot
+# MoEngage CRM integration with m1bot
 
-This documentation provides step-by-step instructions for integrating MoEngage CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to MoEngage CRM.
+This documentation provides step-by-step instructions for integrating MoEngage CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to MoEngage CRM.
 
 ### Use Case
 
@@ -20,7 +20,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between MoEngage CRM and m1Bot:
+Follow these steps to enable the integration between MoEngage CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API URL, APP ID, and DATA API KEY from your MoEngage CRM account. Refer to [this guide](https://developers.moengage.com/hc/en-us/articles/4413167462804-Track-User#h\_01HRVRH0WAW0BHPVKS6WQ9X7HG) for assistance.

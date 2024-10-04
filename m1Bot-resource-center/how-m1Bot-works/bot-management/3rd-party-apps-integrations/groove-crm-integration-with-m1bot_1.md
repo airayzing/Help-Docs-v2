@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Groove CRM integration with m1Bot
+# Groove CRM integration with m1bot
 
-This documentation provides instructions for integrating Groove CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Groove CRM.
+This documentation provides instructions for integrating Groove CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Groove CRM.
 
 ### Use Case
 
@@ -18,7 +18,7 @@ Before enabling the integration, ensure you have the following prerequisite:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Groove CRM and m1Bot:
+Follow these steps to enable the integration between Groove CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token from your Groove CRM account. Refer to for assistance. [https://www.groovehq.com/docs](https://www.groovehq.com/docs)

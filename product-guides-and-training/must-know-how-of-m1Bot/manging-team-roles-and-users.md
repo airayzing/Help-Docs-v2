@@ -7,24 +7,24 @@ description: >-
 # 👨‍💼 Manging team roles & Users
 
 {% hint style="info" %}
-Please note: Only the King (Paid) plan have the feature of having more than one team member (i.e. three), if you need more than that, Please request the m1Bot support team for the same.
+Please note: Only the King (Paid) plan have the feature of having more than one team member (i.e. three), if you need more than that, Please request the m1bot support team for the same.
 {% endhint %}
 
 ## User & Roles
 
 Here are brief definitions of users and Roles.
 
-**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in m1Bot help streamline collaboration and access control in the chatbot building and management process.
+**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in m1bot help streamline collaboration and access control in the chatbot building and management process.
 
 **Team Roles** are the module-based permission (such as view, edit, None) for any roles that can be assigned to different team members.
 
 ## Manage Roles & Users
 
-In m1Bot, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
+In m1bot, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
 
-#### **Step 1: Access the** m1Bot **Dashboard**
+#### **Step 1: Access the** m1bot **Dashboard**
 
-* Log in to your m1Bot account and access the dashboard.
+* Log in to your m1bot account and access the dashboard.
 
 #### **Step 2: Navigate to the "Team" Section**
 
@@ -39,7 +39,7 @@ In m1Bot, you can efficiently manage team roles and users to streamline access a
 * Set up the role by providing the following details:
   * **Name**: Assign a name for the new role.
   * **Description**: Add a brief description for reference.
-  * **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the m1Bot platform.
+  * **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the m1bot platform.
 
 #### **Step 5: Save the Role**
 
@@ -61,10 +61,10 @@ In m1Bot, you can efficiently manage team roles and users to streamline access a
 
 #### **Step 8: Create User**
 
-* Click "Create User" to add the new team member to your m1Bot account.
+* Click "Create User" to add the new team member to your m1bot account.
 
 #### **Step 9: Manage Users and Roles**
 
 * You can manage, edit, delete, or bulk delete users and roles from the same page, allowing you to fine-tune your team's access and permissions.
 
-And there you have it! You've successfully created a new role and added a new user to your m1Bot account. This streamlined management process helps you control access and permissions effectively.
+And there you have it! You've successfully created a new role and added a new user to your m1bot account. This streamlined management process helps you control access and permissions effectively.

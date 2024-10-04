@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# ExtraaEdge integration with m1Bot
+# ExtraaEdge integration with m1bot
 
-To integrate m1Bot with ExtraaEdge, follow these steps:
+To integrate m1bot with ExtraaEdge, follow these steps:
 
 ## Use case
 

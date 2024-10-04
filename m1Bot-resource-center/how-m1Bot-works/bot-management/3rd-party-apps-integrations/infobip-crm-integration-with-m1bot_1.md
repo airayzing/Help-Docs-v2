@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Infobip CRM integration with m1Bot
+# Infobip CRM integration with m1bot
 
 ### Use Case
 
-This integration facilitates the transfer of lead details such as Name, Email, and Phone from your m1Bot platform to the Infobip CRM.
+This integration facilitates the transfer of lead details such as Name, Email, and Phone from your m1bot platform to the Infobip CRM.
 
 ### Pre-requisite
 

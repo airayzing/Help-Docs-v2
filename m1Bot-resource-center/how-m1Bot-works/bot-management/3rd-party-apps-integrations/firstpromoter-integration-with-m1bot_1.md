@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# FirstPromoter integration with m1Bot
+# FirstPromoter integration with m1bot
 
 ### Use Case
 

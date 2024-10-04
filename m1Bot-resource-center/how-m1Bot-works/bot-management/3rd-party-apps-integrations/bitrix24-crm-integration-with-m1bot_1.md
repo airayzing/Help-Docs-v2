@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Bitrix24 CRM Integration with m1Bot
+# Bitrix24 CRM Integration with m1bot
 
 ## Use Case
 
-This integration enables the transfer of lead details such as Name, Email, and Phone from your m1Bot platform to the Bitrix24 CRM.
+This integration enables the transfer of lead details such as Name, Email, and Phone from your m1bot platform to the Bitrix24 CRM.
 
 ## Pre-requisite
 

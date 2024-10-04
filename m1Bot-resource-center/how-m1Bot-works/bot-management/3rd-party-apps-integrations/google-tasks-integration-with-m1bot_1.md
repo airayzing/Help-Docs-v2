@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Google Tasks integration with m1Bot
+# Google Tasks integration with m1bot
 
-### Google Tasks Integration with m1Bot
+### Google Tasks Integration with m1bot
 
 ### Use Case
 

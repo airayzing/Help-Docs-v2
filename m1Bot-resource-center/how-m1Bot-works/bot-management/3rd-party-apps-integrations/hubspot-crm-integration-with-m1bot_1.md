@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Hubspot CRM integration with m1Bot
+# Hubspot CRM integration with m1bot
 
-This documentation provides instructions for integrating HubSpot CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to HubSpot CRM.
+This documentation provides instructions for integrating HubSpot CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to HubSpot CRM.
 
 ### Use Case
 
@@ -18,7 +18,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between HubSpot CRM and m1Bot:
+Follow these steps to enable the integration between HubSpot CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token from your HubSpot account. Refer to [this guide](https://knowledge.hubspot.com/integrations/how-do-i-get-my-hubspot-api-key) for assistance.

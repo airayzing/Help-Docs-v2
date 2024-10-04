@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Chakra CRM integration with m1Bot
+# Chakra CRM integration with m1bot
 
-This documentation provides instructions for integrating Chakra CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Chakra CRM.
+This documentation provides instructions for integrating Chakra CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Chakra CRM.
 
 ### Use Case
 
@@ -18,7 +18,7 @@ Before enabling the integration, ensure you have the following prerequisite:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Chakra CRM and m1Bot:
+Follow these steps to enable the integration between Chakra CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token from your Chakra CRM account. Refer to [this guide](https://docs.chakrahq.com/docs/platform/api/api-keys) for assistance.

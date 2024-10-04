@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Wealthbox CRM integration with m1Bot
+# Wealthbox CRM integration with m1bot
 
-## Wealthbox CRM Integration with m1Bot
+## Wealthbox CRM Integration with m1bot
 
-This documentation provides instructions for integrating Wealthbox CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Wealthbox CRM.
+This documentation provides instructions for integrating Wealthbox CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Wealthbox CRM.
 
 ### Use Case
 
@@ -20,7 +20,7 @@ Before enabling the integration, ensure you have the following prerequisite:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Wealthbox CRM and m1Bot:
+Follow these steps to enable the integration between Wealthbox CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary access token from your 3rd party application account. Refer to [this guide](https://www.wealthbox.com/how-to/how-to-create-an-api-token-for-integrations-like-zapier-or-myrepchat/) for assistance.

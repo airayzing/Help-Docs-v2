@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Flowlu integration with m1Bot
+# Flowlu integration with m1bot
 
 ### Use Case
 

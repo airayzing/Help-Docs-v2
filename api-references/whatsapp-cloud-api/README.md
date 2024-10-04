@@ -6,9 +6,9 @@ description: This page contains all the open APIs available for the WhatsApp
 
 ## 1. Create and Sync Templates
 
-The team will be required to create and get the templates approved by the Facebook WhatsApp Business Manager or m1Bot Dashboard. Once It is done,
+The team will be required to create and get the templates approved by the Facebook WhatsApp Business Manager or m1bot Dashboard. Once It is done,
 
-1. Go to m1Bot Panel
+1. Go to m1bot Panel
 2. Navigate to WhatsApp Automation and Then go to the manage section.
 3. Under templates, You will be required to sync templates from Facebook, Once Done, App should use the get Templates API and save the template details. These details will be required to send Notifications.
 
@@ -16,7 +16,7 @@ The team will be required to create and get the templates approved by the Facebo
 
 In order to generate the WhatsApp API key,
 
-1. Go to the m1Bot Dashboard ( [https://m1bot.mark1.ai//](https://app.m1Bot.com/) )
+1. Go to the m1bot Dashboard ( [https://m1bot.mark1.ai//](https://app.m1bot.com/) )
 2. Find your bot and go to `WhatsApp Bot Settings` section.
 3. Under `WhatsApp Bot Settings`, Navigate to the API key and Click on generate an API key.
 4. You will require to update the webhook URL, on which we will send the delivery reports.

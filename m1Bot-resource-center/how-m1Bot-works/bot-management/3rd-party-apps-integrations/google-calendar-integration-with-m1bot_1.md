@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Google Calendar Integration with m1Bot
+# Google Calendar Integration with m1bot
 
 ### Use Case
 

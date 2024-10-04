@@ -1,14 +1,14 @@
 ---
-description: This page contains information on how to get started with m1Bot.
+description: This page contains information on how to get started with m1bot.
 ---
 
-# 📖 Starting with m1Bot
+# 📖 Starting with m1bot
 
-Thank you for starting your digital communication journey with m1Bot. We look forward to being a part of your growth journey.
+Thank you for starting your digital communication journey with m1bot. We look forward to being a part of your growth journey.
 
-### **What is m1Bot?**
+### **What is m1bot?**
 
-m1Bot is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
+m1bot is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
 
 ### Platform Navigation
 
@@ -16,7 +16,7 @@ As soon as you login to the platform, you will see a dashboard like below image.
 
 <figure><img src="../../.gitbook/assets/1 – 1.png" alt=""><figcaption></figcaption></figure>
 
-m1Bot will always greet you with warmth and excitement.
+m1bot will always greet you with warmth and excitement.
 
 #### Insights & Bots
 
@@ -45,6 +45,6 @@ Clicking on our friendly logo, you can hide or view the panel. It is the hub for
 
 **Back to home**
 
-Now, once you have made friends with m1Bot, let’s get down to business.
+Now, once you have made friends with m1bot, let’s get down to business.
 
 Click on create a new bot, and you will have many options. Choose where you want to enhance your customer experience. If you feel ready to enter the world of brimming possibilities, start building a whatsapp chatbot.

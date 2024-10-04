@@ -1,14 +1,14 @@
 ---
 description: >-
   This page contains the Information on how can you send WhatsApp Notifications
-  from your platform using the m1Bot APIs
+  from your platform using the m1bot APIs
 ---
 
-# 📨 Send WhatsApp notifications using the m1Bot APIs
+# 📨 Send WhatsApp notifications using the m1bot APIs
 
 Before we start, Let's understand the basic workflow.
 
-To create a notification bot with m1Bot, follow these steps:
+To create a notification bot with m1bot, follow these steps:
 
 **Step 1: Get Your API Key**
 

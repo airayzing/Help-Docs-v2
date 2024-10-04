@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# CalendarHero integration with m1Bot
+# CalendarHero integration with m1bot
 
 ### Use Case
 

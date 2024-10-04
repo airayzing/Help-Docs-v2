@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Onpipeline integration with m1Bot
+# Onpipeline integration with m1bot
 
 ### Use Case
 
-This integration facilitates the transmission of lead details such as Name, Email, and Phone from your m1Bot platform to the Onpipeline CRM.
+This integration facilitates the transmission of lead details such as Name, Email, and Phone from your m1bot platform to the Onpipeline CRM.
 
 ### Pre-requisite
 

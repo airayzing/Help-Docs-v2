@@ -70,4 +70,4 @@ This document will guide you through the step-by-step process of adding and veri
 
 Congratulations! Once you have successfully verified the code, your WhatsApp number is now verified and added to your Meta Developer Dashboard. You can now use this number for WhatsApp services within your application or business.
 
-Please note that the process of adding and verifying the WhatsApp number may vary based on any updates or changes in the Meta Developer Dashboard. If you encounter any difficulties or issues during the process, please refer to the official Meta documentation or reach out to m1Bot support team for further assistance.
+Please note that the process of adding and verifying the WhatsApp number may vary based on any updates or changes in the Meta Developer Dashboard. If you encounter any difficulties or issues during the process, please refer to the official Meta documentation or reach out to m1bot support team for further assistance.

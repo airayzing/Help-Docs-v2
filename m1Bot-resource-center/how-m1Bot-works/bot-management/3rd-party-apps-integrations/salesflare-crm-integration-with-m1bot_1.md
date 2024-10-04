@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Salesflare CRM integration with m1Bot
+# Salesflare CRM integration with m1bot
 
-This documentation provides instructions for integrating Salesflare CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Salesflare CRM.
+This documentation provides instructions for integrating Salesflare CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Salesflare CRM.
 
 ### Use Case
 
@@ -18,7 +18,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Salesflare CRM and m1Bot:
+Follow these steps to enable the integration between Salesflare CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API key from your Salesflare CRM account. Refer to [this guide](https://howto.salesflare.com/en/articles/1017460-do-you-have-an-api) for assistance.

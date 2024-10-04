@@ -6,7 +6,7 @@ description: This page contains the API documentation for the adding new WhatsAp
 
 ### Introduction
 
-The **Inbox User Import API** allows you to import WhatsApp contacts into the m1Bot platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+The **Inbox User Import API** allows you to import WhatsApp contacts into the m1bot platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
 
 #### Base URL
 
@@ -87,8 +87,8 @@ jsonCopy code{
 
 ### Conclusion
 
-The Inbox User Import API allows you to easily import user profiles into the m1Bot platform. Make sure to follow the authentication and data format guidelines for successful imports.
+The Inbox User Import API allows you to easily import user profiles into the m1bot platform. Make sure to follow the authentication and data format guidelines for successful imports.
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@m1Bot.co.za
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@m1bot.co.za

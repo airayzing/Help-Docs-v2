@@ -27,8 +27,8 @@ Failing to follow these guidelines may result in the issue you are facing.
 
 It may occur due to the following reasons:
 
-1. You already have an account on m1Bot
-2. The email address you entered is invalid or has been blocked by m1Bot
+1. You already have an account on m1bot
+2. The email address you entered is invalid or has been blocked by m1bot
 
 </details>
 
@@ -73,7 +73,7 @@ It is happening probably because of the below reasons:
 Your bot may not appear due to the following reasons
 
 1. You have exceeded your message limit on your plan
-2. You have disabled your bot in the country, IP, region, the website you want to access m1Bot.
+2. You have disabled your bot in the country, IP, region, the website you want to access m1bot.
 3. There might be some typo in the script that you used to install the chat widget.
 4. You have not installed the script in the right location, i.e., is the head tag.
 
@@ -88,7 +88,7 @@ It may occur due to the following reasons:
 1. Authentication credentials such as Auth Token or API key entered incorrectly or have expired, So try reconnecting the CRM.
 2. Make sure that your CRM account is working fine.
 3. Make sure all the parameters fields are mapped correctly
-4. Make sure you have a paid subscription to m1Bot, and that You have not exhausted your message limit.
+4. Make sure you have a paid subscription to m1bot, and that You have not exhausted your message limit.
 
 </details>
 
@@ -144,7 +144,7 @@ Currently, Analytics does not count any messages from Facebook, WhatsApp, or Tel
 
 <summary><strong>I am unable to add anything after three team members</strong></summary>
 
-In the paid plan for m1Bot, There is a Limit of 3 team members. Suppose you want to add more than three members. You can contact us to set up more than three team members at an additional cost.
+In the paid plan for m1bot, There is a Limit of 3 team members. Suppose you want to add more than three members. You can contact us to set up more than three team members at an additional cost.
 
 </details>
 
@@ -171,7 +171,7 @@ This feature is only available to users with a King plan subscription and above.
 Due to security reasons, a payment link is only available for a specific period.
 
 1. If your payment link has expired, you must retry payment again by creating a new one from the payment gateway.
-2. If your money is deducted and the transaction has failed, it usually returns in three business days. If not, please contact us at production@m1Bot.co.za
+2. If your money is deducted and the transaction has failed, it usually returns in three business days. If not, please contact us at production@m1bot.co.za
 
 </details>
 

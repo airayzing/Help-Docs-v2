@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Zendesk CRM integration with m1Bot
+# Zendesk CRM integration with m1bot
 
-## Zendesk CRM Integration with m1Bot
+## Zendesk CRM Integration with m1bot
 
-This documentation provides instructions for integrating Zendesk CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Zendesk CRM.
+This documentation provides instructions for integrating Zendesk CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Zendesk CRM.
 
 ### Use Case
 
@@ -22,7 +22,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Zendesk CRM and m1Bot:
+Follow these steps to enable the integration between Zendesk CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token and API URL from your Zendesk CRM account. Refer to [this guide](https://support.zendesk.com/hc/en-us/articles/4408889192858-Managing-access-to-the-Zendesk-API) for assistance.

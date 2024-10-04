@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Autopilot CRM integration with m1Bot
+# Autopilot CRM integration with m1bot
 
-## Autopilot CRM Integration with m1Bot
+## Autopilot CRM Integration with m1bot
 
-This documentation provides instructions for integrating Autopilot CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Autopilot CRM.
+This documentation provides instructions for integrating Autopilot CRM with m1bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Autopilot CRM.
 
 ### Use Case
 
@@ -20,7 +20,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Autopilot CRM and m1Bot:
+Follow these steps to enable the integration between Autopilot CRM and m1bot:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token from your Autopilot CRM account. Refer to [this guide](https://autopilot.docs.apiary.io/#reference/authentication) for assistance.

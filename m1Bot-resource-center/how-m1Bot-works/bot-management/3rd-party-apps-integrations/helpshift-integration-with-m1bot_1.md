@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# HelpShift integration with m1Bot
+# HelpShift integration with m1bot
 
 ### Use Case
 
-This integration allows you to transfer lead details such as Name, Email, and Phone from your m1Bot platform to HelpShift.
+This integration allows you to transfer lead details such as Name, Email, and Phone from your m1bot platform to HelpShift.
 
 ### Pre-requisite
 

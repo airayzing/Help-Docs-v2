@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Frontapp integration with m1Bot
+# Frontapp integration with m1bot
 
 ### Use Case
 

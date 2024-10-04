@@ -30,11 +30,11 @@ Here is the flow for using the APIs in the Chatflows
 
 ## Using APIs in the Chatflows
 
-To seamlessly integrate APIs into your chat flows in m1Bot, follow these steps:
+To seamlessly integrate APIs into your chat flows in m1bot, follow these steps:
 
-#### **Step 1: Access the** m1Bot **Dashboard**
+#### **Step 1: Access the** m1bot **Dashboard**
 
-* Log in to your m1Bot account and access the dashboard.
+* Log in to your m1bot account and access the dashboard.
 
 #### **Step 2: Navigate to the Developers Section**
 
@@ -56,7 +56,7 @@ To seamlessly integrate APIs into your chat flows in m1Bot, follow these steps:
 #### **Step 5: Configure Your API**
 
 * Under "Configure APIs," set the following details. The structure is similar to Postman for testing APIs:
-  * **API Name**: This is the display name for the API, used for better readability within m1Bot.
+  * **API Name**: This is the display name for the API, used for better readability within m1bot.
   * **API Method**: Specify the HTTP method (e.g., GET, POST, PUT).
   * **Enter API URL**: Provide the URL for the API you intend to call.
   * **Query Parameters**: Add any required query parameters.
@@ -69,11 +69,11 @@ Note: If you want to insert custom variables within the API, use "/" as a placeh
 
 #### **Step 6: Test the API**
 
-* Proceed to "Manage API Response" and click on "Test" the API with actual values. This will help m1Bot understand the API response structure.
+* Proceed to "Manage API Response" and click on "Test" the API with actual values. This will help m1bot understand the API response structure.
 
 #### **Step 7: Map API Response to Custom Attributes**
 
-* In the "Manage API Response" tab, you can map the API response variables to your m1Bot custom attributes.
+* In the "Manage API Response" tab, you can map the API response variables to your m1bot custom attributes.
 
 #### **Step 8: Replace Actual Values**
 
