@@ -55,6 +55,6 @@ A new team member can log in with their assigned credentials on m1Bot. You can a
 1. Navigate To Team Tab
 2. Click On Add Team Member To Add A New Member
 3. Fill Out The Name, Email, and Password Of You New Team Member. You can also add their photograph and WhatsApp Number.
-4. For example, A New Team member here will log in on m1bot.mark1 from their email address xyz@gmail.com and the password above.
+4. For example, A New Team member here will log in on https://m1bot.mark1.ai from their email address xyz@gmail.com and the password above.
 
 </details>
