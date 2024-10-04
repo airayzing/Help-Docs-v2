@@ -2,28 +2,31 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Helpcrunch CRM integration with m1Bot
+# Freshdesk CRM integration with m1Bot
 
-This documentation provides step-by-step instructions for integrating Helpcrunch CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Helpcrunch CRM.
+## Freshdesk CRM Integration with m1Bot
+
+This documentation provides step-by-step instructions for integrating Freshdesk CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Freshdesk CRM.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your chatbot to Helpcrunch CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your chatbot to Freshdesk CRM, streamlining your lead management process.
 
 ### Prerequisites
 
 Before enabling the integration, ensure you have the following prerequisites:
 
-* **API Key**: Obtain an API key from your Helpcrunch CRM account.
+* **Freshdesk Domain**: Obtain the domain for your Freshdesk CRM account.
+* **API Token**: Obtain the API Token from your Freshdesk CRM account.
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Helpcrunch CRM and m1Bot:
+Follow these steps to enable the integration between Freshdesk CRM and m1Bot:
 
 1. **Get the Required 3rd Party Data**:
-   * Obtain the necessary API key from your Helpcrunch CRM account. Refer to [this guide](https://docs.helpcrunch.com/en/rest-api-v1/api-setup-v1) for assistance.
+   * Obtain the necessary API Token from your Freshdesk CRM account. Refer to [the Freshdesk API documentation](https://developer.freshdesk.com/api/v1/#introduction) for assistance.
 2. **Authenticate Your Account**:
-   * Enter the required API key in the provided field.
+   * Enter the required Freshdesk Domain and API Token in the provided fields.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
    * Once Authenticated, you'll see the screen where you can map the chatbot’s answers by end user to the fields of the target 3rd party system.
@@ -52,4 +55,4 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:support@example.com).
+For further assistance, please contact [support team](mailto:m1bot.support@mark1.ai).

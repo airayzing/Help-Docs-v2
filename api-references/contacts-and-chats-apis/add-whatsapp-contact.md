@@ -59,8 +59,8 @@ curl 'https://api.v7.express-chat.com/inbox/users/import' \
   -H 'Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9...' \
   -H 'Content-Type: application/json' \
   -H 'Accept: */*' \
-  -H 'Origin: https://app.m1Bot.online' \
-  -H 'Referer: https://app.m1Bot.online/' \
+  -H 'Origin: https://m1bot.mark1.ai/' \
+  -H 'Referer: https://m1bot.mark1.ai//' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Sec-Fetch-Site: same-site' \
