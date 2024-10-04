@@ -2,31 +2,31 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Groove CRM integration with m1Bot
+# Chakra CRM integration with m1Bot
 
-This documentation provides instructions for integrating Groove CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Groove CRM.
+This documentation provides instructions for integrating Chakra CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Chakra CRM.
 
 ### Use Case
 
-This integration enables you to efficiently transfer lead details captured by your chatbot to Groove CRM, facilitating streamlined lead management.
+This integration facilitates the transfer of lead details captured by your chatbot to Chakra CRM, streamlining your lead management process.
 
 ### Prerequisites
 
 Before enabling the integration, ensure you have the following prerequisite:
 
-* **API Token**: Obtain an API token from your Groove CRM account.
+* **API Token**: Obtain an API token from your Chakra CRM account.
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Groove CRM and m1Bot:
+Follow these steps to enable the integration between Chakra CRM and m1Bot:
 
 1. **Get the Required 3rd Party Data**:
-   * Obtain the necessary API token from your Groove CRM account. Refer to for assistance. [https://www.groovehq.com/docs](https://www.groovehq.com/docs)
+   * Obtain the necessary API token from your Chakra CRM account. Refer to [this guide](https://docs.chakrahq.com/docs/platform/api/api-keys) for assistance.
 2. **Authenticate Your Account**:
    * Enter the obtained API token in the provided field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * After authentication, you'll be directed to a screen where you can map chatbot responses to Groove CRM fields.
+   * After authentication, you'll be directed to a screen where you can map chatbot responses to Chakra CRM fields.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.
@@ -52,11 +52,11 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:support@example.com).
+For further assistance, please contact [support team](mailto:m1bot.support@mark1.ai).
 
 Use case
 
-Using this Integration you can send you leads details such as Name, email, phone to the Groove CRM
+Using this Integration you can send you leads details such as Name, email, phone to the Chakra CRM
 
 Pre-requisite
 
@@ -64,7 +64,7 @@ Pre-requisite
 
 Steps to enable the integrations
 
-* Get the required 3rd party data from your 3rd party application account. You can use the following link for the same to take help [https://www.groovehq.com/docs](https://www.groovehq.com/docs)
+* Get the required 3rd party data from your 3rd party application account. You can use the following link for the same to take help [https://docs.chakrahq.com/docs/platform/api/api-keys](https://docs.chakrahq.com/docs/platform/api/api-keys)
 * Authenticate your account
   * Enter the required details that you got from above steps
   * Proceed to authenticate your account credentials

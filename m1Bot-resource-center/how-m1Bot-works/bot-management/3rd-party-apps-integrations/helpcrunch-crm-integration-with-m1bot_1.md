@@ -2,30 +2,28 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# MoEngage CRM integration with m1Bot
+# Helpcrunch CRM integration with m1Bot
 
-This documentation provides step-by-step instructions for integrating MoEngage CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to MoEngage CRM.
+This documentation provides step-by-step instructions for integrating Helpcrunch CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Helpcrunch CRM.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your chatbot to MoEngage CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your chatbot to Helpcrunch CRM, streamlining your lead management process.
 
 ### Prerequisites
 
 Before enabling the integration, ensure you have the following prerequisites:
 
-* **API URL**: Obtain the API URL from your MoEngage CRM account.
-* **APP ID**: Obtain the APP ID from your MoEngage CRM account.
-* **DATA API KEY**: Obtain the DATA API KEY from your MoEngage CRM account.
+* **API Key**: Obtain an API key from your Helpcrunch CRM account.
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between MoEngage CRM and m1Bot:
+Follow these steps to enable the integration between Helpcrunch CRM and m1Bot:
 
 1. **Get the Required 3rd Party Data**:
-   * Obtain the necessary API URL, APP ID, and DATA API KEY from your MoEngage CRM account. Refer to [this guide](https://developers.moengage.com/hc/en-us/articles/4413167462804-Track-User#h\_01HRVRH0WAW0BHPVKS6WQ9X7HG) for assistance.
+   * Obtain the necessary API key from your Helpcrunch CRM account. Refer to [this guide](https://docs.helpcrunch.com/en/rest-api-v1/api-setup-v1) for assistance.
 2. **Authenticate Your Account**:
-   * Enter the required API URL, APP ID, and DATA API KEY in the provided fields.
+   * Enter the required API key in the provided field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
    * Once Authenticated, you'll see the screen where you can map the chatbot’s answers by end user to the fields of the target 3rd party system.
@@ -54,4 +52,4 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:support@example.com).
+For further assistance, please contact [support team](mailto:m1bot.support@mark1.ai).
