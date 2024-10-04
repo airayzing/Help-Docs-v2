@@ -36,4 +36,8 @@ This document will guide you through the step-by-step process of copying essenti
 
 Congratulations! You have successfully copied the essential details from the Meta Developer Dashboard, including the "Phone number ID," "WhatsApp Business Account ID" (WABA ID), and "System User Token." These details are crucial for integrating and using WhatsApp services within your application or business.
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/getting-all-the-necessary-details-from-meta-developer-dashboard.md
 Please ensure to keep these details secure and do not share them with unauthorized parties. If you encounter any difficulties or have further questions regarding the Meta Developer Dashboard, please refer to the official Meta documentation or contact m1bot support team for assistance.
+========
+Please ensure to keep these details secure and do not share them with unauthorized parties. If you encounter any difficulties or have further questions regarding the Meta Developer Dashboard, please refer to the official Meta documentation or contact EkoChat Connect support team for assistance.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/getting-all-the-necessary-details-from-meta-developer-dashboard.md

@@ -97,7 +97,11 @@ curl --location 'https://api.v7.express-chat.com/whatsapp-automation/wa/send-mes
 
 {% code overflow="wrap" %}
 ```
+<<<<<<< HEAD
 curl --location '<https://api.v7.m1bot.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
+=======
+curl --location '<https://api.v7.EkoChat Connect.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
 --header 'apiKey: *API KEY*' \\\\
 --header 'Content-Type: application/json' \\\\
 --data '{

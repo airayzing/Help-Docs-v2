@@ -1,6 +1,10 @@
 ---
 description: >-
+<<<<<<<< HEAD:m1Bot-resource-center/frequently-asked-questions-faqs/chatgpt-faqs.md
   Find the answers to the most asked questions about m1bot's integration
+========
+  Find the answers to the most asked questions about EkoChat Connect's integration
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/frequently-asked-questions-faqs/chatgpt-faqs.md
   with ChatGPT
 ---
 
@@ -8,9 +12,15 @@ description: >-
 
 <details>
 
+<<<<<<<< HEAD:m1Bot-resource-center/frequently-asked-questions-faqs/chatgpt-faqs.md
 <summary>Can I train m1bot chatbots on my own data with ChatGPT?</summary>
 
 Yes, m1bot state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
+========
+<summary>Can I train EkoChat Connect chatbots on my own data with ChatGPT?</summary>
+
+Yes, EkoChat Connect state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/frequently-asked-questions-faqs/chatgpt-faqs.md
 
 </details>
 

@@ -14,17 +14,29 @@ Please note: How many team member you can add in your account depends on your pl
 
 Here are brief definitions of users and Roles.
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/teams.md
 **Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in m1bot help streamline collaboration and access control in the chatbot building and management process.
+========
+**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in EkoChat Connect help streamline collaboration and access control in the chatbot building and management process.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/teams.md
 
 **Team Roles** are the module-based permission (such as view, edit, None) for any roles that can be assigned to different team members.
 
 ## Manage Roles & Users
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/teams.md
 In m1bot, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
 
 #### **Step 1: Access the** m1bot **Dashboard**
 
 * Log in to your m1bot account and access the dashboard.
+========
+In EkoChat Connect, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
+
+#### **Step 1: Access the** EkoChat Connect **Dashboard**
+
+* Log in to your EkoChat Connect account and access the dashboard.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/teams.md
 
 #### **Step 2: Navigate to the "Team" Section**
 
@@ -44,7 +56,11 @@ In m1bot, you can efficiently manage team roles and users to streamline access a
 * Set up the role by providing the following details:
   * **Name**: Assign a name for the new role.
   * **Description**: Add a brief description for reference.
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/teams.md
   *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the m1bot platform.\
+========
+  *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the EkoChat Connect platform.\
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/teams.md
       \
       \
 
@@ -75,10 +91,18 @@ In m1bot, you can efficiently manage team roles and users to streamline access a
 
 #### **Step 8: Create User**
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/teams.md
 * Click "Create User" to add the new team member to your m1bot account.
+========
+* Click "Create User" to add the new team member to your EkoChat Connect account.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/teams.md
 
 #### **Step 9: Manage Users and Roles**
 
 * You can manage, edit, delete, or bulk delete users and roles from the same page, allowing you to fine-tune your team's access and permissions.
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/teams.md
 And there you have it! You've successfully created a new role and added a new user to your m1bot account. This streamlined management process helps you control access and permissions effectively.
+========
+And there you have it! You've successfully created a new role and added a new user to your EkoChat Connect account. This streamlined management process helps you control access and permissions effectively.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/teams.md

@@ -32,4 +32,8 @@ Groups are an invaluable tool for executing marketing broadcast campaigns effici
    * Once filters are applied, proceed with the creation process.
    * Your new group will be created and ready for use in your marketing campaigns.
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/inbox/creating-segments.md
 That's it! You're now equipped to effectively manage your groups within the m1bot application. Should you have any further questions or need assistance, please don't hesitate to contact our support team.
+========
+That's it! You're now equipped to effectively manage your groups within the EkoChat Connect application. Should you have any further questions or need assistance, please don't hesitate to contact our support team.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/inbox/creating-segments.md

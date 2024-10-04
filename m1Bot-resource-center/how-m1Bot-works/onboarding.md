@@ -1,4 +1,5 @@
 ---
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/onboarding.md
 description: This page contains information on how to get started with m1bot.
 ---
 
@@ -9,6 +10,18 @@ Thank you for starting your digital communication journey with m1bot. We look fo
 ### **What is m1bot?**
 
 m1bot is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
+========
+description: This page contains information on how to get started with EkoChat Connect.
+---
+
+# 📖 Starting with EkoChat Connect
+
+Thank you for starting your digital communication journey with EkoChat Connect. We look forward to being a part of your growth journey.
+
+### **What is EkoChat Connect?**
+
+EkoChat Connect is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/onboarding.md
 
 ### Platform Navigation
 
@@ -16,7 +29,11 @@ As soon as you login to the platform, you will see a dashboard like below image.
 
 <figure><img src="../../.gitbook/assets/1 – 1.png" alt=""><figcaption></figcaption></figure>
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/onboarding.md
 m1bot will always greet you with warmth and excitement.
+========
+EkoChat Connect will always greet you with warmth and excitement.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/onboarding.md
 
 #### Insights & Bots
 
@@ -45,6 +62,10 @@ Clicking on our friendly logo, you can hide or view the panel. It is the hub for
 
 **Back to home**
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/onboarding.md
 Now, once you have made friends with m1bot, let’s get down to business.
+========
+Now, once you have made friends with EkoChat Connect, let’s get down to business.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/onboarding.md
 
 Click on create a new bot, and you will have many options. Choose where you want to enhance your customer experience. If you feel ready to enter the world of brimming possibilities, start building a whatsapp chatbot.

@@ -4,11 +4,19 @@ description: This page contains the information on managing your subscriptions.
 
 # 📖 Subscriptions
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/subscriptions.md
 To manage your m1bot subscription effectively, you can access the subscription panel from the side panel. This panel offers various tabs to help you navigate and control your subscription details:
 
 ### **Accessing the Subscription Panel**
 
 1. Navigate to the m1bot application and locate the side panel.
+========
+To manage your EkoChat Connect subscription effectively, you can access the subscription panel from the side panel. This panel offers various tabs to help you navigate and control your subscription details:
+
+### **Accessing the Subscription Panel**
+
+1. Navigate to the EkoChat Connect application and locate the side panel.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/subscriptions.md
 2. Click on the "Subscription" option to open the subscription panel.
 
 ### **Subscription Panel Tabs**
@@ -71,4 +79,8 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 2. You'll see a list of all your invoices.
 3. Click on the "download" icon to download any invoice for your records.
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/subscriptions.md
 That's it! You're now equipped to efficiently manage your m1bot subscription using the subscription panel. If you have any further questions or need assistance, feel free to contact our support team.
+========
+That's it! You're now equipped to efficiently manage your EkoChat Connect subscription using the subscription panel. If you have any further questions or need assistance, feel free to contact our support team.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/subscriptions.md

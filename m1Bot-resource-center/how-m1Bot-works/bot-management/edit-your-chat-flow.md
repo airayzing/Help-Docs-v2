@@ -8,13 +8,21 @@ description: >-
 
 ## **Overview**
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/edit-your-chat-flow.md
 A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the m1bot platform.
+========
+A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the EkoChat Connect platform.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/edit-your-chat-flow.md
 
 ## **Accessing Chatbot Builder**
 
 To customize your chatbot's flow, follow these steps:
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/edit-your-chat-flow.md
 * Navigate to the bot menu or homepage on the m1bot portal.
+========
+* Navigate to the bot menu or homepage on the EkoChat Connect portal.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/edit-your-chat-flow.md
 * Select your chatbot to open the chatbot builder.
 *   Click on "Edit your chat flow" to access the chatbot builder.\
     \
@@ -67,6 +75,10 @@ To conclude the chat flow:
 
 ## **Need Further Assistance?**
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/edit-your-chat-flow.md
 If you encounter any issues or need assistance, please contact us at [production@m1bot.co.za](mailto:production@m1bot.co.za). We will respond within 48 business hours.
+========
+If you encounter any issues or need assistance, please contact us at [enquiries@https://help.eko.chat](mailto:enquiries@https://help.eko.chat). We will respond within 48 business hours.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/edit-your-chat-flow.md
 
 That's it! You're now equipped to customize your chatbot's flow and engage users effectively.

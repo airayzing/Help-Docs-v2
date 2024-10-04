@@ -40,7 +40,11 @@ The phone number quality rating is a measure of your phone number's reliability 
 
 <summary><strong>How to add a new WhatsApp template?</strong></summary>
 
+<<<<<<<< HEAD:m1Bot-resource-center/frequently-asked-questions-faqs/whatsapp-faqs.md
 You can create templates either from the WhatsApp Meta Manager or using the m1bot template tab.
+========
+You can create templates either from the WhatsApp Meta Manager or using the EkoChat Connect template tab.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/frequently-asked-questions-faqs/whatsapp-faqs.md
 
 </details>
 
@@ -64,7 +68,11 @@ We do not charge anything on top of Meta conversation charges; you pay the Whats
 
 <summary>Is there any message limit?</summary>
 
+<<<<<<<< HEAD:m1Bot-resource-center/frequently-asked-questions-faqs/whatsapp-faqs.md
 No, all charges are conversations based. m1bot platform pricing is based on the plan of conversations you choose.
+========
+No, all charges are conversations based. EkoChat Connect platform pricing is based on the plan of conversations you choose.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/frequently-asked-questions-faqs/whatsapp-faqs.md
 
 </details>
 

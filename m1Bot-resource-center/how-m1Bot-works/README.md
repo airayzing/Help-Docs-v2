@@ -4,9 +4,15 @@ description: >-
   engagement
 ---
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/README.md
 # 🏃‍♂️ How m1bot works?
 
 We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of m1bot.
+========
+# 🏃‍♂️ How EkoChat Connect works?
+
+We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of EkoChat Connect.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/README.md
 
 {% content-ref url="bot-management/" %}
 [bot-management](bot-management/)

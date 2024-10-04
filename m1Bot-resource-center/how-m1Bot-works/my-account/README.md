@@ -6,7 +6,11 @@ description: This page contains information on basic account settings.
 
 ### Manage your account details
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/my-account/README.md
 To edit your account details on m1bot platform:
+========
+To edit your account details on EkoChat Connect platform:
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/my-account/README.md
 
 1.  Navigate to the "Details" section under "My Account".\
 

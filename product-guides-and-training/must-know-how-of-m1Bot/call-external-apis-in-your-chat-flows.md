@@ -30,11 +30,19 @@ Here is the flow for using the APIs in the Chatflows
 
 ## Using APIs in the Chatflows
 
+<<<<<<<< HEAD:product-guides-and-training/must-know-how-of-m1Bot/call-external-apis-in-your-chat-flows.md
 To seamlessly integrate APIs into your chat flows in m1bot, follow these steps:
 
 #### **Step 1: Access the** m1bot **Dashboard**
 
 * Log in to your m1bot account and access the dashboard.
+========
+To seamlessly integrate APIs into your chat flows in EkoChat Connect, follow these steps:
+
+#### **Step 1: Access the** EkoChat Connect **Dashboard**
+
+* Log in to your EkoChat Connect account and access the dashboard.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:product-guides-and-training/must-know-how-of-ekochatconnect/call-external-apis-in-your-chat-flows.md
 
 #### **Step 2: Navigate to the Developers Section**
 
@@ -56,7 +64,11 @@ To seamlessly integrate APIs into your chat flows in m1bot, follow these steps:
 #### **Step 5: Configure Your API**
 
 * Under "Configure APIs," set the following details. The structure is similar to Postman for testing APIs:
+<<<<<<<< HEAD:product-guides-and-training/must-know-how-of-m1Bot/call-external-apis-in-your-chat-flows.md
   * **API Name**: This is the display name for the API, used for better readability within m1bot.
+========
+  * **API Name**: This is the display name for the API, used for better readability within EkoChat Connect.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:product-guides-and-training/must-know-how-of-ekochatconnect/call-external-apis-in-your-chat-flows.md
   * **API Method**: Specify the HTTP method (e.g., GET, POST, PUT).
   * **Enter API URL**: Provide the URL for the API you intend to call.
   * **Query Parameters**: Add any required query parameters.
@@ -69,11 +81,19 @@ Note: If you want to insert custom variables within the API, use "/" as a placeh
 
 #### **Step 6: Test the API**
 
+<<<<<<<< HEAD:product-guides-and-training/must-know-how-of-m1Bot/call-external-apis-in-your-chat-flows.md
 * Proceed to "Manage API Response" and click on "Test" the API with actual values. This will help m1bot understand the API response structure.
 
 #### **Step 7: Map API Response to Custom Attributes**
 
 * In the "Manage API Response" tab, you can map the API response variables to your m1bot custom attributes.
+========
+* Proceed to "Manage API Response" and click on "Test" the API with actual values. This will help EkoChat Connect understand the API response structure.
+
+#### **Step 7: Map API Response to Custom Attributes**
+
+* In the "Manage API Response" tab, you can map the API response variables to your EkoChat Connect custom attributes.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:product-guides-and-training/must-know-how-of-ekochatconnect/call-external-apis-in-your-chat-flows.md
 
 #### **Step 8: Replace Actual Values**
 

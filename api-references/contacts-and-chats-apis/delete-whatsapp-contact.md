@@ -8,7 +8,11 @@ description: >-
 
 ### Update User Status
 
+<<<<<<< HEAD
 This API endpoint allows you to update the status of users in your m1bot application.
+=======
+This API endpoint allows you to update the status of users in your EkoChat Connect application.
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
 
 **Endpoint URL:** `https://api.v7.express-chat.com/inbox/users/status-update`
 
@@ -49,4 +53,8 @@ Please replace `[MASKED_TOKEN]` in the request with your actual API token for ac
 
 ### :question: Got any questions?
 
+<<<<<<< HEAD
 If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@m1bot.co.za
+=======
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@https://help.eko.chat
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923

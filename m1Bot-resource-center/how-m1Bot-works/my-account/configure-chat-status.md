@@ -12,7 +12,11 @@ Status can be assigned to the user chats and contacts for better organising and 
 
 ### **Manage** status
 
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/my-account/configure-chat-status.md
 * Log in to your m1bot account and access the dashboard.
+========
+* Log in to your EkoChat Connect account and access the dashboard.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/my-account/configure-chat-status.md
 * On the side navigation bar, locate and click the "More" button.
 * From the dropdown menu, select "Account Settings."
 * In the Account Settings section, find and click on the "Custom Status" tab.
