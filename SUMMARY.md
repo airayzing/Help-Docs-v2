@@ -13,7 +13,7 @@
         * [✅ Prerequisites for WhatsApp Bots](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/prerequisites-for-whatsapp-bots.md)
         * [🔤 Create a Meta App](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/create-a-meta-app.md)
         * [✔️ Register & Verify your WhatsApp Number](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/register-and-verify-your-whatsapp-number.md)
-        * [🔗 Subscribe WA webhook with m1Bot](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-m1Bot.md)
+        * [🔗 Subscribe WA webhook with m1Bot](m1bot-resource-center/how-m1bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-m1bot.md)
         * [💳 Update WA account Payment Method](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/update-wa-account-payment-method.md)
         * [🦸‍♀️ Assign System User to WhatsApp Account](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/assign-system-user-to-whatsapp-account.md)
         * [📃 Getting all the necessary details from Meta Developer Dashboard](m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/getting-all-the-necessary-details-from-meta-developer-dashboard.md)
