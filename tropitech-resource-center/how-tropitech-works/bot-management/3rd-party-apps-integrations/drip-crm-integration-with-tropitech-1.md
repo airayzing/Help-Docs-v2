@@ -55,4 +55,4 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:tropitech.support@mark1.ai).
+For further assistance, please contact [support team](mailto:ventas@tropitechtechnology.com).
