@@ -4,7 +4,15 @@ description: >-
   WhatsApp account
 ---
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-chatbotworld.md
 # 🔗 Subscribe WA webhook with tropitech
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-m1bot_1.md
+# 🔗 Subscribe WA webhook with m1bot
+========
+# 🔗 Subscribe WA webhook with EkoChat Connect
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-chatbotworld.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-chatbotworld.md
 
 This document will guide you through the step-by-step process of subscribing to a webhook for your WhatsApp account on the Meta dashboard. By following these instructions, you can receive messages and notifications via the webhook.
 
@@ -59,4 +67,12 @@ This document will guide you through the step-by-step process of subscribing to 
 
 Congratulations! You have successfully subscribed to the webhook for your WhatsApp account on the Meta Dashboard. Now, you will be able to receive messages and notifications through the specified webhook URL (`https://api-v7.express-chat.com/whatsapp/cloud`).
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-chatbotworld.md
 Please note that the process of subscribing to webhooks may be subject to changes or updates in the Meta Dashboard. If you encounter any difficulties or issues during the process, refer to the official Meta documentation or contact tropitech support team for further assistance.\
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-m1bot_1.md
+Please note that the process of subscribing to webhooks may be subject to changes or updates in the Meta Dashboard. If you encounter any difficulties or issues during the process, refer to the official Meta documentation or contact m1bot support team for further assistance.\
+========
+Please note that the process of subscribing to webhooks may be subject to changes or updates in the Meta Dashboard. If you encounter any difficulties or issues during the process, refer to the official Meta documentation or contact EkoChat Connect support team for further assistance.\
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-chatbotworld.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/subscribe-wa-webhook-with-chatbotworld.md

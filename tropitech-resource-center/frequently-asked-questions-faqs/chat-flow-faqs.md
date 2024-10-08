@@ -59,6 +59,14 @@ Log in to your account.
 3. You can add an Appointment booking by clicking on the `Add New Component` Button.
 4. After clicking the button, you will see a list of components. Now, choose `Appointment` and configure it according to your needs.
 5. The Appointment component comes with various options to configure. You can choose the date, day, time, and slot interval.
+<<<<<<< HEAD:tropitech-resource-center/frequently-asked-questions-faqs/chat-flow-faqs.md
 6. You can integrate your google calendar to track all appointments within tropitech and avoid double bookings.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/frequently-asked-questions-faqs/chat-flow-faqs.md
+6. You can integrate your google calendar to track all appointments within m1bot and avoid double bookings.
+========
+6. You can integrate your google calendar to track all appointments within EkoChat Connect and avoid double bookings.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/frequently-asked-questions-faqs/chat-flow-faqs.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/frequently-asked-questions-faqs/chat-flow-faqs.md
 
 </details>

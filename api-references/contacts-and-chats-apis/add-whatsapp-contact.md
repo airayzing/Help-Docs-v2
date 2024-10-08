@@ -6,7 +6,15 @@ description: This page contains the API documentation for the adding new WhatsAp
 
 ### Introduction
 
+<<<<<<< HEAD
 The **Inbox User Import API** allows you to import WhatsApp contacts into the tropitech platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+=======
+<<<<<<< HEAD
+The **Inbox User Import API** allows you to import WhatsApp contacts into the m1bot platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+=======
+The **Inbox User Import API** allows you to import WhatsApp contacts into the EkoChat Connect platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
 
 #### Base URL
 
@@ -59,8 +67,18 @@ curl 'https://api.v7.express-chat.com/inbox/users/import' \
   -H 'Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9...' \
   -H 'Content-Type: application/json' \
   -H 'Accept: */*' \
+<<<<<<< HEAD
   -H 'Origin: https://tropitech.mark1.ai/' \
   -H 'Referer: https://tropitech.mark1.ai//' \
+=======
+<<<<<<< HEAD
+  -H 'Origin: https://m1bot.mark1.ai/' \
+  -H 'Referer: https://m1bot.mark1.ai//' \
+=======
+  -H 'Origin: https://app.https://help.eko.chat' \
+  -H 'Referer: https://app.https://help.eko.chat/' \
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Sec-Fetch-Site: same-site' \
@@ -87,8 +105,24 @@ jsonCopy code{
 
 ### Conclusion
 
+<<<<<<< HEAD
 The Inbox User Import API allows you to easily import user profiles into the tropitech platform. Make sure to follow the authentication and data format guidelines for successful imports.
 
 ### :question: Got any questions?
 
 If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@tropitech.co.za
+=======
+<<<<<<< HEAD
+The Inbox User Import API allows you to easily import user profiles into the m1bot platform. Make sure to follow the authentication and data format guidelines for successful imports.
+
+### :question: Got any questions?
+
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@m1bot.co.za
+=======
+The Inbox User Import API allows you to easily import user profiles into the EkoChat Connect platform. Make sure to follow the authentication and data format guidelines for successful imports.
+
+### :question: Got any questions?
+
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@https://help.eko.chat
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a

@@ -70,4 +70,12 @@ This document will guide you through the step-by-step process of adding and veri
 
 Congratulations! Once you have successfully verified the code, your WhatsApp number is now verified and added to your Meta Developer Dashboard. You can now use this number for WhatsApp services within your application or business.
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/register-and-verify-your-whatsapp-number.md
 Please note that the process of adding and verifying the WhatsApp number may vary based on any updates or changes in the Meta Developer Dashboard. If you encounter any difficulties or issues during the process, please refer to the official Meta documentation or reach out to tropitech support team for further assistance.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/register-and-verify-your-whatsapp-number.md
+Please note that the process of adding and verifying the WhatsApp number may vary based on any updates or changes in the Meta Developer Dashboard. If you encounter any difficulties or issues during the process, please refer to the official Meta documentation or reach out to m1bot support team for further assistance.
+========
+Please note that the process of adding and verifying the WhatsApp number may vary based on any updates or changes in the Meta Developer Dashboard. If you encounter any difficulties or issues during the process, please refer to the official Meta documentation or reach out to EkoChat Connect support team for further assistance.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/register-and-verify-your-whatsapp-number.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/register-and-verify-your-whatsapp-number.md

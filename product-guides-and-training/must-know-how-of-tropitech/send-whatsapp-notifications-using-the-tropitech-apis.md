@@ -1,6 +1,7 @@
 ---
 description: >-
   This page contains the Information on how can you send WhatsApp Notifications
+<<<<<<< HEAD:product-guides-and-training/must-know-how-of-tropitech/send-whatsapp-notifications-using-the-tropitech-apis.md
   from your platform using the tropitech APIs
 ---
 
@@ -9,6 +10,27 @@ description: >-
 Before we start, Let's understand the basic workflow.
 
 To create a notification bot with tropitech, follow these steps:
+=======
+<<<<<<<< HEAD:product-guides-and-training/must-know-how-of-m1Bot/send-whatsapp-notifications-using-the-m1Bot-apis.md
+  from your platform using the m1bot APIs
+---
+
+# 📨 Send WhatsApp notifications using the m1bot APIs
+
+Before we start, Let's understand the basic workflow.
+
+To create a notification bot with m1bot, follow these steps:
+========
+  from your platform using the EkoChat Connect APIs
+---
+
+# 📨 Send WhatsApp notifications using the EkoChat Connect APIs
+
+Before we start, Let's understand the basic workflow.
+
+To create a notification bot with EkoChat Connect, follow these steps:
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:product-guides-and-training/must-know-how-of-ekochatconnect/send-whatsapp-notifications-using-the-ekochatconnect-apis.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:product-guides-and-training/must-know-how-of-m1Bot/send-whatsapp-notifications-using-the-m1Bot-apis.md
 
 **Step 1: Get Your API Key**
 

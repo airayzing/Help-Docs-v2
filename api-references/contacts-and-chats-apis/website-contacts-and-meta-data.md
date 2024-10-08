@@ -6,7 +6,15 @@ description: This section contains the Leads and Chat API references
 
 ## Get the essentials first!
 
+<<<<<<< HEAD
 To use the tropitech APIs, You need to insure that you have following details with you.
+=======
+<<<<<<< HEAD
+To use the m1bot APIs, You need to insure that you have following details with you.
+=======
+To use the EkoChat Connect APIs, You need to insure that you have following details with you.
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
 
 A. **UUID -** You can get the UUID from the local web session storage as show in the image below:
 
@@ -20,7 +28,15 @@ For Chatbot page URL
 ```markup
 // Chatbot Page URL Structure
 
+<<<<<<< HEAD
 https://page.tropitech.online/BotId/CustomerId
+=======
+<<<<<<< HEAD
+https://page.m1bot.online/BotId/CustomerId
+=======
+https://page.https://help.eko.chat/BotId/CustomerId
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
 
 // The first value after .com is the BotId and second value is the CustomerId.
 ```
@@ -30,7 +46,15 @@ For Chatbot Script
 
 <pre class="language-markup" data-overflow="wrap" data-line-numbers><code class="lang-markup"><strong>// Chatbot Script Structure
 </strong>
+<<<<<<< HEAD
 &#x3C;script id="tropitech-messenger-widget" src="https://cdn.tropitech.online/tropitech.js" defer>BotId,CustomerId&#x3C;/script>
+=======
+<<<<<<< HEAD
+&#x3C;script id="m1bot-messenger-widget" src="https://cdn.m1bot.online/m1bot.js" defer>BotId,CustomerId&#x3C;/script>
+=======
+&#x3C;script id="EkoChat Connect-messenger-widget" src="https://cdn.https://help.eko.chat/EkoChat Connect.js" defer>BotId,CustomerId&#x3C;/script>
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
 
 // The first value after defer> is the BotId &#x26; second value is the CustomerId.
 </code></pre>
@@ -43,7 +67,15 @@ Now you are ready to run the POC
 
 Please use the below APIs in order to play with your leads and chat data.
 
+<<<<<<< HEAD
 ### Create a lead in the tropitech
+=======
+<<<<<<< HEAD
+### Create a lead in the m1bot
+=======
+### Create a lead in the EkoChat Connect
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
 
 As soon as any user opens up the Bot, It creates one UUId; pass the same along with the other required details to create and update the lead's details.
 
@@ -145,7 +177,15 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
             "lastMessage": {
                 "at": "2023-02-01T06:00:20.000Z",
                 "by": "bot",
+<<<<<<< HEAD
                 "text": "Welcome to tropitech. I am here to help you."
+=======
+<<<<<<< HEAD
+                "text": "Welcome to m1bot. I am here to help you."
+=======
+                "text": "Welcome to EkoChat Connect. I am here to help you."
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
             },
             "lastSeenAt": "2023-02-01T06:00:21.000Z",
             "profile": {
@@ -210,4 +250,12 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
 
 ### :question: Got any questions?
 
+<<<<<<< HEAD
 If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@tropitech.co.za
+=======
+<<<<<<< HEAD
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at production@m1bot.co.za
+=======
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@https://help.eko.chat
+>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a

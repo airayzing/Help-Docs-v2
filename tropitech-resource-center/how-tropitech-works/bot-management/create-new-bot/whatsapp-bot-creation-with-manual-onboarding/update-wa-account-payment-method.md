@@ -62,4 +62,12 @@ This document will guide you through the step-by-step process of updating the pa
 
 Congratulations! You have successfully updated the payment method on your WhatsApp account using the Meta Developer Dashboard. The new payment method is now set up for your WhatsApp services.
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/update-wa-account-payment-method.md
 Please ensure to keep your payment details secure and up-to-date. If you encounter any difficulties during the process or have further questions regarding payment methods on WhatsApp, please refer to the official Meta documentation or contact tropitech support team for assistance.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/update-wa-account-payment-method.md
+Please ensure to keep your payment details secure and up-to-date. If you encounter any difficulties during the process or have further questions regarding payment methods on WhatsApp, please refer to the official Meta documentation or contact m1bot support team for assistance.
+========
+Please ensure to keep your payment details secure and up-to-date. If you encounter any difficulties during the process or have further questions regarding payment methods on WhatsApp, please refer to the official Meta documentation or contact EkoChat Connect support team for assistance.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/update-wa-account-payment-method.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/update-wa-account-payment-method.md

@@ -1,14 +1,30 @@
 ---
 description: >-
   This page contains information about the custom attributes and how you can use
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/my-account/configure-custom-attribute.md
   them in tropitech
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/my-account/configure-custom-attribute.md
+  them in m1bot
+========
+  them in EkoChat Connect
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/my-account/configure-custom-attribute.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/my-account/configure-custom-attribute.md
 ---
 
 # 📖 Configure Custom Attribute
 
 ## Custom Attributes
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/my-account/configure-custom-attribute.md
 Custom Attributes in tropitech are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/my-account/configure-custom-attribute.md
+Custom Attributes in m1bot are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
+========
+Custom Attributes in EkoChat Connect are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/my-account/configure-custom-attribute.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/my-account/configure-custom-attribute.md
 
 ## Types of Custom Attributes
 
@@ -30,11 +46,27 @@ Custom Attributes can be used for the following use cases
 
 ## Create & Manage Attributes
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/my-account/configure-custom-attribute.md
 Custom attributes in tropitech allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
 
 ### **Step 1: Manage Custom Attributes.**
 
 * Log in to your tropitech account and access the dashboard.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/my-account/configure-custom-attribute.md
+Custom attributes in m1bot allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
+
+### **Step 1: Manage Custom Attributes.**
+
+* Log in to your m1bot account and access the dashboard.
+========
+Custom attributes in EkoChat Connect allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
+
+### **Step 1: Manage Custom Attributes.**
+
+* Log in to your EkoChat Connect account and access the dashboard.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/my-account/configure-custom-attribute.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/my-account/configure-custom-attribute.md
 * On the side navigation bar, locate and click the "More" button.
 * From the dropdown menu, select "Account/Settings."
 *   In the Account/Settings section, find and click on the "Custom Attributes" tab.\

@@ -6,11 +6,27 @@ description: >-
 
 # 📖 WhatsApp Bot Creation with Manual Onboarding
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 This document will guide you through the step-by-step process of creating the tropitech WhatsApp Bot using the WhatsApp Business Cloud API. By following these instructions, you can set up your WhatsApp Bot and integrate it with the tropitech platform.
 
 #### **Step 1:** Check for Pre-requisites
 
 Before you begin, ensure you have the necessary prerequisites in place, such as access to the tropitech platform and a WhatsApp Business Cloud API account.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+This document will guide you through the step-by-step process of creating the m1bot WhatsApp Bot using the WhatsApp Business Cloud API. By following these instructions, you can set up your WhatsApp Bot and integrate it with the m1bot platform.
+
+#### **Step 1:** Check for Pre-requisites
+
+Before you begin, ensure you have the necessary prerequisites in place, such as access to the m1bot platform and a WhatsApp Business Cloud API account.
+========
+This document will guide you through the step-by-step process of creating the EkoChat Connect WhatsApp Bot using the WhatsApp Business Cloud API. By following these instructions, you can set up your WhatsApp Bot and integrate it with the EkoChat Connect platform.
+
+#### **Step 1:** Check for Pre-requisites
+
+Before you begin, ensure you have the necessary prerequisites in place, such as access to the EkoChat Connect platform and a WhatsApp Business Cloud API account.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 
 {% content-ref url="prerequisites-for-whatsapp-bots.md" %}
 [prerequisites-for-whatsapp-bots.md](prerequisites-for-whatsapp-bots.md)
@@ -18,7 +34,15 @@ Before you begin, ensure you have the necessary prerequisites in place, such as 
 
 #### **Step 2:** Create a Meta App
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 1. Begin by creating a Meta App for your WhatsApp Bot on the tropitech platform.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+1. Begin by creating a Meta App for your WhatsApp Bot on the m1bot platform.
+========
+1. Begin by creating a Meta App for your WhatsApp Bot on the EkoChat Connect platform.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 2. Provide the required details and follow the app creation process.
 
 {% content-ref url="create-a-meta-app.md" %}
@@ -34,6 +58,7 @@ Before you begin, ensure you have the necessary prerequisites in place, such as 
 [register-and-verify-your-whatsapp-number.md](register-and-verify-your-whatsapp-number.md)
 {% endcontent-ref %}
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 #### **Step 4:** Subscribe WA Webhook with tropitech
 
 1. Subscribe the WhatsApp (WA) web hook with the tropitech platform.
@@ -41,6 +66,25 @@ Before you begin, ensure you have the necessary prerequisites in place, such as 
 
 {% content-ref url="subscribe-wa-webhook-with-tropitech.md" %}
 [subscribe-wa-webhook-with-tropitech.md](subscribe-wa-webhook-with-tropitech.md)
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+#### **Step 4:** Subscribe WA Webhook with m1bot
+
+1. Subscribe the WhatsApp (WA) web hook with the m1bot platform.
+2. This will enable your WhatsApp Bot to receive messages and interact with users.
+
+{% content-ref url="subscribe-wa-webhook-with-m1bot.md" %}
+[subscribe-wa-webhook-with-m1bot.md](subscribe-wa-webhook-with-m1bot.md)
+========
+#### **Step 4:** Subscribe WA Webhook with EkoChat Connect
+
+1. Subscribe the WhatsApp (WA) web hook with the EkoChat Connect platform.
+2. This will enable your WhatsApp Bot to receive messages and interact with users.
+
+{% content-ref url="subscribe-wa-webhook-with-EkoChat Connect.md" %}
+[subscribe-wa-webhook-with-EkoChat Connect.md](subscribe-wa-webhook-with-EkoChat Connect.md)
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 {% endcontent-ref %}
 
 #### **Step 5:** Update Payment Method to WhatsApp
@@ -63,12 +107,32 @@ In the developer dashboard, update the payment method for your WhatsApp Business
 #### **Step 7:** Get All Necessary Details from Developer Dashboard
 
 1. Access the developer dashboard associated with your WhatsApp Business Cloud API account.
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 2. Retrieve all the necessary details required for integrating with the tropitech platform.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+2. Retrieve all the necessary details required for integrating with the m1bot platform.
+========
+2. Retrieve all the necessary details required for integrating with the EkoChat Connect platform.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 
 {% content-ref url="getting-all-the-necessary-details-from-meta-developer-dashboard.md" %}
 [getting-all-the-necessary-details-from-meta-developer-dashboard.md](getting-all-the-necessary-details-from-meta-developer-dashboard.md)
 {% endcontent-ref %}
 
+<<<<<<< HEAD:tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
 Congratulations! You have successfully created the tropitech WhatsApp Bot using the WhatsApp Business Cloud API and integrated it with the tropitech platform. Your WhatsApp Bot is now ready to interact with users and provide automated responses.
 
 Please note that specific steps and requirements may vary based on updates and changes in the tropitech and WhatsApp Business Cloud API platforms. If you encounter any difficulties during the process or have further questions, please refer to the official documentation of tropitech and WhatsApp Business Cloud API, or contact their support teams for assistance.
+=======
+<<<<<<<< HEAD:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+Congratulations! You have successfully created the m1bot WhatsApp Bot using the WhatsApp Business Cloud API and integrated it with the m1bot platform. Your WhatsApp Bot is now ready to interact with users and provide automated responses.
+
+Please note that specific steps and requirements may vary based on updates and changes in the m1bot and WhatsApp Business Cloud API platforms. If you encounter any difficulties during the process or have further questions, please refer to the official documentation of m1bot and WhatsApp Business Cloud API, or contact their support teams for assistance.
+========
+Congratulations! You have successfully created the EkoChat Connect WhatsApp Bot using the WhatsApp Business Cloud API and integrated it with the EkoChat Connect platform. Your WhatsApp Bot is now ready to interact with users and provide automated responses.
+
+Please note that specific steps and requirements may vary based on updates and changes in the EkoChat Connect and WhatsApp Business Cloud API platforms. If you encounter any difficulties during the process or have further questions, please refer to the official documentation of EkoChat Connect and WhatsApp Business Cloud API, or contact their support teams for assistance.
+>>>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923:ekochatconnect-resource-center/how-ekochatconnect-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
+>>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a:m1Bot-resource-center/how-m1Bot-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md
