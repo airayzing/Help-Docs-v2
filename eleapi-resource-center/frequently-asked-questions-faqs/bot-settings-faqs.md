@@ -26,17 +26,17 @@ After you log in to the EleAPI App, Navigate to the `Bot Setting` under the bot'
 2\. Check if you have subscribed to the desktop notifications or not?\
 3\. If yes, You will see the below confirmation.
 
-<img src="https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(37).png" alt="" data-size="original">
+<img src="https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(37).png" alt="" data-size="original">
 
 **Disable Notifications**
 
 A. Open your website settings by clicking on the lock icon on the top left, as shown below
 
-<img src="https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(38).png" alt="" data-size="original">
+<img src="https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(38).png" alt="" data-size="original">
 
 B. Click on the button to open the settings; once you click on it, You will see the option to disable notifications.
 
-<img src="https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(59).png" alt="" data-size="original">
+<img src="https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(59).png" alt="" data-size="original">
 
 C. Disable the notifications, and you are done! You will not receive any notifications now.
 
@@ -58,11 +58,11 @@ To change the text for transferring chat to live agent, Follow the below steps.
 2.  Select the "Display name for Transferring to Live/Agent chat" and Edit the field as per the text you want\
     \\
 
-    <figure><img src="https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/Change%20Text%20for%20Live%20chat.png" alt=""><figcaption><p>Change text for live chat</p></figcaption></figure>
+    <figure><img src="https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/Change%20Text%20for%20Live%20chat.png" alt=""><figcaption><p>Change text for live chat</p></figcaption></figure>
 
 Once you are done, Your new text will appear like this.
 
-<img src="https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/Sample%20Text%20Change.png" alt="" data-size="original">
+<img src="https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/Sample%20Text%20Change.png" alt="" data-size="original">
 
 **Changing the Waiting Message**
 

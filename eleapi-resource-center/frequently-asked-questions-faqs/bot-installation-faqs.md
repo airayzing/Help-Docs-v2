@@ -98,7 +98,7 @@ In the document ready function, create a timeout function of 3sec. In that timeo
 
 **Please note:** Do not forget to replace `[Your Bot ID]` with you bot ID that you can find in your script.
 
-<img src="https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(24).png" alt="" data-size="original">
+<img src="https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/image%20(24).png" alt="" data-size="original">
 
 And done, All sorted.
 

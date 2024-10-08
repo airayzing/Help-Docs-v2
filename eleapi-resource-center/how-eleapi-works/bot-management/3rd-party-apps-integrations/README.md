@@ -21,7 +21,7 @@ EleAPI bots work as a front-end app for your end customers, and it collects data
 
 **EleAPI integrations enable you to use these integrations to send the metadata to your apps.**
 
-![How EleApi works with 3rd party applications](https://github.com/aichatbotworld/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/file.drawing%20\(1\).svg)
+![How EleApi works with 3rd party applications](https://github.com/aiEleApi/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/file.drawing%20\(1\).svg)
 
 ## How to integrate 3rd party apps with EleAPI?
 
