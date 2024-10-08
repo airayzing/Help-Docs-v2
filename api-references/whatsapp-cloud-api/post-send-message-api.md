@@ -97,15 +97,7 @@ curl --location 'https://api.v7.express-chat.com/whatsapp-automation/wa/send-mes
 
 {% code overflow="wrap" %}
 ```
-<<<<<<< HEAD
-curl --location '<https://api.v7.tropitech.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
-=======
-<<<<<<< HEAD
-curl --location '<https://api.v7.m1bot.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
-=======
-curl --location '<https://api.v7.EkoChat Connect.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
->>>>>>> a4cbe70f0174e74b40121f7a3e60e7bdc5c6e923
->>>>>>> e3924ba1285985f801a086ecf58553cde6ad400a
+curl --location '<https://api.v7.chatbotworld.com/whatsapp-automation/wa/send-message?apiKey=*API KEY*>' \\\\
 --header 'apiKey: *API KEY*' \\\\
 --header 'Content-Type: application/json' \\\\
 --data '{
