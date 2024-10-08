@@ -75,7 +75,7 @@
       * [Google Tasks integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/google-tasks-integration-with-EleApi.md)
       * [Groove CRM integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/groove-crm-integration-with-EleApi.md)
       * [Google Sheets integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/google-sheets-integration-with-EleApi.md)
-      * [Helpcrunch CRM integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/helpcrunch-crm-integration-with-EleApi.md)
+      * [Helpcrunch CRM integration with EleAPI](-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/helpcrunch-crm-integration-with-EleApi.md)
       * [HelpShift integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/helpshift-integration-with-EleApi.md)
       * [Hubspot CRM integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/hubspot-crm-integration-with-EleApi.md)
       * [Infobip CRM integration with EleAPI](EleApi-resource-center/how-EleApi-works/bot-management/3rd-party-apps-integrations/infobip-crm-integration-with-EleApi.md)
