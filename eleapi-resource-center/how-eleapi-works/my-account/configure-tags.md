@@ -12,7 +12,7 @@ Tags can be assigned to the user chats and contacts for better organising and ma
 
 ### **Manage Tags**
 
-* Log in to your ChatbotWorld account and access the dashboard.
+* Log in to your EleAPI account and access the dashboard.
 * On the side navigation bar, locate and click the "More" button.
 * From the dropdown menu, select "Account Settings."
 * In the Account/Settings section, find and click on the "Tags" tab.

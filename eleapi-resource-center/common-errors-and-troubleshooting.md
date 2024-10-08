@@ -27,8 +27,8 @@ Failing to follow these guidelines may result in the issue you are facing.
 
 It may occur due to the following reasons:
 
-1. You already have an account on ChatbotWorld
-2. The email address you entered is invalid or has been blocked by ChatbotWorld
+1. You already have an account on EleAPI
+2. The email address you entered is invalid or has been blocked by EleAPI
 
 </details>
 
@@ -73,7 +73,7 @@ It is happening probably because of the below reasons:
 Your bot may not appear due to the following reasons
 
 1. You have exceeded your message limit on your plan
-2. You have disabled your bot in the country, IP, region, the website you want to access ChatbotWorld.
+2. You have disabled your bot in the country, IP, region, the website you want to access EleAPI.
 3. There might be some typo in the script that you used to install the chat widget.
 4. You have not installed the script in the right location, i.e., is the head tag.
 
@@ -144,7 +144,7 @@ Currently, Analytics does not count any messages from Facebook, WhatsApp, or Tel
 
 <summary><strong>I am unable to add anything after three team members</strong></summary>
 
-In the paid plan for ChatbotWorld, There is a Limit of 3 team members. Suppose you want to add more than three members. You can contact us to set up more than three team members at an additional cost.
+In the paid plan for EleAPI, There is a Limit of 3 team members. Suppose you want to add more than three members. You can contact us to set up more than three team members at an additional cost.
 
 </details>
 

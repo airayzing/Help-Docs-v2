@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial of how to train your AI chatbot  by 
+  This page contains  the stepwise tutorial of how to train your AI eleapi  by 
   providing the  website URLs.
 ---
 
-# 📖 Train your AI chatbot using websites
+# 📖 Train your AI eleapi using websites
 
 ## Train using website URLs.
 

@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial on how to train the AI chatbot by
+  This page contains  the stepwise tutorial on how to train the AI eleapi by
   uploading files into the bot.
 ---
 
-# 📖 Train your AI chatbot by uploading files.
+# 📖 Train your AI eleapi by uploading files.
 
 ## Training bot in text files
 

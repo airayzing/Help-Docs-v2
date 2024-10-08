@@ -4,11 +4,11 @@ description: This page contains the information on managing your subscriptions.
 
 # 📖 Subscriptions
 
-To manage your ChatbotWorld subscription effectively, you can access the subscription panel from the side panel. This panel offers various tabs to help you navigate and control your subscription details:
+To manage your EleAPI subscription effectively, you can access the subscription panel from the side panel. This panel offers various tabs to help you navigate and control your subscription details:
 
 ### **Accessing the Subscription Panel**
 
-1. Navigate to the ChatbotWorld application and locate the side panel.
+1. Navigate to the EleAPI application and locate the side panel.
 2. Click on the "Subscription" option to open the subscription panel.
 
 ### **Subscription Panel Tabs**
@@ -71,4 +71,4 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 2. You'll see a list of all your invoices.
 3. Click on the "download" icon to download any invoice for your records.
 
-That's it! You're now equipped to efficiently manage your ChatbotWorld subscription using the subscription panel. If you have any further questions or need assistance, feel free to contact our support team.
+That's it! You're now equipped to efficiently manage your EleAPI subscription using the subscription panel. If you have any further questions or need assistance, feel free to contact our support team.

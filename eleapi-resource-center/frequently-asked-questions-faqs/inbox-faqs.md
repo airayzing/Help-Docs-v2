@@ -8,7 +8,7 @@ description: This section contains FAQs related to the inbox section
 
 <summary><strong>How do we collect country, city, mobile number, and other metadata?</strong></summary>
 
-1. ChatbotWorld fetches the country and city of a visitor from their IP Address.
+1. EleAPI fetches the country and city of a visitor from their IP Address.
 2. Mobile numbers and metadata are fetched from different components of your chat flow. For example:- Name, email, and phone number components in your chat flow.
 
 </details>
@@ -17,7 +17,7 @@ description: This section contains FAQs related to the inbox section
 
 <summary>What does <code>visit</code> mean?</summary>
 
-A visit is a term used to describe a visitor that engages in a conversation with your chatbot.
+A visit is a term used to describe a visitor that engages in a conversation with your eleapi.
 
 </details>
 
@@ -36,7 +36,7 @@ Yes, you can easily export data in CSV from the export button in the leads tab u
 
 <summary>How can you call customers with the Call feature in the leads section?</summary>
 
-ChatbotWorld offers an integration with Twilio to call your leads from the Inbox. You can use the call feature to call leads and customers from the leads section directly from your desktop. You must integrate Twilio with ChatbotWorld to set up the calling feature in ChatbotWorld.
+EleAPI offers an integration with Twilio to call your leads from the Inbox. You can use the call feature to call leads and customers from the leads section directly from your desktop. You must integrate Twilio with EleAPI to set up the calling feature in EleAPI.
 
 </details>
 
@@ -55,7 +55,7 @@ You can integrate Twilio from the integrate Twilio option in the Inbox Tab.
    5. URL (POST)
 3. You can find all of these credentials on the Twilio Dashboard.
 4. Also, you can contact us at enquiries@chatbotworld.io for further assistance.
-5. After you fill out these parameters, you can quickly call leads from ChatbotWorld.
+5. After you fill out these parameters, you can quickly call leads from EleAPI.
 6. Refer To The Following Steps To Obtain Your API Key and SID On Twilio
    1. Click on the Account link in the top-right navigation.
    2. In the submenu, click on API keys & tokens.
@@ -119,7 +119,7 @@ You can add notes by following the below steps.
 
 Quick replies are the template responses that you can save and use during the live chat. You can access these quick replies whenever you enter '/' into your chat window, the Bot will automatically fetch your list of quick replies, and you can select the one you want to use.
 
-You can add quick replies in the ChatbotWorld app by following steps:
+You can add quick replies in the EleAPI app by following steps:
 
 1. Navigate To The Inbox Tab
 2. You can click on any customer in the leads or messages tab. A window will open all the necessary info.
@@ -131,7 +131,7 @@ You can add quick replies in the ChatbotWorld app by following steps:
 
 <summary><strong>How to transfer Chat to WhatsApp?</strong></summary>
 
-1. ChatbotWorld offers you the option to transfer the chat to WhatsApp or an agent on your support team.
+1. EleAPI offers you the option to transfer the chat to WhatsApp or an agent on your support team.
 2. To transfer the chat to WhatsApp, the visitor must start a Live chat by clicking on the three-dot menu beside the cross 'X" icon.
 3. After an agent accepts your request, you can transfer the chat to Whatsapp by again opening the menu and selecting Transfer to WhatsApp.
 4. If you have a WhatsApp bot, make sure you have a support agent on call to respond to live chat requests.

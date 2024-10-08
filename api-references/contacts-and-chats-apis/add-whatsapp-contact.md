@@ -6,7 +6,7 @@ description: This page contains the API documentation for the adding new WhatsAp
 
 ### Introduction
 
-The **Inbox User Import API** allows you to import WhatsApp contacts into the ChatbotWorld platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+The **Inbox User Import API** allows you to import WhatsApp contacts into the EleAPI platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
 
 #### Base URL
 
@@ -59,8 +59,8 @@ curl 'https://api.v7.express-chat.com/inbox/users/import' \
   -H 'Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9...' \
   -H 'Content-Type: application/json' \
   -H 'Accept: */*' \
-  -H 'Origin: https://app.chatbotworld.io' \
-  -H 'Referer: https://app.chatbotworld.io/' \
+  -H 'Origin: https://help.eleapi.com' \
+  -H 'Referer: https://help.eleapi.com/' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Sec-Fetch-Site: same-site' \
@@ -87,7 +87,7 @@ jsonCopy code{
 
 ### Conclusion
 
-The Inbox User Import API allows you to easily import user profiles into the ChatbotWorld platform. Make sure to follow the authentication and data format guidelines for successful imports.
+The Inbox User Import API allows you to easily import user profiles into the EleAPI platform. Make sure to follow the authentication and data format guidelines for successful imports.
 
 ### :question: Got any questions?
 

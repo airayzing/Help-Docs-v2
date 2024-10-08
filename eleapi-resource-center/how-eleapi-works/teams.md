@@ -14,17 +14,17 @@ Please note: How many team member you can add in your account depends on your pl
 
 Here are brief definitions of users and Roles.
 
-**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in ChatbotWorld help streamline collaboration and access control in the chatbot building and management process.
+**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in EleAPI help streamline collaboration and access control in the eleapi building and management process.
 
 **Team Roles** are the module-based permission (such as view, edit, None) for any roles that can be assigned to different team members.
 
 ## Manage Roles & Users
 
-In ChatbotWorld, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
+In EleAPI, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
 
-#### **Step 1: Access the** ChatbotWorld **Dashboard**
+#### **Step 1: Access the** EleAPI **Dashboard**
 
-* Log in to your ChatbotWorld account and access the dashboard.
+* Log in to your EleAPI account and access the dashboard.
 
 #### **Step 2: Navigate to the "Team" Section**
 
@@ -44,7 +44,7 @@ In ChatbotWorld, you can efficiently manage team roles and users to streamline a
 * Set up the role by providing the following details:
   * **Name**: Assign a name for the new role.
   * **Description**: Add a brief description for reference.
-  *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the ChatbotWorld platform.\
+  *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the EleAPI platform.\
       \
       \
 
@@ -75,10 +75,10 @@ In ChatbotWorld, you can efficiently manage team roles and users to streamline a
 
 #### **Step 8: Create User**
 
-* Click "Create User" to add the new team member to your ChatbotWorld account.
+* Click "Create User" to add the new team member to your EleAPI account.
 
 #### **Step 9: Manage Users and Roles**
 
 * You can manage, edit, delete, or bulk delete users and roles from the same page, allowing you to fine-tune your team's access and permissions.
 
-And there you have it! You've successfully created a new role and added a new user to your ChatbotWorld account. This streamlined management process helps you control access and permissions effectively.
+And there you have it! You've successfully created a new role and added a new user to your EleAPI account. This streamlined management process helps you control access and permissions effectively.

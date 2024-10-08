@@ -6,7 +6,7 @@ description: >-
 
 # 📖 Make Your Telegram Chatbot
 
-Here are the steps to create telegram bought on ChatbotWorld platform.
+Here are the steps to create telegram bought on EleAPI platform.
 
 1. Login into the platform and click on "Create new Bot" on top left. It will ask you to select the platform. Select telegram chat bot as platform and proceed.
 2.  In the next step, it will ask you to fill your mobile number and proceed. You need to interview your telegram number under which you want to create the chat bot.\

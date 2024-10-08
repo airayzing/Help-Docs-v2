@@ -10,15 +10,15 @@ description: >-
 
 <summary><strong>How to change my email ID?</strong></summary>
 
-You cannot change your email address once you have created your account from the ChatbotWorld app. However, You can contact ChatbotWorld at enquiries@chatbotworld.io to change your email address.
+You cannot change your email address once you have created your account from the EleAPI app. However, You can contact EleAPI at enquiries@chatbotworld.io to change your email address.
 
 </details>
 
 <details>
 
-<summary>How to delete my ChatbotWorld account?</summary>
+<summary>How to delete my EleAPI account?</summary>
 
-Once you login to your ChatbotWorld account
+Once you login to your EleAPI account
 
 1. Navigate to the profile section in the settings section
 2. In the bottom left corner, There you can see the option 'delete my account
@@ -37,7 +37,7 @@ Your notifications dashboard will receive notifications when live chat requests 
 
 <summary><strong>What is a team? How do you add a new team member?</strong></summary>
 
-A team in ChatbotWorld is people in your organization that will take over for a live chat request. You can add up to three support agents to your team. Moreover, you can give your team access to your account by giving them a separate account with credentials you create in the Team module.
+A team in EleAPI is people in your organization that will take over for a live chat request. You can add up to three support agents to your team. Moreover, you can give your team access to your account by giving them a separate account with credentials you create in the Team module.
 
 1. To add the same, Navigate the To Team Tab.
 2. Click On Add Team Member
@@ -48,13 +48,13 @@ A team in ChatbotWorld is people in your organization that will take over for a 
 
 <details>
 
-<summary>How can a new team member log in to the ChatbotWorld?</summary>
+<summary>How can a new team member log in to the EleAPI?</summary>
 
-A new team member can log in with their assigned credentials on ChatbotWorld. You can add three members to the team module on ChatbotWorld. The main account owner will have full access to these credentials and can change them as they see fit.
+A new team member can log in with their assigned credentials on EleAPI. You can add three members to the team module on EleAPI. The main account owner will have full access to these credentials and can change them as they see fit.
 
 1. Navigate To Team Tab
 2. Click On Add Team Member To Add A New Member
 3. Fill Out The Name, Email, and Password Of You New Team Member. You can also add their photograph and WhatsApp Number.
-4. For example, A New Team member here will log in on app.chatbotworld.io from their email address xyz@gmail.com and the password above.
+4. For example, A New Team member here will log in on help.eleapi.com from their email address xyz@gmail.com and the password above.
 
 </details>

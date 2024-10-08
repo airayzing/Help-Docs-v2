@@ -1,7 +1,7 @@
 ---
 description: >-
   This page contains information on email alerts that can be sent when any new
-  used visits the chatbot.
+  used visits the eleapi.
 ---
 
 # 📖 Alerts

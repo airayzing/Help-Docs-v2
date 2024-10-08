@@ -2,15 +2,15 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Freshdesk CRM integration with ChatbotWorld
+# Freshdesk CRM integration with EleAPI
 
-## Freshdesk CRM Integration with ChatbotWorld
+## Freshdesk CRM Integration with EleAPI
 
-This documentation provides step-by-step instructions for integrating Freshdesk CRM with ChatbotWorld. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Freshdesk CRM.
+This documentation provides step-by-step instructions for integrating Freshdesk CRM with EleAPI. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Freshdesk CRM.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your chatbot to Freshdesk CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your eleapi to Freshdesk CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -21,7 +21,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Freshdesk CRM and ChatbotWorld:
+Follow these steps to enable the integration between Freshdesk CRM and EleAPI:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API Token from your Freshdesk CRM account. Refer to [the Freshdesk API documentation](https://developer.freshdesk.com/api/v1/#introduction) for assistance.
@@ -29,7 +29,7 @@ Follow these steps to enable the integration between Freshdesk CRM and ChatbotWo
    * Enter the required Freshdesk Domain and API Token in the provided fields.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * Once Authenticated, you'll see the screen where you can map the chatbot’s answers by end user to the fields of the target 3rd party system.
+   * Once Authenticated, you'll see the screen where you can map the eleapi’s answers by end user to the fields of the target 3rd party system.
    * Click on the “Question” dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown here, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.
@@ -55,4 +55,4 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:support@example.com).
+For further assistance, please contact [support team](mailto:eleapisdeveloper@gmail.com).

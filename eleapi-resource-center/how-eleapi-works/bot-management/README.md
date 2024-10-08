@@ -16,8 +16,8 @@ Here are the guides for managing the different aspects of the Bots
 [edit-your-chat-flow.md](edit-your-chat-flow.md)
 {% endcontent-ref %}
 
-{% content-ref url="train-your-ai-chatbot/" %}
-[train-your-ai-chatbot](train-your-ai-chatbot/)
+{% content-ref url="train-your-ai-eleapi/" %}
+[train-your-ai-eleapi](train-your-ai-eleapi/)
 {% endcontent-ref %}
 
 {% content-ref url="bot-settings/" %}
@@ -32,8 +32,8 @@ Here are the guides for managing the different aspects of the Bots
 [marketing-automation](marketing-automation/)
 {% endcontent-ref %}
 
-{% content-ref url="install-your-website-chatbot.md" %}
-[install-your-website-chatbot.md](install-your-website-chatbot.md)
+{% content-ref url="install-your-website-eleapi.md" %}
+[install-your-website-eleapi.md](install-your-website-eleapi.md)
 {% endcontent-ref %}
 
 {% content-ref url="3rd-party-apps-integrations/" %}

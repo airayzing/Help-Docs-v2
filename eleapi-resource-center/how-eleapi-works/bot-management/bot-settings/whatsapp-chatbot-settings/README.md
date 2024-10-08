@@ -1,2 +1,2 @@
-# 📖 WhatsApp chatbot Settings
+# 📖 WhatsApp eleapi Settings
 

@@ -30,11 +30,11 @@ Here is the flow for using the APIs in the Chatflows
 
 ## Using APIs in the Chatflows
 
-To seamlessly integrate APIs into your chat flows in ChatbotWorld, follow these steps:
+To seamlessly integrate APIs into your chat flows in EleAPI, follow these steps:
 
-#### **Step 1: Access the** ChatbotWorld **Dashboard**
+#### **Step 1: Access the** EleAPI **Dashboard**
 
-* Log in to your ChatbotWorld account and access the dashboard.
+* Log in to your EleAPI account and access the dashboard.
 
 #### **Step 2: Navigate to the Developers Section**
 
@@ -56,7 +56,7 @@ To seamlessly integrate APIs into your chat flows in ChatbotWorld, follow these 
 #### **Step 5: Configure Your API**
 
 * Under "Configure APIs," set the following details. The structure is similar to Postman for testing APIs:
-  * **API Name**: This is the display name for the API, used for better readability within ChatbotWorld.
+  * **API Name**: This is the display name for the API, used for better readability within EleAPI.
   * **API Method**: Specify the HTTP method (e.g., GET, POST, PUT).
   * **Enter API URL**: Provide the URL for the API you intend to call.
   * **Query Parameters**: Add any required query parameters.
@@ -69,11 +69,11 @@ Note: If you want to insert custom variables within the API, use "/" as a placeh
 
 #### **Step 6: Test the API**
 
-* Proceed to "Manage API Response" and click on "Test" the API with actual values. This will help ChatbotWorld understand the API response structure.
+* Proceed to "Manage API Response" and click on "Test" the API with actual values. This will help EleAPI understand the API response structure.
 
 #### **Step 7: Map API Response to Custom Attributes**
 
-* In the "Manage API Response" tab, you can map the API response variables to your ChatbotWorld custom attributes.
+* In the "Manage API Response" tab, you can map the API response variables to your EleAPI custom attributes.
 
 #### **Step 8: Replace Actual Values**
 
@@ -95,4 +95,4 @@ Note: If you want to insert custom variables within the API, use "/" as a placeh
 
 * Map the next question based on your API's response code (e.g., 200, 300, etc.). If the API response code doesn't match any predefined values, it will trigger the response mapped to "others."
 
-And you're done! Your API is ready to enhance your chatbot's functionality and provide dynamic interactions based on API responses.
+And you're done! Your API is ready to enhance your eleapi's functionality and provide dynamic interactions based on API responses.

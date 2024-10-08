@@ -6,7 +6,7 @@ description: This section contains the Leads and Chat API references
 
 ## Get the essentials first!
 
-To use the ChatbotWorld APIs, You need to insure that you have following details with you.
+To use the EleAPI APIs, You need to insure that you have following details with you.
 
 A. **UUID -** You can get the UUID from the local web session storage as show in the image below:
 
@@ -43,7 +43,7 @@ Now you are ready to run the POC
 
 Please use the below APIs in order to play with your leads and chat data.
 
-### Create a lead in the ChatbotWorld
+### Create a lead in the EleAPI
 
 As soon as any user opens up the Bot, It creates one UUId; pass the same along with the other required details to create and update the lead's details.
 

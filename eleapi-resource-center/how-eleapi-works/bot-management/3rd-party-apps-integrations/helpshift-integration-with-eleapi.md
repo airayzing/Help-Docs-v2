@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# HelpShift integration with ChatbotWorld
+# HelpShift integration with EleAPI
 
 ### Use Case
 
-This integration allows you to transfer lead details such as Name, Email, and Phone from your ChatbotWorld platform to HelpShift.
+This integration allows you to transfer lead details such as Name, Email, and Phone from your EleAPI platform to HelpShift.
 
 ### Pre-requisite
 
@@ -23,7 +23,7 @@ Before setting up this integration, ensure you have:
    * Enter the required details, including Domain Name and API Key obtained from HelpShift.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables:**
-   * Once authenticated, you'll see a screen where you can map the chatbot’s answers to the fields of your HelpShift system.
+   * Once authenticated, you'll see a screen where you can map the eleapi’s answers to the fields of your HelpShift system.
    * Select the bot questions from the "Question" dropdown or type "/" to list all questions.
    * Map these questions to parameters in your HelpShift system. If dropdowns are not available, enter the parameter names manually.
    * Add new variables as needed by clicking the "Add Parameter" button.

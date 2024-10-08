@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial  to how to train your chatbot using
+  This page contains  the stepwise tutorial  to how to train your eleapi using
   the FAQ.
 ---
 
-# 📖 Train your AI chatbot using frequently asked questions (FAQs).
+# 📖 Train your AI eleapi using frequently asked questions (FAQs).
 
 ## Train using FAQs
 

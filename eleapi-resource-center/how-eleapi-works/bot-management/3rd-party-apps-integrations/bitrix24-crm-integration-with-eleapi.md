@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Bitrix24 CRM Integration with ChatbotWorld
+# Bitrix24 CRM Integration with EleAPI
 
 ## Use Case
 
-This integration enables the transfer of lead details such as Name, Email, and Phone from your ChatbotWorld platform to the Bitrix24 CRM.
+This integration enables the transfer of lead details such as Name, Email, and Phone from your EleAPI platform to the Bitrix24 CRM.
 
 ## Pre-requisite
 
@@ -24,7 +24,7 @@ Before setting up this integration, ensure you have:
    * Enter the required details obtained from Bitrix24.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables:**
-   * Once authenticated, you'll see a screen where you can map the chatbot’s answers to the fields of your Bitrix24 CRM.
+   * Once authenticated, you'll see a screen where you can map the eleapi’s answers to the fields of your Bitrix24 CRM.
    * Select the bot questions from the "Question" dropdown or type "/" to list all questions.
    * Map these questions to parameters in your Bitrix24 CRM. If dropdowns are not available, enter the parameter names manually.
    * Add new variables as needed by clicking the "Add Parameter" button.

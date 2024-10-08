@@ -2,15 +2,15 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Wealthbox CRM integration with ChatbotWorld
+# Wealthbox CRM integration with EleAPI
 
-## Wealthbox CRM Integration with ChatbotWorld
+## Wealthbox CRM Integration with EleAPI
 
-This documentation provides instructions for integrating Wealthbox CRM with ChatbotWorld. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Wealthbox CRM.
+This documentation provides instructions for integrating Wealthbox CRM with EleAPI. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Wealthbox CRM.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your chatbot to Wealthbox CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your eleapi to Wealthbox CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -20,7 +20,7 @@ Before enabling the integration, ensure you have the following prerequisite:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Wealthbox CRM and ChatbotWorld:
+Follow these steps to enable the integration between Wealthbox CRM and EleAPI:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary access token from your 3rd party application account. Refer to [this guide](https://www.wealthbox.com/how-to/how-to-create-an-api-token-for-integrations-like-zapier-or-myrepchat/) for assistance.
@@ -28,7 +28,7 @@ Follow these steps to enable the integration between Wealthbox CRM and ChatbotWo
    * Enter the obtained access token in the provided field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * After authentication, you'll be directed to a screen where you can map chatbot responses to Wealthbox CRM fields.
+   * After authentication, you'll be directed to a screen where you can map eleapi responses to Wealthbox CRM fields.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.
@@ -54,7 +54,7 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:support@example.com).
+For further assistance, please contact [support team](mailto:eleapisdeveloper@gmail.com).
 
 Use case
 
@@ -71,7 +71,7 @@ Steps to enable the integrations
   * Enter the required details that you got from above steps
   * Proceed to authenticate your account credentials
 * Mapping the variable
-  * Once Authenticated, You will see the screen where you can map the chatbot’s answers by end user to the fields of target 3rd party system.
+  * Once Authenticated, You will see the screen where you can map the eleapi’s answers by end user to the fields of target 3rd party system.
   * Click on the “Question” dropdown to select the bot questions whose answer you want to store. If you do not see the dropdown here, Type “/” which will list down all the questions.
   * Map the same to parameter in the next field. If you do not see the drop down here, Enter the parameter name of your 3rd party system.
   * Add new variable by clicking the “Add Parameter” button from top right.
