@@ -10,7 +10,7 @@ description: >-
 
 <summary>How to install website bot using java script.</summary>
 
-Copy the Javascript code from the m1Bot app & Go to y
+Copy the Javascript code from the tropitech app & Go to y
 
 1. our website's HTML code
 2. Paste the script in the head or body tag of your HTML code
@@ -18,7 +18,7 @@ Copy the Javascript code from the m1Bot app & Go to y
 **Please Note**
 
 1. Ensure that you paste the script before the tag is closed, i.e., paste the script before `</head>` or `</body>`.
-2. Make sure m1Bot should be the last script to execute, as some scripts may override the m1Bot script.
+2. Make sure tropitech should be the last script to execute, as some scripts may override the tropitech script.
 
 </details>
 
@@ -26,15 +26,15 @@ Copy the Javascript code from the m1Bot app & Go to y
 
 <summary>How to install a bot on a WordPress website?</summary>
 
-After you have logged into your m1Bot account, Go to the Bots Tab, select the desired Bot, and navigate to the Install section.
+After you have logged into your tropitech account, Go to the Bots Tab, select the desired Bot, and navigate to the Install section.
 
 1. Move to the WordPress section and copy the API key available there.
 2. Open your website's wp-admin, adding "/wp-admin" at the end of your Domain URL. E.g., If your website URL is "www.expample.com," then you can open WP-Admin using the Link "www.example.com/wp-admin"
-3. Go to Plugins > Add new > Search m1Bot > Install now > Activate plugin"
-4. Install the "m1Bot" Plugin and then activate the same.
+3. Go to Plugins > Add new > Search tropitech > Install now > Activate plugin"
+4. Install the "tropitech" Plugin and then activate the same.
 5. Upon activating the Plugin, you will be redirected to the plugins page with the confirmation message "Plugin Activated."
-6. Once your Plugin is activated, paste the Bot Penguin API key in the Box named "m1Bot Snippet" that you Copied from your m1Bot account.
-7. Save the Settings, and you are all set. m1Bot has been integrated into your website.
+6. Once your Plugin is activated, paste the Bot Penguin API key in the Box named "tropitech Snippet" that you Copied from your tropitech account.
+7. Save the Settings, and you are all set. tropitech has been integrated into your website.
 
 </details>
 
@@ -42,13 +42,13 @@ After you have logged into your m1Bot account, Go to the Bots Tab, select the de
 
 <summary>Bot is not showing up upon activation of wp-rocket plugin.</summary>
 
-If you have both wp-rocket and m1Bot Plugin/Script added to your WordPress site, You may face the issue of the m1Bot not showing up on the website.
+If you have both wp-rocket and tropitech Plugin/Script added to your WordPress site, You may face the issue of the tropitech not showing up on the website.
 
 In case you are facing such issues, try the below steps, and it will solve the problem.
 
 1. Login to your wp-admin panel and open the `wp-rocket` settings.
 2. Go to the `File Optimization` → `JavaScript Files` -> `Load JavaScript deferred`
-3. Add the m1Bot bot script here under `Exclude Java Script Files` option, and done!
+3. Add the tropitech bot script here under `Exclude Java Script Files` option, and done!
 
 For more details, Check out the following documentation by `wp-rocket`
 
@@ -58,9 +58,9 @@ For more details, Check out the following documentation by `wp-rocket`
 
 <details>
 
-<summary>What is the minimum browser version requirement for the m1Bot website bot?</summary>
+<summary>What is the minimum browser version requirement for the tropitech website bot?</summary>
 
-m1Bot is a JS-based software. Hence your browser must support the Java Script. The minimum requirement for some renowned browsers are as follows:
+tropitech is a JS-based software. Hence your browser must support the Java Script. The minimum requirement for some renowned browsers are as follows:
 
 * Google Chrome: Version 51 or above
 * Edge: Version 14 or above
@@ -81,8 +81,8 @@ In the document ready function, create a timeout function of 3sec. In that timeo
 ```javascript
 <script>
     const scriptEle = document.createElement("script");
-    scriptEle.src = ('src', 'https://cdn.m1Bot.online/m1Bot.js');
-    scriptEle.setAttribute('id', 'm1Bot-messenger-widget');
+    scriptEle.src = ('src', 'https://cdn.tropitech.online/tropitech.js');
+    scriptEle.setAttribute('id', 'tropitech-messenger-widget');
     scriptEle.innerHTML = '[Your Bot ID]';
 
     document.onreadystatechange = function () {

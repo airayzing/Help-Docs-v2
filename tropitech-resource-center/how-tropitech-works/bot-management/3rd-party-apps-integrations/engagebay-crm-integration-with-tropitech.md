@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# EngageBay CRM integration with m1Bot
+# EngageBay CRM integration with tropitech
 
 ### Use Case
 
-This integration allows you to transmit lead details such as Name, Email, and Phone from your m1Bot platform to the EngageBay CRM.
+This integration allows you to transmit lead details such as Name, Email, and Phone from your tropitech platform to the EngageBay CRM.
 
 ### Pre-requisite
 

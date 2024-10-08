@@ -59,6 +59,6 @@ Log in to your account.
 3. You can add an Appointment booking by clicking on the `Add New Component` Button.
 4. After clicking the button, you will see a list of components. Now, choose `Appointment` and configure it according to your needs.
 5. The Appointment component comes with various options to configure. You can choose the date, day, time, and slot interval.
-6. You can integrate your google calendar to track all appointments within m1Bot and avoid double bookings.
+6. You can integrate your google calendar to track all appointments within tropitech and avoid double bookings.
 
 </details>

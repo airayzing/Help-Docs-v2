@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Nocrm integration with m1Bot
+# Nocrm integration with tropitech
 
-## Nocrm Integration with m1Bot
+## Nocrm Integration with tropitech
 
 ### Use Case
 

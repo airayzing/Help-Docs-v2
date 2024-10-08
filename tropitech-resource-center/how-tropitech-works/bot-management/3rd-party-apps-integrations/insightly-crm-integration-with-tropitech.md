@@ -2,13 +2,13 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Insightly CRM integration with m1Bot
+# Insightly CRM integration with tropitech
 
-## Insightly CRM Integration with m1Bot
+## Insightly CRM Integration with tropitech
 
 ### Use Case
 
-This integration enables you to transfer lead details such as Name, Email, and Phone from your m1Bot platform to the Insightly CRM.
+This integration enables you to transfer lead details such as Name, Email, and Phone from your tropitech platform to the Insightly CRM.
 
 ### Pre-requisite
 

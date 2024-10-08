@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Pipedrive CRM integration with m1Bot
+# Pipedrive CRM integration with tropitech
 
 ### Use Case
 
-This integration allows you to seamlessly send lead details such as Name, Email, and Phone to the Pipedrive CRM from your m1Bot platform.
+This integration allows you to seamlessly send lead details such as Name, Email, and Phone to the Pipedrive CRM from your tropitech platform.
 
 ### Pre-requisite
 

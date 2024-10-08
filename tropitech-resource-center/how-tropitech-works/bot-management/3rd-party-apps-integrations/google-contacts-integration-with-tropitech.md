@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Google Contacts Integration with m1Bot
+# Google Contacts Integration with tropitech
 
 ### Use Case
 

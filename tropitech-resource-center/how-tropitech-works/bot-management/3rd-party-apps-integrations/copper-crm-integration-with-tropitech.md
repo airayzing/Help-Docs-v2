@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Copper CRM integration with m1Bot
+# Copper CRM integration with tropitech
 
 ### Use Case
 
-This integration enables you to transfer lead details such as Name, Email, and Phone from your m1Bot platform to the Copper CRM.
+This integration enables you to transfer lead details such as Name, Email, and Phone from your tropitech platform to the Copper CRM.
 
 ### Pre-requisite
 

@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Freshworks CRM integration with m1Bot
+# Freshworks CRM integration with tropitech
 
 ### Use Case
 
-This integration facilitates the transfer of lead details such as Name, Email, and Phone from your m1Bot platform to the Freshworks CRM.
+This integration facilitates the transfer of lead details such as Name, Email, and Phone from your tropitech platform to the Freshworks CRM.
 
 ### Pre-requisite
 

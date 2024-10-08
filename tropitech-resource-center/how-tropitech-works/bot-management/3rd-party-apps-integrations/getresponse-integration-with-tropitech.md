@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# GetResponse integration with m1Bot
+# GetResponse integration with tropitech
 
 ### Use Case
 
-This integration enables you to transmit lead details such as Name, Email, and Phone from your m1Bot platform to GetResponse.
+This integration enables you to transmit lead details such as Name, Email, and Phone from your tropitech platform to GetResponse.
 
 ### Pre-requisite
 

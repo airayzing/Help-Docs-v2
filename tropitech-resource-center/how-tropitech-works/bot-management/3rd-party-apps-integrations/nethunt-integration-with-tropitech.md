@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# NetHunt integration with m1Bot
+# NetHunt integration with tropitech
 
-## NetHunt Integration with m1Bot
+## NetHunt Integration with tropitech
 
 ### Use Case
 

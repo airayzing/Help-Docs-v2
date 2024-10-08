@@ -21,7 +21,7 @@ After you log in,
 
 <summary>How to disable Desktop Notifications?</summary>
 
-After you log in to the m1Bot App, Navigate to the `Bot Setting` under the bot's menu.\
+After you log in to the tropitech App, Navigate to the `Bot Setting` under the bot's menu.\
 1\. Go to the Bot Settings and open `Alerts` the tab.\
 2\. Check if you have subscribed to the desktop notifications or not?\
 3\. If yes, You will see the below confirmation.

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Find the answers to the most asked questions about m1Bot's integration
+  Find the answers to the most asked questions about tropitech's integration
   with ChatGPT
 ---
 
@@ -8,9 +8,9 @@ description: >-
 
 <details>
 
-<summary>Can I train m1Bot chatbots on my own data with ChatGPT?</summary>
+<summary>Can I train tropitech chatbots on my own data with ChatGPT?</summary>
 
-Yes, m1Bot state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
+Yes, tropitech state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
 
 </details>
 

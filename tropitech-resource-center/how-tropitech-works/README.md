@@ -4,9 +4,9 @@ description: >-
   engagement
 ---
 
-# 🏃‍♂️ How m1Bot works?
+# 🏃‍♂️ How tropitech works?
 
-We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of m1Bot.
+We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of tropitech.
 
 {% content-ref url="bot-management/" %}
 [bot-management](bot-management/)

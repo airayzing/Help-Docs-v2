@@ -8,13 +8,13 @@ description: >-
 
 ## **Overview**
 
-A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the m1Bot platform.
+A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the tropitech platform.
 
 ## **Accessing Chatbot Builder**
 
 To customize your chatbot's flow, follow these steps:
 
-* Navigate to the bot menu or homepage on the m1Bot portal.
+* Navigate to the bot menu or homepage on the tropitech portal.
 * Select your chatbot to open the chatbot builder.
 *   Click on "Edit your chat flow" to access the chatbot builder.\
     \
@@ -67,6 +67,6 @@ To conclude the chat flow:
 
 ## **Need Further Assistance?**
 
-If you encounter any issues or need assistance, please contact us at [production@m1Bot.co.za](mailto:production@m1Bot.co.za). We will respond within 48 business hours.
+If you encounter any issues or need assistance, please contact us at [production@tropitech.co.za](mailto:production@tropitech.co.za). We will respond within 48 business hours.
 
 That's it! You're now equipped to customize your chatbot's flow and engage users effectively.

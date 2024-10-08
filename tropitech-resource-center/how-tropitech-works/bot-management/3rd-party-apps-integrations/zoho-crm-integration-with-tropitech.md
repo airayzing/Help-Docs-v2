@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Zoho CRM integration with m1Bot
+# Zoho CRM integration with tropitech
 
 ### Use Case
 

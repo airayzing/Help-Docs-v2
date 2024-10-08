@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Drip CRM integration with m1Bot
+# Drip CRM integration with tropitech
 
-## Drip CRM Integration with m1Bot
+## Drip CRM Integration with tropitech
 
 ### Use Case
 

@@ -1,5 +1,5 @@
 ---
-description: This section deals with key FAQs regarding user onboarding to the m1Bot
+description: This section deals with key FAQs regarding user onboarding to the tropitech
 ---
 
 # Onboarding FAQs
@@ -13,7 +13,7 @@ If you haven't received your verification link, then you can check following thi
 * Check your spam folder in your Inbox.
 * You can also regenerate a new link after 30 seconds by clicking on the `Resend` button on the verification page.
 
-If the issue persists, you can contact at production@m1Bot.co.za for further assistance.
+If the issue persists, you can contact at production@tropitech.co.za for further assistance.
 
 </details>
 
@@ -23,7 +23,7 @@ If the issue persists, you can contact at production@m1Bot.co.za for further ass
 
 If you are unable to resend the verification link request, then you can regenerate a new link after 30 seconds since the last request by clicking on the <mark style="color:blue;">`Resend`</mark> button on the verification page.
 
-If the issue persists, you can contact at production@m1Bot.co.za for further assistance.
+If the issue persists, you can contact at production@tropitech.co.za for further assistance.
 
 </details>
 
@@ -47,7 +47,7 @@ A traditional chatbot answers questions based on a predefined set of answers. In
 
 <summary>How to upload a custom chatbot Icon &#x26; color</summary>
 
-1. Login to the m1Bot app using your registered credentials.
+1. Login to the tropitech app using your registered credentials.
 2. On your dashboard or side navigation panel under `bots`, you can see the different bots you have created, or you can create a new one.
 3. Select any bot or click on `Edit` Icon, which will open a new screen of Bot Setup
 4. Select the 3rd option, <mark style="background-color:blue;">`Bot Settings`</mark>, and a new page with the Design tab will open up.
@@ -64,9 +64,9 @@ A traditional chatbot answers questions based on a predefined set of answers. In
 
 <summary><strong>What is a Facebook bot, and how does it works</strong></summary>
 
-Facebook Bot is the Integration of your Facebook business page and m1Bot Application. Once the Integration is completed and active, m1Bot enables you to run a pre-programmed flow on the Facebook page messenger.
+Facebook Bot is the Integration of your Facebook business page and tropitech Application. Once the Integration is completed and active, tropitech enables you to run a pre-programmed flow on the Facebook page messenger.
 
-Automated messages are sent to people commenting on your page post and collect leads and many more features. To make the Integration, You will require to provide permissions to m1Bot to access your pages and manage certain permission.
+Automated messages are sent to people commenting on your page post and collect leads and many more features. To make the Integration, You will require to provide permissions to tropitech to access your pages and manage certain permission.
 
 </details>
 
@@ -74,7 +74,7 @@ Automated messages are sent to people commenting on your page post and collect l
 
 <summary>How to get the WhatsApp Business API key</summary>
 
-The WhatsApp Business API key is the access key to access your WhatsApp business API account. It enables you to access the messages/chat sent on your WhatsApp number, manage your WhatsApp profile, or many more features using the m1Bot platform. This key will be available once your mobile no has been whitelisted/approved for the Whatsapp Business API account by Meta.
+The WhatsApp Business API key is the access key to access your WhatsApp business API account. It enables you to access the messages/chat sent on your WhatsApp number, manage your WhatsApp profile, or many more features using the tropitech platform. This key will be available once your mobile no has been whitelisted/approved for the Whatsapp Business API account by Meta.
 
 </details>
 
@@ -82,7 +82,7 @@ The WhatsApp Business API key is the access key to access your WhatsApp business
 
 <summary><strong>What is a Telegram bot token</strong></summary>
 
-A Telegram bot token is an authentication token/key issued by Telegram. It enables you to access the messages/chat sent on your telegram bot, manage your Telegram contacts, or many more features using the m1Bot platform.
+A Telegram bot token is an authentication token/key issued by Telegram. It enables you to access the messages/chat sent on your telegram bot, manage your Telegram contacts, or many more features using the tropitech platform.
 
 </details>
 

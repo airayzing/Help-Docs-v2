@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Close CRM integration with m1Bot
+# Close CRM integration with tropitech
 
-This documentation provides step-by-step instructions for integrating Close CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Close CRM.
+This documentation provides step-by-step instructions for integrating Close CRM with tropitech. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Close CRM.
 
 ### Use Case
 
@@ -18,7 +18,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Close CRM and m1Bot:
+Follow these steps to enable the integration between Close CRM and tropitech:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token from your Close CRM account. Refer to [this guide](https://pipedrive.readme.io/docs/how-to-find-the-api-token) for assistance.
@@ -52,4 +52,4 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:m1bot.support@mark1.ai).
+For further assistance, please contact [support team](mailto:tropitech.support@mark1.ai).

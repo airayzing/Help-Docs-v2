@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Go High Level Integration with m1Bot
+# Go High Level Integration with tropitech
 
 ## Use Case
 
-This integration facilitates the transmission of lead details such as Name, Email, and Phone from your m1Bot platform to the Go High Level CRM.
+This integration facilitates the transmission of lead details such as Name, Email, and Phone from your tropitech platform to the Go High Level CRM.
 
 ## Pre-requisite
 

@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Jira CRM integration with m1Bot
+# Jira CRM integration with tropitech
 
 ### Use Case
 
-This integration facilitates the transmission of lead details such as Name, Email, and Phone from your m1Bot platform to the Jira CRM.
+This integration facilitates the transmission of lead details such as Name, Email, and Phone from your tropitech platform to the Jira CRM.
 
 ### Pre-requisite
 

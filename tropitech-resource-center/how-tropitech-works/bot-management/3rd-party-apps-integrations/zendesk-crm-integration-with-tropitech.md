@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Zendesk CRM integration with m1Bot
+# Zendesk CRM integration with tropitech
 
-## Zendesk CRM Integration with m1Bot
+## Zendesk CRM Integration with tropitech
 
-This documentation provides instructions for integrating Zendesk CRM with m1Bot. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Zendesk CRM.
+This documentation provides instructions for integrating Zendesk CRM with tropitech. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Zendesk CRM.
 
 ### Use Case
 
@@ -22,7 +22,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Zendesk CRM and m1Bot:
+Follow these steps to enable the integration between Zendesk CRM and tropitech:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API token and API URL from your Zendesk CRM account. Refer to [this guide](https://support.zendesk.com/hc/en-us/articles/4408889192858-Managing-access-to-the-Zendesk-API) for assistance.
@@ -56,4 +56,4 @@ Here are some important notes to consider:
 * **Subscription Requirement**: Ensure you have the proper subscription for the 3rd party to use the APIs.
 * **Further Assistance**: Contact our support team if you need additional help or encounter any issues during the integration process.
 
-For further assistance, please contact [support team](mailto:m1bot.support@mark1.ai).
+For further assistance, please contact [support team](mailto:tropitech.support@mark1.ai).

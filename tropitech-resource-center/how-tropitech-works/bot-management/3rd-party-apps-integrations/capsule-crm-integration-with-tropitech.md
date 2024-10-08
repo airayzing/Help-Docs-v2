@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Capsule CRM integration with m1Bot
+# Capsule CRM integration with tropitech
 
 ### Use Case
 

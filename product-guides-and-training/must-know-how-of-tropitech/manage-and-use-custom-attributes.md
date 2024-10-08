@@ -1,14 +1,14 @@
 ---
 description: >-
   This page contains information about the custom attributes and how you can use
-  them in m1Bot
+  them in tropitech
 ---
 
 # 🔤 Manage & Use Custom Attributes
 
 Custom Attributes
 
-Custom Attributes in m1Bot are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
+Custom Attributes in tropitech are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
 
 ## Types of Custom Attributes
 
@@ -30,11 +30,11 @@ Custom Attributes can be used for the following use cases
 
 ## Create & Manage Attributes
 
-Custom attributes in m1Bot allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
+Custom attributes in tropitech allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
 
-### **Step 1: Navigate to the** m1Bot **dashboard.**
+### **Step 1: Navigate to the** tropitech **dashboard.**
 
-* Log in to your m1Bot account and access the dashboard.
+* Log in to your tropitech account and access the dashboard.
 
 ### **Step 2: Access Account Settings.**
 
@@ -65,4 +65,4 @@ Refer to the following help doc to understand how can you use custom attributes 
 [call-external-apis-in-your-chat-flows.md](call-external-apis-in-your-chat-flows.md)
 {% endcontent-ref %}
 
-And that's it! You've successfully created a custom attribute in m1Bot. This attribute can now be used to personalize interactions, segment users, and enhance the overall chatbot experience.
+And that's it! You've successfully created a custom attribute in tropitech. This attribute can now be used to personalize interactions, segment users, and enhance the overall chatbot experience.

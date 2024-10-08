@@ -40,7 +40,7 @@ The phone number quality rating is a measure of your phone number's reliability 
 
 <summary><strong>How to add a new WhatsApp template?</strong></summary>
 
-You can create templates either from the WhatsApp Meta Manager or using the m1Bot template tab.
+You can create templates either from the WhatsApp Meta Manager or using the tropitech template tab.
 
 </details>
 
@@ -64,7 +64,7 @@ We do not charge anything on top of Meta conversation charges; you pay the Whats
 
 <summary>Is there any message limit?</summary>
 
-No, all charges are conversations based. m1Bot platform pricing is based on the plan of conversations you choose.
+No, all charges are conversations based. tropitech platform pricing is based on the plan of conversations you choose.
 
 </details>
 

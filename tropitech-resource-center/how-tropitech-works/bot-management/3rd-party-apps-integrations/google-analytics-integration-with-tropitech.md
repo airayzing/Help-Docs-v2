@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Google Analytics integration with m1Bot
+# Google Analytics integration with tropitech
 
 To integrate your bot with Google Analytics, you'll need to follow these steps:
 

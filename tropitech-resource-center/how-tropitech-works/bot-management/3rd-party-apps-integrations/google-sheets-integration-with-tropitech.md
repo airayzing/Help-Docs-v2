@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Google Sheets integration with m1Bot
+# Google Sheets integration with tropitech
 
 ### Use Case
 
