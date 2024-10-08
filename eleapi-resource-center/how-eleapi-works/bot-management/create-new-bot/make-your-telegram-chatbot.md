@@ -22,4 +22,4 @@ Here are the steps to create telegram bought on EleAPI platform.
 4. Once you're logged in in telegram, enter your bot name and bot username. Once you're done, click proceed.
 5. Your telegram bought will be created ready to use. You can now click on, edit your chat flow and configure your chat flows and other features accordingly.
 
-If you still have some questions for our team, write to us at enquiries@chatbotworld.io .We will respond back within 48 business hours.
+If you still have some questions for our team, write to us at enquiries@EleApi.io .We will respond back within 48 business hours.

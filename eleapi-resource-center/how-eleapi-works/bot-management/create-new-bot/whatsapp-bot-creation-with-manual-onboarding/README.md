@@ -39,8 +39,8 @@ Before you begin, ensure you have the necessary prerequisites in place, such as 
 1. Subscribe the WhatsApp (WA) web hook with the EleAPI platform.
 2. This will enable your WhatsApp Bot to receive messages and interact with users.
 
-{% content-ref url="subscribe-wa-webhook-with-chatbotworld.md" %}
-[subscribe-wa-webhook-with-chatbotworld.md](subscribe-wa-webhook-with-chatbotworld.md)
+{% content-ref url="subscribe-wa-webhook-with-EleApi.md" %}
+[subscribe-wa-webhook-with-EleApi.md](subscribe-wa-webhook-with-EleApi.md)
 {% endcontent-ref %}
 
 #### **Step 5:** Update Payment Method to WhatsApp

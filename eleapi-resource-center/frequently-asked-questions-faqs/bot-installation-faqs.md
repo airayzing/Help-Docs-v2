@@ -81,8 +81,8 @@ In the document ready function, create a timeout function of 3sec. In that timeo
 ```javascript
 <script>
     const scriptEle = document.createElement("script");
-    scriptEle.src = ('src', 'https://cdn.chatbotworld.io/chatbotworld.js');
-    scriptEle.setAttribute('id', 'chatbotworld-messenger-widget');
+    scriptEle.src = ('src', 'https://cdn.EleApi.io/EleApi.js');
+    scriptEle.setAttribute('id', 'EleApi-messenger-widget');
     scriptEle.innerHTML = '[Your Bot ID]';
 
     document.onreadystatechange = function () {

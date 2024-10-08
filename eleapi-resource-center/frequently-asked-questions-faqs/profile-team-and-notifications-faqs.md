@@ -10,7 +10,7 @@ description: >-
 
 <summary><strong>How to change my email ID?</strong></summary>
 
-You cannot change your email address once you have created your account from the EleAPI app. However, You can contact EleAPI at enquiries@chatbotworld.io to change your email address.
+You cannot change your email address once you have created your account from the EleAPI app. However, You can contact EleAPI at enquiries@EleApi.io to change your email address.
 
 </details>
 

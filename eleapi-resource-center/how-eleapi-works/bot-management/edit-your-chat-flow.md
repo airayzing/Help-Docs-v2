@@ -8,7 +8,7 @@ description: >-
 
 ## **Overview**
 
-A chat flow determines the structure of conversations between your eleapi and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the chatbotworld platform.
+A chat flow determines the structure of conversations between your eleapi and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the EleApi platform.
 
 ## **Accessing Chatbot Builder**
 
@@ -67,6 +67,6 @@ To conclude the chat flow:
 
 ## **Need Further Assistance?**
 
-If you encounter any issues or need assistance, please contact us at [enquiries@chatbotworld.io](mailto:enquiries@chatbotworld.io). We will respond within 48 business hours.
+If you encounter any issues or need assistance, please contact us at [enquiries@EleApi.io](mailto:enquiries@EleApi.io). We will respond within 48 business hours.
 
 That's it! You're now equipped to customize your eleapi's flow and engage users effectively.
