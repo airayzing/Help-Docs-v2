@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial of how to train your AI eleapi  by 
+  This page contains  the stepwise tutorial of how to train your AI EleApi  by 
   providing the  website URLs.
 ---
 
-# 📖 Train your AI eleapi using websites
+# 📖 Train your AI EleApi using websites
 
 ## Train using website URLs.
 

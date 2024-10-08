@@ -71,11 +71,11 @@ EleAPI is a JS-based software. Hence your browser must support the Java Script. 
 
 <details>
 
-<summary>How to resolve the latency issues on my website when I have a eleapi installed?</summary>
+<summary>How to resolve the latency issues on my website when I have a EleApi installed?</summary>
 
-We understand the criticality of website speed and responsiveness. Adding a trigger delay only delays the eleapi from opening, but the script of the eleapi is loaded at the same time as the page, which can delay the overall page loading and create latency issues. This happens because of the vast processes that allow chatbots to run smoothly. However, this problem can be solved.
+We understand the criticality of website speed and responsiveness. Adding a trigger delay only delays the EleApi from opening, but the script of the EleApi is loaded at the same time as the page, which can delay the overall page loading and create latency issues. This happens because of the vast processes that allow chatbots to run smoothly. However, this problem can be solved.
 
-In the document ready function, create a timeout function of 3sec. In that timeout function, create a script element with the details of the script shared while installing the eleapi.
+In the document ready function, create a timeout function of 3sec. In that timeout function, create a script element with the details of the script shared while installing the EleApi.
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```javascript

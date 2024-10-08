@@ -8,7 +8,7 @@ This documentation provides instructions for integrating Chakra CRM with EleAPI.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your eleapi to Chakra CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your EleApi to Chakra CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ Follow these steps to enable the integration between Chakra CRM and EleAPI:
    * Enter the obtained API token in the provided field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * After authentication, you'll be directed to a screen where you can map eleapi responses to Chakra CRM fields.
+   * After authentication, you'll be directed to a screen where you can map EleApi responses to Chakra CRM fields.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.
@@ -69,7 +69,7 @@ Steps to enable the integrations
   * Enter the required details that you got from above steps
   * Proceed to authenticate your account credentials
 * Mapping the variable
-  * Once Authenticated, You will see the screen where you can map the eleapi’s answers by end user to the fields of target 3rd party system.
+  * Once Authenticated, You will see the screen where you can map the EleApi’s answers by end user to the fields of target 3rd party system.
   * Click on the “Question” dropdown to select the bot questions whose answer you want to store. If you do not see the dropdown here, Type “/” which will list down all the questions.
   * Map the same to parameter in the next field. If you do not see the drop down here, Enter the parameter name of your 3rd party system.
   * Add new variable by clicking the “Add Parameter” button from top right.

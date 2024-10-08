@@ -39,13 +39,13 @@ Conversational landing pages are interactive web pages for organizations who do 
 
 <summary>What is a livechat bot or Livechat widget</summary>
 
-A traditional eleapi answers questions based on a predefined set of answers. In contrast, a live eleapi works with a support agent and a predefined set of answers. It adds empathy, a whole new level of customer assistance. The main benefit is that your support team can take over anytime the conversation becomes complex.
+A traditional EleApi answers questions based on a predefined set of answers. In contrast, a live EleApi works with a support agent and a predefined set of answers. It adds empathy, a whole new level of customer assistance. The main benefit is that your support team can take over anytime the conversation becomes complex.
 
 </details>
 
 <details>
 
-<summary>How to upload a custom eleapi Icon &#x26; color</summary>
+<summary>How to upload a custom EleApi Icon &#x26; color</summary>
 
 1. Login to the EleAPI app using your registered credentials.
 2. On your dashboard or side navigation panel under `bots`, you can see the different bots you have created, or you can create a new one.

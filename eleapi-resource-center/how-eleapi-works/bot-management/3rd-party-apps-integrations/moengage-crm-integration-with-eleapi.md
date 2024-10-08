@@ -8,7 +8,7 @@ This documentation provides step-by-step instructions for integrating MoEngage C
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your eleapi to MoEngage CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your EleApi to MoEngage CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -28,7 +28,7 @@ Follow these steps to enable the integration between MoEngage CRM and EleAPI:
    * Enter the required API URL, APP ID, and DATA API KEY in the provided fields.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * Once Authenticated, you'll see the screen where you can map the eleapi’s answers by end user to the fields of the target 3rd party system.
+   * Once Authenticated, you'll see the screen where you can map the EleApi’s answers by end user to the fields of the target 3rd party system.
    * Click on the “Question” dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown here, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.

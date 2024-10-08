@@ -1,6 +1,6 @@
 ---
 description: >-
-  Your bot looks great, now, let's make it smarter. Edit your eleapi, to suit
+  Your bot looks great, now, let's make it smarter. Edit your EleApi, to suit
   your exact needs.
 ---
 
@@ -8,15 +8,15 @@ description: >-
 
 ## **Overview**
 
-A chat flow determines the structure of conversations between your eleapi and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the EleApi platform.
+A chat flow determines the structure of conversations between your EleApi and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the EleApi platform.
 
 ## **Accessing Chatbot Builder**
 
-To customize your eleapi's flow, follow these steps:
+To customize your EleApi's flow, follow these steps:
 
 * Navigate to the bot menu or homepage on the EleAPI portal.
-* Select your eleapi to open the eleapi builder.
-*   Click on "Edit your chat flow" to access the eleapi builder.\
+* Select your EleApi to open the EleApi builder.
+*   Click on "Edit your chat flow" to access the EleApi builder.\
     \
 
 
@@ -69,4 +69,4 @@ To conclude the chat flow:
 
 If you encounter any issues or need assistance, please contact us at [enquiries@EleApi.io](mailto:enquiries@EleApi.io). We will respond within 48 business hours.
 
-That's it! You're now equipped to customize your eleapi's flow and engage users effectively.
+That's it! You're now equipped to customize your EleApi's flow and engage users effectively.

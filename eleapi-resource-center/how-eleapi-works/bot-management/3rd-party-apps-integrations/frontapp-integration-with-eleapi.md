@@ -20,7 +20,7 @@ Using this integration, you can send your leads' details such as Name, email, an
    * Enter the AuthToken and Source obtained from Frontapp into the corresponding fields.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variable**:
-   * After authentication, you'll be able to map the eleapi’s answers by end-user to the fields of the Frontapp system.
+   * After authentication, you'll be able to map the EleApi’s answers by end-user to the fields of the Frontapp system.
    * Utilize the "Question" dropdown to select the bot questions whose answers you want to store. If the dropdown isn't visible, type “/” to list down all the questions.
    * Map the selected questions to parameters in the Frontapp system. If the dropdown isn't visible, manually enter the parameter names.
    * Add new variables as needed by clicking the “Add Parameter” button from the top right.

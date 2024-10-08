@@ -59,8 +59,8 @@ curl 'https://api.v7.express-chat.com/inbox/users/import' \
   -H 'Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9...' \
   -H 'Content-Type: application/json' \
   -H 'Accept: */*' \
-  -H 'Origin: https://help.eleapi.com' \
-  -H 'Referer: https://help.eleapi.com/' \
+  -H 'Origin: https://help.EleApi.com' \
+  -H 'Referer: https://help.EleApi.com/' \
   -H 'Sec-Fetch-Dest: empty' \
   -H 'Sec-Fetch-Mode: cors' \
   -H 'Sec-Fetch-Site: same-site' \

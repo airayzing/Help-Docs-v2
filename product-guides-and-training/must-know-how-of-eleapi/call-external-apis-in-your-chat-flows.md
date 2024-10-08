@@ -95,4 +95,4 @@ Note: If you want to insert custom variables within the API, use "/" as a placeh
 
 * Map the next question based on your API's response code (e.g., 200, 300, etc.). If the API response code doesn't match any predefined values, it will trigger the response mapped to "others."
 
-And you're done! Your API is ready to enhance your eleapi's functionality and provide dynamic interactions based on API responses.
+And you're done! Your API is ready to enhance your EleApi's functionality and provide dynamic interactions based on API responses.

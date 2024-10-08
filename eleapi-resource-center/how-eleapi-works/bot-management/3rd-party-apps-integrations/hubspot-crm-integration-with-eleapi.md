@@ -8,7 +8,7 @@ This documentation provides instructions for integrating HubSpot CRM with EleAPI
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your eleapi to HubSpot CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your EleApi to HubSpot CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -26,7 +26,7 @@ Follow these steps to enable the integration between HubSpot CRM and EleAPI:
    * Enter the obtained API token in the provided field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * After authentication, you'll be directed to a screen where you can map eleapi responses to HubSpot CRM fields.
+   * After authentication, you'll be directed to a screen where you can map EleApi responses to HubSpot CRM fields.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.

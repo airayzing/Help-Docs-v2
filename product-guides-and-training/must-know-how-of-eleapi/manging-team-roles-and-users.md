@@ -14,7 +14,7 @@ Please note: Only the King (Paid) plan have the feature of having more than one 
 
 Here are brief definitions of users and Roles.
 
-**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in EleAPI help streamline collaboration and access control in the eleapi building and management process.
+**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in EleAPI help streamline collaboration and access control in the EleApi building and management process.
 
 **Team Roles** are the module-based permission (such as view, edit, None) for any roles that can be assigned to different team members.
 

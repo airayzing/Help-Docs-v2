@@ -8,7 +8,7 @@ description: >-
 
 ## :white\_check\_mark: Get Started with EleAPI
 
-EleAPI is a SaaS-based eleapi builder software that automates business communication for you that gives plenty of benefits.
+EleAPI is a SaaS-based EleApi builder software that automates business communication for you that gives plenty of benefits.
 
 We have built comprehensive documentation for you to quickly get started. EleAPI Platform is primarily divided into the following sections.
 

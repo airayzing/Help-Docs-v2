@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial  to how to train your eleapi using
+  This page contains  the stepwise tutorial  to how to train your EleApi using
   the FAQ.
 ---
 
-# 📖 Train your AI eleapi using frequently asked questions (FAQs).
+# 📖 Train your AI EleApi using frequently asked questions (FAQs).
 
 ## Train using FAQs
 

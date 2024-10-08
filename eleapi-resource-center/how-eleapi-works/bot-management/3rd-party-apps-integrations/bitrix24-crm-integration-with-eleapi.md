@@ -24,7 +24,7 @@ Before setting up this integration, ensure you have:
    * Enter the required details obtained from Bitrix24.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables:**
-   * Once authenticated, you'll see a screen where you can map the eleapi’s answers to the fields of your Bitrix24 CRM.
+   * Once authenticated, you'll see a screen where you can map the EleApi’s answers to the fields of your Bitrix24 CRM.
    * Select the bot questions from the "Question" dropdown or type "/" to list all questions.
    * Map these questions to parameters in your Bitrix24 CRM. If dropdowns are not available, enter the parameter names manually.
    * Add new variables as needed by clicking the "Add Parameter" button.

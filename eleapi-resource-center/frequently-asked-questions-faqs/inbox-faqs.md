@@ -17,7 +17,7 @@ description: This section contains FAQs related to the inbox section
 
 <summary>What does <code>visit</code> mean?</summary>
 
-A visit is a term used to describe a visitor that engages in a conversation with your eleapi.
+A visit is a term used to describe a visitor that engages in a conversation with your EleApi.
 
 </details>
 

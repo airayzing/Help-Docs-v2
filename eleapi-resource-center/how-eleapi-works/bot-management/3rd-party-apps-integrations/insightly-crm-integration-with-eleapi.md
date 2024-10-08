@@ -24,7 +24,7 @@ To set up this integration, you'll need:
    * Enter the required details obtained from the previous step.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables:**
-   * Once authenticated, you'll see a screen where you can map the eleapi’s answers to the fields of your Insightly CRM.
+   * Once authenticated, you'll see a screen where you can map the EleApi’s answers to the fields of your Insightly CRM.
    * Select the bot questions from the "Question" dropdown or type "/" to list all questions.
    * Map these questions to parameters in your Insightly CRM. If dropdowns are not available, enter the parameter names manually.
    * Add new variables as needed by clicking the "Add Parameter" button.

@@ -29,4 +29,4 @@ Once you have completed the 1st step, Go to the HTML code of your website.
 
 ### 3. Test your bot now
 
-You have completed all the heavy lifting. Open your website in private mode (Incognito window) to avoid any cache issues and you will find EleAPI eleapi on your website.
+You have completed all the heavy lifting. Open your website in private mode (Incognito window) to avoid any cache issues and you will find EleAPI EleApi on your website.

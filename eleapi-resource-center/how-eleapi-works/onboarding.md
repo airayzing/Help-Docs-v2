@@ -8,7 +8,7 @@ Thank you for starting your digital communication journey with EleAPI. We look f
 
 ### **What is EleAPI?**
 
-EleAPI is a eleapi builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
+EleAPI is a EleApi builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
 
 ### Platform Navigation
 
@@ -47,4 +47,4 @@ Clicking on our friendly logo, you can hide or view the panel. It is the hub for
 
 Now, once you have made friends with EleAPI, let’s get down to business.
 
-Click on create a new bot, and you will have many options. Choose where you want to enhance your customer experience. If you feel ready to enter the world of brimming possibilities, start building a whatsapp eleapi.
+Click on create a new bot, and you will have many options. Choose where you want to enhance your customer experience. If you feel ready to enter the world of brimming possibilities, start building a whatsapp EleApi.

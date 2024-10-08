@@ -13,7 +13,7 @@ After you log in,
 1. Navigate to `Bots`
 2. Select the Bot you want to configure
 3. Select the `Bot Settings` Tab
-4. Click On The `Design` Tab. Here you can customize the position of your eleapi on your website as well as on mobile devices.
+4. Click On The `Design` Tab. Here you can customize the position of your EleApi on your website as well as on mobile devices.
 
 </details>
 

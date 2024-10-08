@@ -8,7 +8,7 @@ description: >-
 
 ## Custom Attributes
 
-Custom Attributes in EleAPI are user-defined properties or variables that can be assigned to individual users within your eleapi platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your eleapi.
+Custom Attributes in EleAPI are user-defined properties or variables that can be assigned to individual users within your EleApi platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your EleApi.
 
 ## Types of Custom Attributes
 
