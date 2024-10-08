@@ -32,4 +32,4 @@ Groups are an invaluable tool for executing marketing broadcast campaigns effici
    * Once filters are applied, proceed with the creation process.
    * Your new group will be created and ready for use in your marketing campaigns.
 
-That's it! You're now equipped to effectively manage your groups within the EleAPI application. Should you have any further questions or need assistance, please don't hesitate to contact our support team.
+That's it! You're now equipped to effectively manage your groups within the eleapi application. Should you have any further questions or need assistance, please don't hesitate to contact our support team.

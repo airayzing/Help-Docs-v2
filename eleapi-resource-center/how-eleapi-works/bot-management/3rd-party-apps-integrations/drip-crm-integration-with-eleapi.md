@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Drip CRM integration with EleAPI
+# Drip CRM integration with eleapi
 
-## Drip CRM Integration with EleAPI
+## Drip CRM Integration with eleapi
 
 ### Use Case
 
@@ -23,7 +23,7 @@ Using this Integration, you can send your leads' details such as Name, email, an
    * Enter the Drip CRM Account Id and API Token obtained from the previous step.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variable**:
-   * After authentication, you'll see the screen where you can map the EleApi’s answers by end-user to the fields of the Drip CRM system.
+   * After authentication, you'll see the screen where you can map the eleapi’s answers by end-user to the fields of the Drip CRM system.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If the dropdown isn't visible, type “/” to list down all the questions.
    * Map the selected questions to parameters in the Drip CRM system. If the dropdown isn't visible, manually enter the parameter names.
    * Add new variables as needed by clicking the “Add Parameter” button from the top right.

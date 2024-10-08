@@ -13,7 +13,7 @@ After you log in,
 1. Navigate to `Bots`
 2. Select the Bot you want to configure
 3. Select the `Bot Settings` Tab
-4. Click On The `Design` Tab. Here you can customize the position of your EleApi on your website as well as on mobile devices.
+4. Click On The `Design` Tab. Here you can customize the position of your eleapi on your website as well as on mobile devices.
 
 </details>
 
@@ -21,7 +21,7 @@ After you log in,
 
 <summary>How to disable Desktop Notifications?</summary>
 
-After you log in to the EleAPI App, Navigate to the `Bot Setting` under the bot's menu.\
+After you log in to the eleapi App, Navigate to the `Bot Setting` under the bot's menu.\
 1\. Go to the Bot Settings and open `Alerts` the tab.\
 2\. Check if you have subscribed to the desktop notifications or not?\
 3\. If yes, You will see the below confirmation.

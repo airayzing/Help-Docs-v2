@@ -2,13 +2,13 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Helpcrunch CRM integration with EleAPI
+# Helpcrunch CRM integration with eleapi
 
-This documentation provides step-by-step instructions for integrating Helpcrunch CRM with EleAPI. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Helpcrunch CRM.
+This documentation provides step-by-step instructions for integrating Helpcrunch CRM with eleapi. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Helpcrunch CRM.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your EleApi to Helpcrunch CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your eleapi to Helpcrunch CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -18,7 +18,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Helpcrunch CRM and EleAPI:
+Follow these steps to enable the integration between Helpcrunch CRM and eleapi:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API key from your Helpcrunch CRM account. Refer to [this guide](https://docs.helpcrunch.com/en/rest-api-v1/api-setup-v1) for assistance.
@@ -26,7 +26,7 @@ Follow these steps to enable the integration between Helpcrunch CRM and EleAPI:
    * Enter the required API key in the provided field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * Once Authenticated, you'll see the screen where you can map the EleApi’s answers by end user to the fields of the target 3rd party system.
+   * Once Authenticated, you'll see the screen where you can map the eleapi’s answers by end user to the fields of the target 3rd party system.
    * Click on the “Question” dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown here, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.

@@ -62,4 +62,4 @@ This document will guide you through the step-by-step process of updating the pa
 
 Congratulations! You have successfully updated the payment method on your WhatsApp account using the Meta Developer Dashboard. The new payment method is now set up for your WhatsApp services.
 
-Please ensure to keep your payment details secure and up-to-date. If you encounter any difficulties during the process or have further questions regarding payment methods on WhatsApp, please refer to the official Meta documentation or contact EleAPI support team for assistance.
+Please ensure to keep your payment details secure and up-to-date. If you encounter any difficulties during the process or have further questions regarding payment methods on WhatsApp, please refer to the official Meta documentation or contact eleapi support team for assistance.

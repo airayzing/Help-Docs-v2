@@ -1,18 +1,18 @@
 ---
 description: >-
   Complete documentation with all tricks and hacks to help you get started with
-  EleAPI
+  eleapi
 ---
 
 # 🏠 Introduction
 
-## :white\_check\_mark: Get Started with EleAPI
+## :white\_check\_mark: Get Started with eleapi
 
-EleAPI is a SaaS-based EleApi builder software that automates business communication for you that gives plenty of benefits.
+eleapi is a SaaS-based eleapi builder software that automates business communication for you that gives plenty of benefits.
 
-We have built comprehensive documentation for you to quickly get started. EleAPI Platform is primarily divided into the following sections.
+We have built comprehensive documentation for you to quickly get started. eleapi Platform is primarily divided into the following sections.
 
-1. Start with EleAPI - Get started
+1. Start with eleapi - Get started
 2. Bot Management - To create, edit, manage, configure and integrate bots.
 3. Inbox - To manage all customer interactions with the Bot.
 4. Team- To manage your team.
@@ -22,16 +22,16 @@ We have built comprehensive documentation for you to quickly get started. EleAPI
 
 You can get detailed know-how by navigating to the below section.
 
-{% content-ref url="EleApi-resource-center/how-EleApi-works/" %}
-[how-EleApi-works](EleApi-resource-center/how-EleApi-works/)
+{% content-ref url="eleapi-resource-center/how-eleapi-works/" %}
+[how-eleapi-works](eleapi-resource-center/how-eleapi-works/)
 {% endcontent-ref %}
 
-{% content-ref url="EleApi-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](EleApi-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="eleapi-resource-center/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](eleapi-resource-center/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="EleApi-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](EleApi-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="eleapi-resource-center/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](eleapi-resource-center/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

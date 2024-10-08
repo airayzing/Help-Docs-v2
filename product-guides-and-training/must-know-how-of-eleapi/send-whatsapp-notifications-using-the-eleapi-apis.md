@@ -1,14 +1,14 @@
 ---
 description: >-
   This page contains the Information on how can you send WhatsApp Notifications
-  from your platform using the EleAPI APIs
+  from your platform using the eleapi APIs
 ---
 
-# 📨 Send WhatsApp notifications using the EleAPI APIs
+# 📨 Send WhatsApp notifications using the eleapi APIs
 
 Before we start, Let's understand the basic workflow.
 
-To create a notification bot with EleAPI, follow these steps:
+To create a notification bot with eleapi, follow these steps:
 
 **Step 1: Get Your API Key**
 

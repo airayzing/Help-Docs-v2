@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Zoho CRM integration with EleAPI
+# Zoho CRM integration with eleapi
 
 ### Use Case
 
-The Zoho CRM integration enables businesses to connect their EleApi with Zoho CRM, facilitating the seamless capture and management of leads, contacts, and customer interactions directly from the EleApi platform.
+The Zoho CRM integration enables businesses to connect their eleapi with Zoho CRM, facilitating the seamless capture and management of leads, contacts, and customer interactions directly from the eleapi platform.
 
 ### Pre-requisite
 
@@ -17,18 +17,18 @@ To set up this integration, you'll need:
 ### Steps to Enable the Integration
 
 1. **Navigate to the “Third-party Integration” Section:**
-   * In your EleApi platform, go to the settings or integrations section and locate the "Third-party Integration" option.
+   * In your eleapi platform, go to the settings or integrations section and locate the "Third-party Integration" option.
 2. **Connect to Zoho CRM:**
    * Click on the "Connect" button and choose Zoho CRM from the list of available integrations.
    * Follow the prompts to authenticate and connect your Zoho CRM account.
 3. **Mapping the Variables:**
-   * Once connected, you'll see a screen where you can map the EleApi’s answers to the fields of your Zoho CRM.
+   * Once connected, you'll see a screen where you can map the eleapi’s answers to the fields of your Zoho CRM.
    * Select bot questions from the "Question" dropdown or manually enter parameter names.
    * Map these questions to parameters in your Zoho CRM. If dropdowns are not available, enter the parameter names manually.
    * Add new variables as needed using the "Add " button.
    * Click "Save" to activate your integration.
 4. **Test Your Integration:**
-   * Open your EleApi and simulate a conversation to create a new ticket in Zoho CRM.
+   * Open your eleapi and simulate a conversation to create a new ticket in Zoho CRM.
    * Verify that the ticket information is correctly sent to Zoho CRM and reflects accurately in your Zoho CRM account.
 
 ### Disconnecting the Integration
@@ -45,4 +45,4 @@ To disconnect the integration:
 * Ensure you have the proper permissions and access rights in your Zoho CRM account to create and manage tickets.
 * Contact the support team if you encounter any issues or need further assistance.
 
-This documentation provides step-by-step instructions for setting up, testing, and disconnecting the Zoho CRM integration with a EleApi, along with relevant notes and prerequisites.
+This documentation provides step-by-step instructions for setting up, testing, and disconnecting the Zoho CRM integration with a eleapi, along with relevant notes and prerequisites.

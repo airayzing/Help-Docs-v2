@@ -6,7 +6,7 @@ description: This page contains information on basic account settings.
 
 ### Manage your account details
 
-To edit your account details on EleAPI platform:
+To edit your account details on eleapi platform:
 
 1.  Navigate to the "Details" section under "My Account".\
 

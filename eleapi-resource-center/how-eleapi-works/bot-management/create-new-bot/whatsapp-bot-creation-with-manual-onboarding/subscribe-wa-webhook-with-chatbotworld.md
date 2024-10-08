@@ -4,7 +4,7 @@ description: >-
   WhatsApp account
 ---
 
-# 🔗 Subscribe WA webhook with EleAPI
+# 🔗 Subscribe WA webhook with eleapi
 
 This document will guide you through the step-by-step process of subscribing to a webhook for your WhatsApp account on the Meta dashboard. By following these instructions, you can receive messages and notifications via the webhook.
 
@@ -59,4 +59,4 @@ This document will guide you through the step-by-step process of subscribing to 
 
 Congratulations! You have successfully subscribed to the webhook for your WhatsApp account on the Meta Dashboard. Now, you will be able to receive messages and notifications through the specified webhook URL (`https://api-v7.express-chat.com/whatsapp/cloud`).
 
-Please note that the process of subscribing to webhooks may be subject to changes or updates in the Meta Dashboard. If you encounter any difficulties or issues during the process, refer to the official Meta documentation or contact EleAPI support team for further assistance.\
+Please note that the process of subscribing to webhooks may be subject to changes or updates in the Meta Dashboard. If you encounter any difficulties or issues during the process, refer to the official Meta documentation or contact eleapi support team for further assistance.\

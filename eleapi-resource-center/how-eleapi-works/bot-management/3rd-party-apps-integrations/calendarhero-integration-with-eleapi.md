@@ -2,7 +2,7 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# CalendarHero integration with EleAPI
+# CalendarHero integration with eleapi
 
 ### Use Case
 
@@ -20,7 +20,7 @@ Using this integration, you can send your leads' details such as Name, email, an
    * Enter the API Token obtained from CalendarHero into the corresponding field.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variable**:
-   * After authentication, you'll see the screen where you can map the EleApi’s answers by end-user to the fields of the CalendarHero system.
+   * After authentication, you'll see the screen where you can map the eleapi’s answers by end-user to the fields of the CalendarHero system.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If the dropdown isn't visible, type “/” to list down all the questions.
    * Map the selected questions to parameters in the CalendarHero system. If the dropdown isn't visible, manually enter the parameter names.
    * Add new variables as needed by clicking the “Add Parameter” button from the top right.

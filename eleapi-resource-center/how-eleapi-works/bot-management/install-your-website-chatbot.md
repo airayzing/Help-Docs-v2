@@ -1,12 +1,12 @@
 ---
 description: >-
-  This page contains the tutorial on how to install the EleAPI website bot
+  This page contains the tutorial on how to install the eleapi website bot
   on the website.
 ---
 
 # 📖 Install your Website Chatbot
 
-EleAPI website bots support all sort of websites. However most common of all is custom build. Here is how you can integrate chatbots on custom-build websites.
+eleapi website bots support all sort of websites. However most common of all is custom build. Here is how you can integrate chatbots on custom-build websites.
 
 ## :white\_check\_mark: Installation Instructions
 
@@ -14,9 +14,9 @@ EleAPI website bots support all sort of websites. However most common of all is 
 
 Before you move ahead, Make sure you have completed the following steps.
 
-* Create your bot on the EleAPI dashboard.
+* Create your bot on the eleapi dashboard.
 * Design your chatflow and other design settings from the bot setup page.
-* Once Done, Go to the EleAPI setup page and then click on the `Install your Chatbot`
+* Once Done, Go to the eleapi setup page and then click on the `Install your Chatbot`
 * Select the `Java Script` and copy the API Code/Key and save it safe with yourself.
 
 ### 2. Paste API Code/key and make the bot live
@@ -29,4 +29,4 @@ Once you have completed the 1st step, Go to the HTML code of your website.
 
 ### 3. Test your bot now
 
-You have completed all the heavy lifting. Open your website in private mode (Incognito window) to avoid any cache issues and you will find EleAPI EleApi on your website.
+You have completed all the heavy lifting. Open your website in private mode (Incognito window) to avoid any cache issues and you will find eleapi eleapi on your website.

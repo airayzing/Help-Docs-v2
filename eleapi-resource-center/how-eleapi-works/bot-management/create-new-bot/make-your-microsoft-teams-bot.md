@@ -6,7 +6,7 @@ description: >-
 
 # 📖 Website, Live chat or Landing Page Bots
 
-To create website EleApi follow following steps:
+To create website eleapi follow following steps:
 
 1. Navigate to platform's homepage and click on "Create new bot" button on top left. Then select the use case and proceed.
 

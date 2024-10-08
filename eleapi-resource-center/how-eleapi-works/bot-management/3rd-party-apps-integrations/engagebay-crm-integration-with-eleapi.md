@@ -2,11 +2,11 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# EngageBay CRM integration with EleAPI
+# EngageBay CRM integration with eleapi
 
 ### Use Case
 
-This integration allows you to transmit lead details such as Name, Email, and Phone from your EleAPI platform to the EngageBay CRM.
+This integration allows you to transmit lead details such as Name, Email, and Phone from your eleapi platform to the EngageBay CRM.
 
 ### Pre-requisite
 

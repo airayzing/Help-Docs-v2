@@ -1,7 +1,7 @@
 ---
 description: >-
   This page contains information on how you configure chat menu of your website
-  EleApi
+  eleapi
 layout:
   title:
     visible: true

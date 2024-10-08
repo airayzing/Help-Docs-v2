@@ -2,13 +2,13 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Google Tasks integration with EleAPI
+# Google Tasks integration with eleapi
 
-### Google Tasks Integration with EleAPI
+### Google Tasks Integration with eleapi
 
 ### Use Case
 
-This integration involves leveraging the capabilities of Google tasks to manage and organize data collected from various sources, such as online forms, applications, or in this case, from a EleApi.
+This integration involves leveraging the capabilities of Google tasks to manage and organize data collected from various sources, such as online forms, applications, or in this case, from a eleapi.
 
 ### Pre-requisite
 
@@ -23,7 +23,7 @@ To set up this integration, you'll need:
 3. Follow the on screen steps, and by allowing all the necessary permission you will get logged in.
 4. Once you are logged in, you can now map the variables as explained below.
 5. **Mapping the Variables:**
-   * After authentication, you'll see a screen where you can map the EleApi’s answers to the fields of your Google Tasks.
+   * After authentication, you'll see a screen where you can map the eleapi’s answers to the fields of your Google Tasks.
    * Here You can Create the “Task list” to your google sheet.
    * Select the bot questions from the "Question" dropdown or type "/" to list down all the questions.
    * Map these questions to parameters in your Google Tasks. If dropdowns are not available, enter the parameter names manually.
@@ -48,4 +48,4 @@ To disconnect the integration:
 
 ***
 
-This documentation provides step-by-step instructions for setting up, testing, and disconnecting the Google Tasks integration with a EleApi, along with relevant notes and prerequisites.
+This documentation provides step-by-step instructions for setting up, testing, and disconnecting the Google Tasks integration with a eleapi, along with relevant notes and prerequisites.

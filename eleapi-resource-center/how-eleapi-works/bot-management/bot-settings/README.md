@@ -10,8 +10,8 @@ Bot setting is being managed based on the channel and each bot separately. Here 
 [website-bot-settings](website-bot-settings/)
 {% endcontent-ref %}
 
-{% content-ref url="whatsapp-EleApi-settings/" %}
-[whatsapp-EleApi-settings](whatsapp-EleApi-settings/)
+{% content-ref url="whatsapp-eleapi-settings/" %}
+[whatsapp-eleapi-settings](whatsapp-eleapi-settings/)
 {% endcontent-ref %}
 
 {% content-ref url="telegram-bot-settings/" %}

@@ -1,7 +1,7 @@
 ---
 description: >-
   This page contains all the information that you can configure in the design
-  section of the website EleApi settings.
+  section of the website eleapi settings.
 ---
 
 # 📖 Design
@@ -10,7 +10,7 @@ This table summarizes all the settings options available for configuring your bo
 
 <figure><img src="../../../../../.gitbook/assets/1 – 54.png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th width="279">Setting</th><th>Description</th></tr></thead><tbody><tr><td>Bot Name</td><td>Enter the desired name for your bot. It will be displayed to users during interactions and Main name for EleApi</td></tr><tr><td>Call to Action</td><td>CTA text just beside the Chatbot icon</td></tr><tr><td>Chat background color</td><td>Select the background color of the EleApi</td></tr><tr><td>Chat Text Color</td><td>Text color for the EleApi</td></tr><tr><td>Hide CTA Chat Bubble</td><td>Hides the CTA tect beside EleApi icon on website</td></tr><tr><td>Chat Bubble Background Color</td><td>Back ground Color for CTA Text</td></tr><tr><td>Chat Bubble Text Color</td><td>Color for CTA Text</td></tr><tr><td>Theme</td><td>Chatbot theme, Preview the bot for better understanding</td></tr><tr><td>Window Size</td><td>How big your window should be</td></tr><tr><td>Window Position</td><td>Where you want to show bot on your website</td></tr></tbody></table>
+<table><thead><tr><th width="279">Setting</th><th>Description</th></tr></thead><tbody><tr><td>Bot Name</td><td>Enter the desired name for your bot. It will be displayed to users during interactions and Main name for eleapi</td></tr><tr><td>Call to Action</td><td>CTA text just beside the Chatbot icon</td></tr><tr><td>Chat background color</td><td>Select the background color of the eleapi</td></tr><tr><td>Chat Text Color</td><td>Text color for the eleapi</td></tr><tr><td>Hide CTA Chat Bubble</td><td>Hides the CTA tect beside eleapi icon on website</td></tr><tr><td>Chat Bubble Background Color</td><td>Back ground Color for CTA Text</td></tr><tr><td>Chat Bubble Text Color</td><td>Color for CTA Text</td></tr><tr><td>Theme</td><td>Chatbot theme, Preview the bot for better understanding</td></tr><tr><td>Window Size</td><td>How big your window should be</td></tr><tr><td>Window Position</td><td>Where you want to show bot on your website</td></tr></tbody></table>
 
 **Saving Changes**
 

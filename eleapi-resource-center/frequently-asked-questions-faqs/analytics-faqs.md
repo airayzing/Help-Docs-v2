@@ -8,7 +8,7 @@ description: This section contains FAQs related to the Analytics section
 
 <summary><strong>What do messages mean?</strong></summary>
 
-Messages are the count of messages sent by a EleApi during a conversation. You are assigned a specific number of messages per billing period according to your plan that you can see on your dashboard.
+Messages are the count of messages sent by a eleapi during a conversation. You are assigned a specific number of messages per billing period according to your plan that you can see on your dashboard.
 
 </details>
 
@@ -16,7 +16,7 @@ Messages are the count of messages sent by a EleApi during a conversation. You a
 
 <summary>What do Conversations mean?</summary>
 
-Conversations are the unique chat sessions visitors engage with your EleApi during their visit. You can track your conversations with your dashboard and the inbox dashboard. A conversation terminates when a user closes the chat widget.
+Conversations are the unique chat sessions visitors engage with your eleapi during their visit. You can track your conversations with your dashboard and the inbox dashboard. A conversation terminates when a user closes the chat widget.
 
 </details>
 
@@ -24,7 +24,7 @@ Conversations are the unique chat sessions visitors engage with your EleApi duri
 
 <summary><strong>How do we count messages?</strong></summary>
 
-We count only the messages the EleApi sends to the bot user during any billing period. It will not count any messages sent by the user.
+We count only the messages the eleapi sends to the bot user during any billing period. It will not count any messages sent by the user.
 
 </details>
 
@@ -40,7 +40,7 @@ The people who leave their contact information, like phone numbers and email add
 
 <summary><strong>What is considered the lead?</strong></summary>
 
-The visitors who leave their contact information, like phone numbers and email addresses, are leads with our chatbots. In your EleApi, you can mark any question for lead consideration. If the user replies to that question, it will be considered a lead.
+The visitors who leave their contact information, like phone numbers and email addresses, are leads with our chatbots. In your eleapi, you can mark any question for lead consideration. If the user replies to that question, it will be considered a lead.
 
 </details>
 

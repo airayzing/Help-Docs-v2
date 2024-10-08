@@ -1,2 +1,2 @@
-# 📖 WhatsApp EleApi Settings
+# 📖 WhatsApp eleapi Settings
 

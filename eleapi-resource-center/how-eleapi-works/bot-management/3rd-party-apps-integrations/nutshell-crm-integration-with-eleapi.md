@@ -2,13 +2,13 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Nutshell CRM integration with EleAPI
+# Nutshell CRM integration with eleapi
 
-This documentation provides instructions for integrating Nutshell CRM with EleAPI. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Nutshell CRM.
+This documentation provides instructions for integrating Nutshell CRM with eleapi. By following these steps, you'll be able to seamlessly send lead details such as Name, Email, and Phone to Nutshell CRM.
 
 ### Use Case
 
-This integration facilitates the transfer of lead details captured by your EleApi to Nutshell CRM, streamlining your lead management process.
+This integration facilitates the transfer of lead details captured by your eleapi to Nutshell CRM, streamlining your lead management process.
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ Before enabling the integration, ensure you have the following prerequisites:
 
 ### Steps to Enable the Integration
 
-Follow these steps to enable the integration between Nutshell CRM and EleAPI:
+Follow these steps to enable the integration between Nutshell CRM and eleapi:
 
 1. **Get the Required 3rd Party Data**:
    * Obtain the necessary API key from your Nutshell CRM account. Refer to [this guide](https://support.nutshell.com/en/articles/8429060-api-keys-create-api-keys-to-integrate-3rd-party-apps) for assistance.
@@ -27,7 +27,7 @@ Follow these steps to enable the integration between Nutshell CRM and EleAPI:
    * Enter the obtained email address and API key in the provided fields.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variables**:
-   * After authentication, you'll be directed to a screen where you can map EleApi responses to Nutshell CRM fields.
+   * After authentication, you'll be directed to a screen where you can map eleapi responses to Nutshell CRM fields.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If you don't see the dropdown, type "/" to list all questions.
    * Map these answers to parameters in the next field. If you don't see the dropdown, enter the parameter name of your 3rd party system.
    * Add new variables by clicking the “Add Parameter” button from the top right.

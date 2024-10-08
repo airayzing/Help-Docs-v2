@@ -2,9 +2,9 @@
 description: This page contains the information about the 3rd party integrations.
 ---
 
-# Nocrm integration with EleAPI
+# Nocrm integration with eleapi
 
-## Nocrm Integration with EleAPI
+## Nocrm Integration with eleapi
 
 ### Use Case
 
@@ -24,7 +24,7 @@ This integration allows you to send lead details such as Name, email, and phone 
    * Enter the required details obtained from the previous step.
    * Proceed to authenticate your account credentials.
 3. **Mapping the Variable**:
-   * After authentication, you'll see the screen where you can map the EleApi’s answers by end-user to the fields of the Nocrm system.
+   * After authentication, you'll see the screen where you can map the eleapi’s answers by end-user to the fields of the Nocrm system.
    * Use the "Question" dropdown to select the bot questions whose answers you want to store. If the dropdown isn't visible, type “/” to list down all the questions.
    * Map the selected questions to parameters in the Nocrm system. If the dropdown isn't visible, manually enter the parameter names.
    * Add new variables as needed by clicking the “Add Parameter” button from the top right.

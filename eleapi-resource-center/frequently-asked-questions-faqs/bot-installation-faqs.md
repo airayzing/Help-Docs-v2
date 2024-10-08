@@ -10,7 +10,7 @@ description: >-
 
 <summary>How to install website bot using java script.</summary>
 
-Copy the Javascript code from the EleAPI app & Go to y
+Copy the Javascript code from the eleapi app & Go to y
 
 1. our website's HTML code
 2. Paste the script in the head or body tag of your HTML code
@@ -18,7 +18,7 @@ Copy the Javascript code from the EleAPI app & Go to y
 **Please Note**
 
 1. Ensure that you paste the script before the tag is closed, i.e., paste the script before `</head>` or `</body>`.
-2. Make sure EleAPI should be the last script to execute, as some scripts may override the EleAPI script.
+2. Make sure eleapi should be the last script to execute, as some scripts may override the eleapi script.
 
 </details>
 
@@ -26,15 +26,15 @@ Copy the Javascript code from the EleAPI app & Go to y
 
 <summary>How to install a bot on a WordPress website?</summary>
 
-After you have logged into your EleAPI account, Go to the Bots Tab, select the desired Bot, and navigate to the Install section.
+After you have logged into your eleapi account, Go to the Bots Tab, select the desired Bot, and navigate to the Install section.
 
 1. Move to the WordPress section and copy the API key available there.
 2. Open your website's wp-admin, adding "/wp-admin" at the end of your Domain URL. E.g., If your website URL is "www.expample.com," then you can open WP-Admin using the Link "www.example.com/wp-admin"
-3. Go to Plugins > Add new > Search EleAPI > Install now > Activate plugin"
-4. Install the "EleAPI" Plugin and then activate the same.
+3. Go to Plugins > Add new > Search eleapi > Install now > Activate plugin"
+4. Install the "eleapi" Plugin and then activate the same.
 5. Upon activating the Plugin, you will be redirected to the plugins page with the confirmation message "Plugin Activated."
-6. Once your Plugin is activated, paste the Bot Penguin API key in the Box named "EleAPI Snippet" that you Copied from your EleAPI account.
-7. Save the Settings, and you are all set. EleAPI has been integrated into your website.
+6. Once your Plugin is activated, paste the Bot Penguin API key in the Box named "eleapi Snippet" that you Copied from your eleapi account.
+7. Save the Settings, and you are all set. eleapi has been integrated into your website.
 
 </details>
 
@@ -42,13 +42,13 @@ After you have logged into your EleAPI account, Go to the Bots Tab, select the d
 
 <summary>Bot is not showing up upon activation of wp-rocket plugin.</summary>
 
-If you have both wp-rocket and EleAPI Plugin/Script added to your WordPress site, You may face the issue of the EleAPI not showing up on the website.
+If you have both wp-rocket and eleapi Plugin/Script added to your WordPress site, You may face the issue of the eleapi not showing up on the website.
 
 In case you are facing such issues, try the below steps, and it will solve the problem.
 
 1. Login to your wp-admin panel and open the `wp-rocket` settings.
 2. Go to the `File Optimization` → `JavaScript Files` -> `Load JavaScript deferred`
-3. Add the EleAPI bot script here under `Exclude Java Script Files` option, and done!
+3. Add the eleapi bot script here under `Exclude Java Script Files` option, and done!
 
 For more details, Check out the following documentation by `wp-rocket`
 
@@ -58,9 +58,9 @@ For more details, Check out the following documentation by `wp-rocket`
 
 <details>
 
-<summary>What is the minimum browser version requirement for the EleAPI website bot?</summary>
+<summary>What is the minimum browser version requirement for the eleapi website bot?</summary>
 
-EleAPI is a JS-based software. Hence your browser must support the Java Script. The minimum requirement for some renowned browsers are as follows:
+eleapi is a JS-based software. Hence your browser must support the Java Script. The minimum requirement for some renowned browsers are as follows:
 
 * Google Chrome: Version 51 or above
 * Edge: Version 14 or above
@@ -71,18 +71,18 @@ EleAPI is a JS-based software. Hence your browser must support the Java Script. 
 
 <details>
 
-<summary>How to resolve the latency issues on my website when I have a EleApi installed?</summary>
+<summary>How to resolve the latency issues on my website when I have a eleapi installed?</summary>
 
-We understand the criticality of website speed and responsiveness. Adding a trigger delay only delays the EleApi from opening, but the script of the EleApi is loaded at the same time as the page, which can delay the overall page loading and create latency issues. This happens because of the vast processes that allow chatbots to run smoothly. However, this problem can be solved.
+We understand the criticality of website speed and responsiveness. Adding a trigger delay only delays the eleapi from opening, but the script of the eleapi is loaded at the same time as the page, which can delay the overall page loading and create latency issues. This happens because of the vast processes that allow chatbots to run smoothly. However, this problem can be solved.
 
-In the document ready function, create a timeout function of 3sec. In that timeout function, create a script element with the details of the script shared while installing the EleApi.
+In the document ready function, create a timeout function of 3sec. In that timeout function, create a script element with the details of the script shared while installing the eleapi.
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```javascript
 <script>
     const scriptEle = document.createElement("script");
-    scriptEle.src = ('src', 'https://cdn.EleApi.io/EleApi.js');
-    scriptEle.setAttribute('id', 'EleApi-messenger-widget');
+    scriptEle.src = ('src', 'https://cdn.eleapi.io/eleapi.js');
+    scriptEle.setAttribute('id', 'eleapi-messenger-widget');
     scriptEle.innerHTML = '[Your Bot ID]';
 
     document.onreadystatechange = function () {

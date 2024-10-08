@@ -1,6 +1,6 @@
 ---
 description: >-
-  Find the answers to the most asked questions about EleAPI's integration
+  Find the answers to the most asked questions about eleapi's integration
   with ChatGPT
 ---
 
@@ -8,9 +8,9 @@ description: >-
 
 <details>
 
-<summary>Can I train EleAPI chatbots on my own data with ChatGPT?</summary>
+<summary>Can I train eleapi chatbots on my own data with ChatGPT?</summary>
 
-Yes, EleAPI state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
+Yes, eleapi state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
 
 </details>
 

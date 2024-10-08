@@ -6,7 +6,7 @@ description: This section contains the Leads and Chat API references
 
 ## Get the essentials first!
 
-To use the EleAPI APIs, You need to insure that you have following details with you.
+To use the eleapi APIs, You need to insure that you have following details with you.
 
 A. **UUID -** You can get the UUID from the local web session storage as show in the image below:
 
@@ -20,7 +20,7 @@ For Chatbot page URL
 ```markup
 // Chatbot Page URL Structure
 
-https://page.EleApi.io/BotId/CustomerId
+https://page.eleapi.io/BotId/CustomerId
 
 // The first value after .com is the BotId and second value is the CustomerId.
 ```
@@ -30,7 +30,7 @@ For Chatbot Script
 
 <pre class="language-markup" data-overflow="wrap" data-line-numbers><code class="lang-markup"><strong>// Chatbot Script Structure
 </strong>
-&#x3C;script id="EleApi-messenger-widget" src="https://cdn.EleApi.io/EleApi.js" defer>BotId,CustomerId&#x3C;/script>
+&#x3C;script id="eleapi-messenger-widget" src="https://cdn.eleapi.io/eleapi.js" defer>BotId,CustomerId&#x3C;/script>
 
 // The first value after defer> is the BotId &#x26; second value is the CustomerId.
 </code></pre>
@@ -43,7 +43,7 @@ Now you are ready to run the POC
 
 Please use the below APIs in order to play with your leads and chat data.
 
-### Create a lead in the EleAPI
+### Create a lead in the eleapi
 
 As soon as any user opens up the Bot, It creates one UUId; pass the same along with the other required details to create and update the lead's details.
 
@@ -145,7 +145,7 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
             "lastMessage": {
                 "at": "2023-02-01T06:00:20.000Z",
                 "by": "bot",
-                "text": "Welcome to EleApi. I am here to help you."
+                "text": "Welcome to eleapi. I am here to help you."
             },
             "lastSeenAt": "2023-02-01T06:00:21.000Z",
             "profile": {
@@ -210,4 +210,4 @@ To get the listing of the leads and its meta data, Hit the below API with mandat
 
 ### :question: Got any questions?
 
-If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@EleApi.io
+If you have any questions, you can look into our repository of FAQs, most likely, you will find your answer here, If not, write us at enquiries@eleapi.io

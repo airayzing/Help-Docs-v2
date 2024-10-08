@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial on how to train the AI EleApi by
+  This page contains  the stepwise tutorial on how to train the AI eleapi by
   uploading files into the bot.
 ---
 
-# 📖 Train your AI EleApi by uploading files.
+# 📖 Train your AI eleapi by uploading files.
 
 ## Training bot in text files
 
