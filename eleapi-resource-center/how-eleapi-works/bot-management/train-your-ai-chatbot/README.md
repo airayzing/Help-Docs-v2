@@ -20,21 +20,21 @@ As of now, you can train your eleapi using the following sources.
 Please find below the relevant reference Links.
 
 {% content-ref url="train-your-ai-eleapi-using-websites.md" %}
-[train-your-ai-eleapi-using-websites.md](train-your-ai-eleapi-using-websites.md)
+[train-your-ai-chatbot-using-websites.md](train-your-ai-chatbot-using-websites.md)
 {% endcontent-ref %}
 
 {% content-ref url="train-your-ai-eleapi-by-uploading-files..md" %}
-[train-your-ai-eleapi-by-uploading-files..md](train-your-ai-eleapi-by-uploading-files..md)
+[train-your-ai-chatbot-by-uploading-files..md](train-your-ai-chatbot-by-uploading-files..md)
 {% endcontent-ref %}
 
-{% content-ref url="train-your-ai-eleapi-using-frequently-asked-questions-faqs-..md" %}
-[train-your-ai-eleapi-using-frequently-asked-questions-faqs-..md](train-your-ai-eleapi-using-frequently-asked-questions-faqs-..md)
+{% content-ref url="train-your-ai-chatbot-using-frequently-asked-questions-faqs-..md" %}
+[train-your-ai-chatbot-using-frequently-asked-questions-faqs-..md](train-your-ai-chatbot-using-frequently-asked-questions-faqs-..md)
 {% endcontent-ref %}
 
 {% content-ref url="train-your-bot-using-the-conversation-history..md" %}
 [train-your-bot-using-the-conversation-history..md](train-your-bot-using-the-conversation-history..md)
 {% endcontent-ref %}
 
-{% content-ref url="train-your-ai-eleapi-using-other-sources..md" %}
-[train-your-ai-eleapi-using-other-sources..md](train-your-ai-eleapi-using-other-sources..md)
+{% content-ref url="train-your-ai-chatbot-using-other-sources..md" %}
+[train-your-ai-chatbot-using-other-sources..md](train-your-ai-chatbot-using-other-sources..md)
 {% endcontent-ref %}
