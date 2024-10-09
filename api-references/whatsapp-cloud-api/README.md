@@ -16,7 +16,7 @@ The team will be required to create and get the templates approved by the Facebo
 
 In order to generate the WhatsApp API key,
 
-1. Go to the eleapi Dashboard ( [https://help.eleapi.com/](https://app.eleapi.com/) )
+1. Go to the eleapi Dashboard ( [https://help.eleapis.com/](https://app.eleapi.com/) )
 2. Find your bot and go to `WhatsApp Bot Settings` section.
 3. Under `WhatsApp Bot Settings`, Navigate to the API key and Click on generate an API key.
 4. You will require to update the webhook URL, on which we will send the delivery reports.
