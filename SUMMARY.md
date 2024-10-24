@@ -48,7 +48,7 @@
       * [📖 Broadcasts on WhatsApp, Telegram & Facebook](eleapi-resource-center/how-eleapi-works/bot-management/marketing-automation/broadcasts-on-whatsapp-telegram-and-facebook.md)
       * [📖 Drip Campaigns on WhatsApp, Telegram & Facebook](eleapi-resource-center/how-eleapi-works/bot-management/marketing-automation/drip-campaigns-on-whatsapp-telegram-and-facebook.md)
     * [📖 Install your Website Chatbot](eleapi-resource-center/how-eleapi-works/bot-management/install-your-website-chatbot/README.md)
-      * [Page 1](eleapi-resource-center/how-eleapi-works/bot-management/install-your-website-chatbot/page-1.md)
+      * [Install Website Bot on WordPress](eleapi-resource-center/how-eleapi-works/bot-management/install-your-website-chatbot/install-website-bot-on-wordpress.md)
     * [📖 3rd Party Apps Integrations](eleapi-resource-center/how-eleapi-works/bot-management/3rd-party-apps-integrations/README.md)
       * [Agile CRM integration with eleapi](eleapi-resource-center/how-eleapi-works/bot-management/3rd-party-apps-integrations/agile-crm-integration-with-eleapi.md)
       * [Apptivo CRM integration with eleapi](eleapi-resource-center/how-eleapi-works/bot-management/3rd-party-apps-integrations/apptivo-crm-integration-with-eleapi.md)
