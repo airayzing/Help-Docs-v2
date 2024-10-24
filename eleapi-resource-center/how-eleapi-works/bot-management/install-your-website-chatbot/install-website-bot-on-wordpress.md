@@ -16,10 +16,10 @@ Eleapi's website bots support all sorts of websites. However, the most common of
 
 Before you move ahead, make sure you have completed the following steps:
 
-1. Create your bot on the Eleapi's dashboard.
-2. Design your chatflow and other design settings from the bot setup page.
-3. Once done, go to the Eleapi's setup page and then click on **Install your Chatbot**.
-4. Select WordPress and copy the API Code/Key. Save it safely.
+* [ ] Create your bot on the Eleapi's dashboard.
+* [ ] Design your chatflow and other design settings from the bot setup page.
+* [ ] Once done, go to the Eleapi's setup page and then click on **Install your Chatbot**.
+* [ ] Select WordPress and copy the API Code/Key. Save it safely.
 
 #### 2. Install the Eleapi's chat plugin from the WordPress plugin center
 
@@ -60,3 +60,6 @@ If you have encountered any bugs, report them now, and we will fix them ASAP:
 If you have any questions, you can look into our repository of FAQs. Most likely, you will find your answer here. If not, write us at eleapisdeveloper@gmail.com.
 
 ❓ **\[Frequently asked questions (FAQs)]**
+
+{% embed url="https://app.gitbook.com/o/wzNKk6T6AUAi4JagtJU8/s/Zn5JJsTu4fi1gbWsHaoo/eleapi-resource-center/frequently-asked-questions-faqs" %}
+
