@@ -1,18 +1,18 @@
 ---
 description: >-
   Complete documentation with all tricks and hacks to help you get started with
-  WeBots
+  ChatBotXL
 ---
 
 # 🏠 Introduction
 
-## :white\_check\_mark: Get Started with WeBots
+## :white\_check\_mark: Get Started with ChatBotXL
 
-WeBots is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
+ChatBotXL is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
 
-We have built comprehensive documentation for you to quickly get started. WeBots Platform is primarily divided into the following sections.
+We have built comprehensive documentation for you to quickly get started. ChatBotXL Platform is primarily divided into the following sections.
 
-1. Start with WeBots - Get started
+1. Start with ChatBotXL - Get started
 2. Bot Management - To create, edit, manage, configure and integrate bots.
 3. Inbox - To manage all customer interactions with the Bot.
 4. Team- To manage your team.
@@ -22,16 +22,16 @@ We have built comprehensive documentation for you to quickly get started. WeBots
 
 You can get detailed know-how by navigating to the below section.
 
-{% content-ref url="webots-resource-center/how-webots-works/" %}
-[how-webots-works](webots-resource-center/how-webots-works/)
+{% content-ref url="chatbotxl-resource-center/how-chatbotxl-works/" %}
+[how-chatbotxl-works](chatbotxl-resource-center/how-chatbotxl-works/)
 {% endcontent-ref %}
 
-{% content-ref url="webots-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](webots-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="chatbotxl-resource-center/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](chatbotxl-resource-center/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="webots-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](webots-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="chatbotxl-resource-center/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](chatbotxl-resource-center/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
