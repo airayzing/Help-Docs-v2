@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Introduction](README.md)
+* [🏠 Witaj na stronie pomocy ChatBotXL](README.md)
 
 ## 📒 ChatBotXL Resource Center
 

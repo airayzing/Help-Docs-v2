@@ -1,10 +1,10 @@
 ---
 description: >-
-  Complete documentation with all tricks and hacks to help you get started with
-  ChatBotXL
+  Kompletna dokumentacja z praktycznymi poradami i wskazówkami, które ułatwią
+  rozpoczęcie pracy z ChatBotXL.
 ---
 
-# 🏠 Introduction
+# 🏠 Witaj na stronie pomocy ChatBotXL
 
 ## :white\_check\_mark: Get Started with ChatBotXL
 
