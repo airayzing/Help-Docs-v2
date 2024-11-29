@@ -4,7 +4,7 @@
 
 ## 📒 ChatBotXL Resource Center
 
-* [🏃‍♂️ How ChatBotXL works?](chatbotxl-resource-center/how-chatbotxl-works/README.md)
+* [🏃‍♂️ Jak działa ChatBot XL?](chatbotxl-resource-center/how-chatbotxl-works/README.md)
   * [📖 Starting with ChatBotXL](chatbotxl-resource-center/how-chatbotxl-works/onboarding.md)
   * [📖 Bot Management](chatbotxl-resource-center/how-chatbotxl-works/bot-management/README.md)
     * [📖 Create new Bot](chatbotxl-resource-center/how-chatbotxl-works/bot-management/create-new-bot/README.md)

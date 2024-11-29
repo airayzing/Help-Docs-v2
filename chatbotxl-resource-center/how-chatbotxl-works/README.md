@@ -1,12 +1,12 @@
 ---
 description: >-
-  Look at you, empowered and glowing with the powers of automation and customer
-  engagement
+  Zasilany przez AI – pełny energii, gotowy wykorzystać moc automatyzacji i
+  zaangażowania klientów!
 ---
 
-# 🏃‍♂️ How ChatBotXL works?
+# 🏃‍♂️ Jak działa ChatBot XL?
 
-We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of ChatBotXL.
+Opracowaliśmy szczegółowe poradniki i dokumentację pomocną na każdym etapie Twojej podróży jako użytkownika. Jeśli jednak czegoś zabraknie, daj nam znać, a chętnie to uzupełnimy. Poniżej znajdziesz kluczowe strony, które pozwolą Ci lepiej zrozumieć najważniejsze moduły ChatBot XL.
 
 {% content-ref url="bot-management/" %}
 [bot-management](bot-management/)
