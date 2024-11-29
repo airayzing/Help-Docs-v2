@@ -1,14 +1,14 @@
 ---
-description: This page contains information on how to get started with ChatBotXL.
+description: Na tej stronie znajdziesz informacje, jak rozpocząć pracę z ChatBot XL.
 ---
 
-# 📖 Starting with ChatBotXL
+# 📖 Pierwsze kroki z ChatBot XL
 
-Thank you for starting your digital communication journey with ChatBotXL. We look forward to being a part of your growth journey.
+Dziękujemy, że wybrałaś ChatBotXL na początek swojej przygody z cyfrową komunikacją. Z przyjemnością będziemy wspierać Cię na ścieżce rozwoju.
 
-### **What is ChatBotXL?**
+### [**Co to jest ChatBotXL?**](#user-content-fn-1)[^1]
 
-ChatBotXL is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
+ChatBotXL to narzędzie do tworzenia chatbotów, które automatyzuje rozmowy i usprawnia proces generowania leadów (pozyskiwania nowych klientów). Nasz zestaw funkcji doskonale sprawdza się w różnych zastosowaniach biznesowych, i mamy nadzieję, że znajdziesz tu dokładnie to, czego potrzebujesz!
 
 ### Platform Navigation
 
@@ -48,3 +48,5 @@ Clicking on our friendly logo, you can hide or view the panel. It is the hub for
 Now, once you have made friends with ChatBotXL, let’s get down to business.
 
 Click on create a new bot, and you will have many options. Choose where you want to enhance your customer experience. If you feel ready to enter the world of brimming possibilities, start building a whatsapp chatbot.
+
+[^1]: 

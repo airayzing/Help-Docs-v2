@@ -5,7 +5,7 @@
 ## 📒 ChatBotXL Resource Center
 
 * [🏃‍♂️ Jak działa ChatBot XL?](chatbotxl-resource-center/how-chatbotxl-works/README.md)
-  * [📖 Starting with ChatBotXL](chatbotxl-resource-center/how-chatbotxl-works/onboarding.md)
+  * [📖 Pierwsze kroki z ChatBot XL](chatbotxl-resource-center/how-chatbotxl-works/onboarding.md)
   * [📖 Bot Management](chatbotxl-resource-center/how-chatbotxl-works/bot-management/README.md)
     * [📖 Create new Bot](chatbotxl-resource-center/how-chatbotxl-works/bot-management/create-new-bot/README.md)
       * [📖 Website, Live chat or Landing Page Bots](chatbotxl-resource-center/how-chatbotxl-works/bot-management/create-new-bot/make-your-microsoft-teams-bot.md)
