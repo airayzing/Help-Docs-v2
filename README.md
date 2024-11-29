@@ -4,9 +4,9 @@ description: >-
   rozpoczęcie pracy z ChatBotXL.
 ---
 
-# 🏠 Witaj na stronie pomocy ChatBotXL
+# 🏠 Witaj na stronie pomocy ChatBot XL
 
-## :white\_check\_mark: Get Started with ChatBotXL
+## :white\_check\_mark: Rozpocznij pracę z ChatBot XL
 
 ChatBotXL to oprogramowanie typu SaaS do tworzenia chatbotów, które automatyzuje komunikację biznesową, oferując wiele korzyści.
 
