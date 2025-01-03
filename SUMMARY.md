@@ -4,7 +4,7 @@
 
 ## 📒 tropitech Resource Center
 
-* [🏃‍♂️ How tropitech works?](tropitech-resource-center/how-tropitech-works/README.md)
+* [🏃‍♂️ How Tropitech works?](tropitech-resource-center/how-tropitech-works/README.md)
   * [📖 Starting with tropitech](tropitech-resource-center/how-tropitech-works/onboarding.md)
   * [📖 Bot Management](tropitech-resource-center/how-tropitech-works/bot-management/README.md)
     * [📖 Create new Bot](tropitech-resource-center/how-tropitech-works/bot-management/create-new-bot/README.md)

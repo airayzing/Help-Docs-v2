@@ -6,13 +6,13 @@ description: >-
 
 # 🏠 Introduction
 
-## :white\_check\_mark: Get Started with tropitech
+## :white\_check\_mark: Get Started with Tropitech
 
-tropitech is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
+Tropitech is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
 
 We have built comprehensive documentation for you to quickly get started. tropitech Platform is primarily divided into the following sections.
 
-1. Start with tropitech - Get started
+1. Start with Tropitech - Get started
 2. Bot Management - To create, edit, manage, configure and integrate bots.
 3. Inbox - To manage all customer interactions with the Bot.
 4. Team- To manage your team.
