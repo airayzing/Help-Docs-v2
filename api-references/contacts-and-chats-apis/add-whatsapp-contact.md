@@ -6,7 +6,7 @@ description: This page contains the API documentation for the adding new WhatsAp
 
 ### Introduction
 
-The **Inbox User Import API** allows you to import WhatsApp contacts into the tropitech platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
+The **Inbox User Import API** allows you to import WhatsApp contacts into the Tropitech platform. You can use this API to create or update WhatsApp contacts with various attributes and contact information.
 
 #### Base URL
 

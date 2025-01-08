@@ -6,25 +6,27 @@ description: >-
 
 # 👨‍💼 Manging team roles & Users
 
+
+
 {% hint style="info" %}
-Please note: Only the King (Paid) plan have the feature of having more than one team member (i.e. three), if you need more than that, Please request the tropitech support team for the same.
+Please note: Only the King (Paid) plan have the feature of having more than one team member (i.e. three), if you need more than that, Please request the Tropitech support team for the same.
 {% endhint %}
 
 ## User & Roles
 
 Here are brief definitions of users and Roles.
 
-**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in tropitech help streamline collaboration and access control in the chatbot building and management process.
+**Team Users** are client team members with assigned roles and permissions within the platform. These roles define what actions they can perform and what they can access, such as configuring chatbots, managing content, or viewing analytics. Team Users in Tropitech help streamline collaboration and access control in the chatbot building and management process.
 
 **Team Roles** are the module-based permission (such as view, edit, None) for any roles that can be assigned to different team members.
 
 ## Manage Roles & Users
 
-In tropitech, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
+In Tropitech, you can efficiently manage team roles and users to streamline access and permissions within your account. Here's a step-by-step guide on how to do it:
 
-#### **Step 1: Access the** tropitech **Dashboard**
+#### **Step 1: Access the** Tropitech **Dashboard**
 
-* Log in to your tropitech account and access the dashboard.
+* Log in to your Tropitech account and access the dashboard.
 
 #### **Step 2: Navigate to the "Team" Section**
 
@@ -39,7 +41,7 @@ In tropitech, you can efficiently manage team roles and users to streamline acce
 * Set up the role by providing the following details:
   * **Name**: Assign a name for the new role.
   * **Description**: Add a brief description for reference.
-  * **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the tropitech platform.
+  * **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the Tropitech platform.
 
 #### **Step 5: Save the Role**
 

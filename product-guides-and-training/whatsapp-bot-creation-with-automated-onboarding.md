@@ -1,16 +1,16 @@
 ---
 description: >-
   This page contains end to end guide to create the WhatsApp Bot with Automated
-  tropitech Onboarding.
+  Tropitech Onboarding.
 ---
 
 # ⚙️ WhatsApp Bot Creation with Automated onboarding
 
-be talkingThis document will guide you through the step-by-step process of creating the tropitech WhatsApp Bot using the WhatsApp Business Cloud API. Following these instructions, you can set up your WhatsApp Bot and integrate it with the tropitech platform.
+be talkingThis document will guide you through the step-by-step process of creating the Tropitech WhatsApp Bot using the WhatsApp Business Cloud API. Following these instructions, you can set up your WhatsApp Bot and integrate it with the tropitech platform.
 
 ## **Step 1:** Check for Pre-requisites
 
-Before you begin, ensure you have the necessary prerequisites in place, such as access to the tropitech platform, WhatsApp number, etc.
+Before you begin, ensure you have the necessary prerequisites in place, such as access to the Tropitech platform, WhatsApp number, etc.
 
 #### Pre-requisites
 
@@ -21,7 +21,7 @@ Before you start creating the WhatsApp bot, Make sure that you have
   * [ ] Not registered on WhatsApp or WA Business App.
 * [ ] Registered legal business
 * [ ] An active website with a valid privacy policy
-* [ ] Business use case compliant with [WhatsApp](https://www.whatsapp.com/legal/commerce-policy) and [Meta commerce policy](https://www.facebook.com/policies\_center/commerce/).
+* [ ] Business use case compliant with [WhatsApp](https://www.whatsapp.com/legal/commerce-policy) and [Meta commerce policy](https://www.facebook.com/policies_center/commerce/).
 * [ ] A valid payment method (Debit or Credit card) capable of making international payments to Meta for conversation charges.
 * [ ] GSTIN Number, Only if the business is registered in India.
 
@@ -33,7 +33,7 @@ Please note that a single mobile number can only be utilized on one of the Whats
 
 ## **Step 2:** Create a WhatsApp bot & go through the WhatsApp Automated onboarding process
 
-### 2.1 Register your bot on tropitech
+### 2.1 Register your bot on Tropitech
 
 1. Login to your tropitech Portal and Click the "Create Bot" button on the top right.
 2. Select "WhatsApp" as the platform on the next page.

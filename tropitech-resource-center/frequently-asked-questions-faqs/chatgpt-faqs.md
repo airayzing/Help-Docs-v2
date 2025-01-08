@@ -1,6 +1,6 @@
 ---
 description: >-
-  Find the answers to the most asked questions about tropitech's integration
+  Find the answers to the most asked questions about Tropitech's integration
   with ChatGPT
 ---
 
@@ -8,9 +8,9 @@ description: >-
 
 <details>
 
-<summary>Can I train tropitech chatbots on my own data with ChatGPT?</summary>
+<summary>Can I train Tropitech chatbots on my own data with ChatGPT?</summary>
 
-Yes, tropitech state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
+Yes, Tropitech state-of-the-art integration with ChatGPT brings you the power of Natural Language Processing, AI, with business intent. You can train your bots to give answers based on the selective data you provide.
 
 </details>
 
@@ -31,3 +31,4 @@ ChatGPT 4 access is enabled only for the user whose API key has access to ChatGP
 Link: [https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4](https://help.openai.com/en/articles/7102672-how-can-i-access-gpt-4)
 
 </details>
+

@@ -4,11 +4,11 @@ description: This page contains the information on managing your subscriptions.
 
 # 📖 Subscriptions
 
-To manage your tropitech subscription effectively, you can access the subscription panel from the side panel. This panel offers various tabs to help you navigate and control your subscription details:
+To manage your Tropitech subscription effectively, you can access the subscription panel from the side panel. This panel offers various tabs to help you navigate and control your subscription details:
 
 ### **Accessing the Subscription Panel**
 
-1. Navigate to the tropitech application and locate the side panel.
+1. Navigate to the Tropitech application and locate the side panel.
 2. Click on the "Subscription" option to open the subscription panel.
 
 ### **Subscription Panel Tabs**
@@ -40,8 +40,7 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 
 ### **Viewing Current Plan Details**
 
-1.  Go to the "Current Plan" tab.\
-
+1.  Go to the "Current Plan" tab.\\
 
     <figure><img src="https://github.com/airayzing/helpdocs/blob/develop/.gitbook/assets/image%20(548).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,8 +50,7 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 
 ### **Managing Billing Preferences**
 
-1.  Access the "Billing" tab.\
-
+1.  Access the "Billing" tab.\\
 
     <figure><img src="https://github.com/airayzing/helpdocs/blob/develop/.gitbook/assets/image%20(549).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,8 +60,7 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 
 ### **Managing Invoices**
 
-1.  Head to the "Invoice" tab.\
-
+1.  Head to the "Invoice" tab.\\
 
     <figure><img src="https://github.com/airayzing/helpdocs/blob/develop/.gitbook/assets/image%20(550).png" alt=""><figcaption></figcaption></figure>
 

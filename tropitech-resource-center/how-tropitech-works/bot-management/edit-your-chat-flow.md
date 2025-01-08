@@ -8,17 +8,16 @@ description: >-
 
 ## **Overview**
 
-A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the tropitech platform.
+A chat flow determines the structure of conversations between your chatbot and users. This document provides instructions on how to customize chat flows using the available tools and functionalities within the Tropitech platform.
 
 ## **Accessing Chatbot Builder**
 
 To customize your chatbot's flow, follow these steps:
 
-* Navigate to the bot menu or homepage on the tropitech portal.
+* Navigate to the bot menu or homepage on the Tropitech portal.
 * Select your chatbot to open the chatbot builder.
 *   Click on "Edit your chat flow" to access the chatbot builder.\
-    \
-
+    \\
 
     <figure><img src="../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>
 
@@ -39,8 +38,7 @@ To add and customize components:
 
 **2. Connect Components:**
 
-Drag a line connector from one component to another to establish a connection.\
-
+Drag a line connector from one component to another to establish a connection.\\
 
 **3. Personalize Messages:**
 

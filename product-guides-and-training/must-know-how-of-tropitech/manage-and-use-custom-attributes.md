@@ -1,14 +1,14 @@
 ---
 description: >-
   This page contains information about the custom attributes and how you can use
-  them in tropitech
+  them in Tropitech
 ---
 
 # 🔤 Manage & Use Custom Attributes
 
 Custom Attributes
 
-Custom Attributes in tropitech are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
+Custom Attributes in Tropitech are user-defined properties or variables that can be assigned to individual users within your chatbot platform. These attributes enable you to capture and store specific information about users, which they share during chat or can be accessed from external databases. Custom Attributes are a powerful tool for personalizing interactions and creating tailored experiences for users in your chatbot.
 
 ## Types of Custom Attributes
 
@@ -30,11 +30,11 @@ Custom Attributes can be used for the following use cases
 
 ## Create & Manage Attributes
 
-Custom attributes in tropitech allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
+Custom attributes in Tropitech allow you to personalize user interactions and collect specific data. Follow these steps to create and manage custom attributes:
 
-### **Step 1: Navigate to the** tropitech **dashboard.**
+### **Step 1: Navigate to the** Tropitech **dashboard.**
 
-* Log in to your tropitech account and access the dashboard.
+* Log in to your Tropitech account and access the dashboard.
 
 ### **Step 2: Access Account Settings.**
 

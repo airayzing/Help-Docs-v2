@@ -1,0 +1,8 @@
+---
+description: >-
+  Unlock the next level of marketing, by creating segments and targeted
+  messaging
+---
+
+# 📖 Creating Segments
+

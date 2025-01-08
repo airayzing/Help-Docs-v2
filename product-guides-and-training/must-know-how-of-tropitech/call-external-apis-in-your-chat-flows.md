@@ -30,11 +30,11 @@ Here is the flow for using the APIs in the Chatflows
 
 ## Using APIs in the Chatflows
 
-To seamlessly integrate APIs into your chat flows in tropitech, follow these steps:
+To seamlessly integrate APIs into your chat flows in Tropitech, follow these steps:
 
-#### **Step 1: Access the** tropitech **Dashboard**
+#### **Step 1: Access the** Tropitech **Dashboard**
 
-* Log in to your tropitech account and access the dashboard.
+* Log in to your Tropitech account and access the dashboard.
 
 #### **Step 2: Navigate to the Developers Section**
 

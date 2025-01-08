@@ -1,14 +1,14 @@
 ---
 description: >-
   This page contains the Information on how can you send WhatsApp Notifications
-  from your platform using the tropitech APIs
+  from your platform using the Tropitech APIs
 ---
 
-# 📨 Send WhatsApp notifications using the tropitech APIs
+# 📨 Send WhatsApp notifications using the Tropitech APIs
 
 Before we start, Let's understand the basic workflow.
 
-To create a notification bot with tropitech, follow these steps:
+To create a notification bot with Tropitech, follow these steps:
 
 **Step 1: Get Your API Key**
 

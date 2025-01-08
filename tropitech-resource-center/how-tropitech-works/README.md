@@ -4,9 +4,9 @@ description: >-
   engagement
 ---
 
-# 🏃‍♂️ How tropitech works?
+# 🏃‍♂️ How Tropitech works?
 
-We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of tropitech.
+We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of Tropitech.
 
 {% content-ref url="bot-management/" %}
 [bot-management](bot-management/)
@@ -16,8 +16,8 @@ We have made guides and help documents for every step in your user journey, and 
 [inbox](inbox/)
 {% endcontent-ref %}
 
-{% content-ref url="teams.md" %}
-[teams.md](teams.md)
+{% content-ref url="teams/" %}
+[teams](teams/)
 {% endcontent-ref %}
 
 {% content-ref url="subscriptions.md" %}

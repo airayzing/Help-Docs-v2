@@ -1,14 +1,14 @@
 ---
-description: This page contains information on how to get started with tropitech.
+description: This page contains information on how to get started with Tropitech.
 ---
 
-# 📖 Starting with tropitech
+# 📖 Starting with Tropitech
 
-Thank you for starting your digital communication journey with tropitech. We look forward to being a part of your growth journey.
+Thank you for starting your digital communication journey with Tropitech. We look forward to being a part of your growth journey.
 
-### **What is tropitech?**
+### **What is Tropitech?**
 
-tropitech is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
+Tropitech is a chatbot builder that can automate conversations and streamline the lead-generation process. Our suite of features is well-suited to various applications across businesses, and we hope you find just what you are looking for.
 
 ### Platform Navigation
 
@@ -16,7 +16,7 @@ As soon as you login to the platform, you will see a dashboard like below image.
 
 <figure><img src="../../.gitbook/assets/1 – 1.png" alt=""><figcaption></figcaption></figure>
 
-tropitech will always greet you with warmth and excitement.
+Tropitech will always greet you with warmth and excitement.
 
 #### Insights & Bots
 

@@ -12,7 +12,7 @@ Status can be assigned to the user chats and contacts for better organising and 
 
 ### **Manage** status
 
-* Log in to your tropitech account and access the dashboard.
+* Log in to your Tropitech account and access the dashboard.
 * On the side navigation bar, locate and click the "More" button.
 * From the dropdown menu, select "Account Settings."
 * In the Account Settings section, find and click on the "Custom Status" tab.
@@ -21,8 +21,7 @@ Status can be assigned to the user chats and contacts for better organising and 
 ### **Create a New Custom** Status
 
 *   To add a new status, click the "Create tag" button\
-    \
-
+    \\
 
     <figure><img src="../../../.gitbook/assets/1 – 97.png" alt=""><figcaption></figcaption></figure>
 * Enter the status name and Status color code
