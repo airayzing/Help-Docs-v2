@@ -22,16 +22,16 @@ Przygotowaliśmy kompletną dokumentację, aby ułatwić Ci szybkie rozpoczęcie
 
 Szczegółowe informacje znajdziesz, przechodząc do poniższej sekcji.
 
-{% content-ref url="chatbotxl-resource-center/how-chatbotxl-works/" %}
-[how-chatbotxl-works](chatbotxl-resource-center/how-chatbotxl-works/)
+{% content-ref url="centrum-zasobow-chatbotxl/how-chatbotxl-works/" %}
+[how-chatbotxl-works](centrum-zasobow-chatbotxl/how-chatbotxl-works/)
 {% endcontent-ref %}
 
-{% content-ref url="chatbotxl-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](chatbotxl-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="centrum-zasobow-chatbotxl/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](centrum-zasobow-chatbotxl/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="chatbotxl-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](chatbotxl-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="centrum-zasobow-chatbotxl/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](centrum-zasobow-chatbotxl/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

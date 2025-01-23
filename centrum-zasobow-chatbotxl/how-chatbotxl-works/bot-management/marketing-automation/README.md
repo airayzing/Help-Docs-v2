@@ -18,6 +18,6 @@ Here is the guides for some tools which you can use to improve to your marketing
 [drip-campaigns-on-whatsapp-telegram-and-facebook.md](drip-campaigns-on-whatsapp-telegram-and-facebook.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../../../chatbotxl-resource-center/how-chatbotxl-works/bot-management/marketing-automation/broken-reference/" %}
+[broken-reference](../../../../chatbotxl-resource-center/how-chatbotxl-works/bot-management/marketing-automation/broken-reference/)
 {% endcontent-ref %}
