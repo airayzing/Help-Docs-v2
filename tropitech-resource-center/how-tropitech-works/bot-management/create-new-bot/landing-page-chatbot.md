@@ -1,43 +1,42 @@
 ---
 description: >-
-  Landing page like never before, get started. This guide will walk you through
-  the steps to create your Landing Page chatbot.
+  This guide will walk you through the step-by-step process of creating your
+  Landing Page Chatbot to enhance engagement and automate interactions
+  seamlessly.
 ---
 
 # 📖 Landing Page Chatbot
 
-To create your Landing page chatbot and manage all your chatbots, you first need to visit the BotPenguin Dashboard\*\*:\*\* [https://app.botpenguin.com/home](https://app.botpenguin.com/home)
+To set up your **Landing Page Chatbot** and manage all your chatbots, follow these steps:
 
-\
-To start creating your new chatbot, click **"Create New Bot."**
+1. **Visit the Tropitech Dashboard**: [https://app.tropitechnology.com/](https://app.tropitechnology.com/)
+2. Click **"Create New Bot"** to begin.
+3. Select the **primary purpose** of your chatbot and proceed.
+4. Choose **“Website Chatbot”** as the platform.
+5. A notification will confirm: **"Bot has been successfully created."**
 
-Select the primary purpose for creating your bot and proceed further.
+#### **Setting Up Your Landing Page Chatbot**
 
-Select the platform: **“Website Chatbot”**
+* Select the **Website Chatbot** you created from the **sidebar**.
+* Click on **“Install Your Chatbot.”**
+* Choose **“Landing Page Bot.”**
+* **Test**: Click **"Test"** to preview how your chatbot will function and appear.
+* **Copy URL**: Click **"Copy URL"** to share it with users.
 
-You will see a notification: **"Bot has been successfully created.”**
+🎉 **Your Landing Page Chatbot is now ready!**
 
-Select the website chatbot you have created from sidebar.
+#### **Adding an Embedded Chatbot to Your Landing Page**
 
-Click on **“Install Your Chatbot”.**
+1. Click on **“Embedded Chatbot.”**
+2. **Get Chatbot Installation Code** – Copy the script code.
+3. **Share Installation Code** – Send the installation code directly to your development team via email.
+4. **Ask Tropitech Support** – Our team can assist with the installation process.
+5. **Install the Code Manually**:
+   * Copy the provided script code.
+   * Open your **HTML file** (e.g., header).
+   * Paste the code inside the **\<body>** tag.
+   * Save and **deploy** the updated code.
 
-Select the **“Landing Page Bot”.**
+#### **Need Help?**
 
-* **Test:** To see how your chatbot will function and appear on your Landing page, click on the **"Test"** button.
-* Copy URL: Click on **“Copy URL”** and you can share this URL with your users.
-
-**You have created your Landing Page Chatbot.**
-
-## **Embedded Chatbot** <a href="#embedded-chatbot" id="embedded-chatbot"></a>
-
-Now, if you want to add a chatbot to your landing page, click on **“Embedded Chatbot”**
-
-* **Get Chatbot Installation code:** From this section, you can directly copy the script code for your chatbot.
-* **Share Installation code: I**nstallation code will be sent directly to your development team via email.
-* **Ask BotPenguin Support:** Our team will assist you in installing your chatbot.
-
-Copy the provided script code and find the HTML file such as the header and paste the code that you copied inside the body tag.
-
-Paste the code inside the body tag, then save and deploy your updated code.
-
-If everything appears correct but you are still unable to proceed, please contact us at [support@botpenguin.com](mailto:contact@botpenguin.com). Our support team is here to assist you with any issues or questions you may have.
+If everything appears correct but you still face issues, contact us at **soporte@tropitechnology.com**. Our support team is here to assist you!

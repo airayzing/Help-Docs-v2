@@ -6,7 +6,9 @@ description: >-
 
 # 📃 Getting all the necessary details from Meta Developer Dashboard
 
-This document will guide you through the step-by-step process of copying essential details from the Meta Developer Dashboard. By following these instructions, you can retrieve important information necessary for integrating WhatsApp services into your application or business.
+This guide will walk you through the **step-by-step process** of **copying essential details** from the **Meta Developer Dashboard**.
+
+By following these instructions, you’ll be able to **retrieve key information** needed to seamlessly integrate **WhatsApp services** into your application or business
 
 #### **Step 1:** Access the Developer Dashboard
 
@@ -28,12 +30,20 @@ This document will guide you through the step-by-step process of copying essenti
 
 <figure><img src="../../../../../.gitbook/assets/1 – 37.png" alt=""><figcaption></figcaption></figure>
 
-#### **Step 4:** Copy the "System User token" that you generated. if you missed the same, Visit below page
+#### **Step 4:** Copy the **System User Token** that you generated. If you missed it, visit the page below to retrieve it.
 
 {% content-ref url="assign-system-user-to-whatsapp-account.md" %}
 [assign-system-user-to-whatsapp-account.md](assign-system-user-to-whatsapp-account.md)
 {% endcontent-ref %}
 
-Congratulations! You have successfully copied the essential details from the Meta Developer Dashboard, including the "Phone number ID," "WhatsApp Business Account ID" (WABA ID), and "System User Token." These details are crucial for integrating and using WhatsApp services within your application or business.
+🎉 **Congratulations!** You’ve successfully copied the **essential details** from the **Meta Developer Dashboard**, including:
 
-Please ensure to keep these details secure and do not share them with unauthorized parties. If you encounter any difficulties or have further questions regarding the Meta Developer Dashboard, please refer to the official Meta documentation or contact tropitech support team for assistance.
+✅ **Phone Number ID**\
+✅ **WhatsApp Business Account ID (WABA ID)**\
+✅ **System User Token**
+
+These details are **crucial** for integrating and using **WhatsApp services** within your application or business.
+
+🔹 **Security Reminder:** Keep this information **secure** and **never share it** with unauthorized parties.
+
+If you have any difficulties or questions, refer to the **official Meta documentation** or contact the **Tropitech support team** for assistance.

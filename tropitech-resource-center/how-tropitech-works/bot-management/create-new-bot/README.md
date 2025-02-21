@@ -4,7 +4,7 @@ description: This page contains the information on how can you create the differ
 
 # 📖 Create new Bot
 
-Navigate to the specific chatbot you want to make; we have it sorted out.
+Navigate to the specific **chatbot** you want to create—we’ve got everything sorted for you
 
 {% content-ref url="whatsapp-bot-creation-with-manual-onboarding/" %}
 [whatsapp-bot-creation-with-manual-onboarding](whatsapp-bot-creation-with-manual-onboarding/)

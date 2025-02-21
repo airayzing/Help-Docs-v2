@@ -6,11 +6,18 @@ description: >-
 
 # 📖 WhatsApp Bot Creation with Manual Onboarding
 
-This document will guide you through the step-by-step process of creating the tropitech WhatsApp Bot using the WhatsApp Business Cloud API. By following these instructions, you can set up your WhatsApp Bot and integrate it with the tropitech platform.
+This guide will walk you through the **step-by-step process** of creating a **Tropitech WhatsApp Bot** using the **WhatsApp Business Cloud API**.
 
-#### **Step 1:** Check for Pre-requisites
+Follow these instructions to **set up your WhatsApp Bot** and seamlessly integrate it with the **Tropitech platform**.
 
-Before you begin, ensure you have the necessary prerequisites in place, such as access to the tropitech platform and a WhatsApp Business Cloud API account.
+#### **Step 1: Check for Prerequisites**
+
+Before you begin, make sure you have everything you need:
+
+✔️ **Access to the Tropitech platform**\
+✔️ **A WhatsApp Business Cloud API account**
+
+Having these in place will ensure a smooth setup process!
 
 {% content-ref url="prerequisites-for-whatsapp-bots.md" %}
 [prerequisites-for-whatsapp-bots.md](prerequisites-for-whatsapp-bots.md)

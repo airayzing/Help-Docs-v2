@@ -1,102 +1,110 @@
 ---
 description: >-
-  This page contains the information on how can you create the WhatsApp chatbot
-  for your business.
+  This page provides all the information you need to create a WhatsApp chatbot
+  for your business, enabling seamless automation and customer engagement.
 ---
 
 # 📖 WhatsApp Chatbot
 
-Here is the process to create the WhatsApp Bot using the BotPenguin's Automated onboarding.
+This guide will walk you through the **step-by-step process** of setting up your **Tropitech WhatsApp Bot** using the **WhatsApp Business Cloud API**.
 
-This document will guide you through the step-by-step process of creating the BotPenguin WhatsApp Bot using the WhatsApp Business Cloud API. Following these instructions, you can set up your WhatsApp Bot and integrate it with the BotPenguin platform.
+By following these instructions, you’ll be able to **seamlessly create and integrate** your WhatsApp Bot with the **Tropitech platform**, enabling automated business communication and customer engagement.
 
 ## **Step 1:** Check for Pre-requisites <a href="#step-1-check-for-pre-requisites" id="step-1-check-for-pre-requisites"></a>
 
-Before you begin, ensure you have the necessary prerequisites in place, such as access to the BotPenguin platform, WhatsApp number, etc.
+Before you begin, ensure you have the necessary requirements in place to create your **WhatsApp Bot** using the **Tropitech platform**.
 
-**Pre-requisites**
+**Prerequisites:**
 
-Before you start creating the WhatsApp bot, Make sure that you have
+To proceed, make sure you have:
 
-* A phone number that is
-  * Active & capable of receiving SMS.
-  * Not registered on WhatsApp or WA Business App.
-* Registered legal business
-* An active website with a valid privacy policy
-* Business use case compliant with [WhatsApp](https://www.whatsapp.com/legal/commerce-policy) and [Meta commerce policy](https://www.facebook.com/policies_center/commerce/).
-* A valid payment method (Debit or Credit card) capable of making international payments to Meta for conversation charges.
-* GSTIN Number, Only if the business is registered in India.
+✅ **An active phone number** capable of receiving SMS.\
+✅ **The phone number must NOT be registered** on WhatsApp or WhatsApp Business App.\
+✅ **A legally registered business.**\
+✅ **An active website** with a valid **privacy policy.**\
+✅ **A business use case** that complies with **WhatsApp and Meta’s commerce policy.**\
+✅ **A valid payment method** (Debit/Credit card) for international payments to Meta for conversation charges.\
+✅ **GSTIN Number** (Only required if your business is registered in India).
 
-If you have all of the above checked, You are good to start with WhatsApp Cloud API Bot.
-
-
-
-{% hint style="warning" %}
-Please note that a single mobile number can only be utilized on one of the WhatsApp services at a given time, namely WhatsApp, WA Business, or WhatsApp Business API. If you wish to use your existing number, you must remove your account from one service before using it on another.
-{% endhint %}
-
-## **Step 2:** Create a WhatsApp bot & go through the WhatsApp Automated onboarding process <a href="#step-2-create-a-whatsapp-bot-and-go-through-the-whatsapp-automated-onboarding-process" id="step-2-create-a-whatsapp-bot-and-go-through-the-whatsapp-automated-onboarding-process"></a>
-
-**2.1 Register your bot on botpenguin**
-
-1. Login to your BotPenguin Portal and Click the "Create Bot" button on the top right.
-2.  Select "WhatsApp" as the platform on the next page.
-
-    Choose Platform
-3. Provide the required details and follow the bot creation process.
-4. Scan the QR Code and initiate a WhatsApp message to create the demo bot 1st. Scan or Send Confirmation message
-5. Upon successful verification, Click "Connect to your WhatsApp number" to start the Automated onboarding.
-
-**2.2 Complete Meta Automated onboarding**
-
-1. Select all the pre-requisite and click "Proceed"
-2. Choose Automated or Manual onboarding. In this document, We will talking about Automated onboard.
-3. It will open up a new pop-up window where you have to complete the Meta onboarding.
+If you meet all these requirements, you’re ready to **start setting up your WhatsApp Cloud API Bot**!
 
 
 
 {% hint style="warning" %}
-Please make sure that you have not blocked the pop-up window in your browser, If yes, Please enable the same.
+🔹 **Important Notice:**
+
+A single mobile number can only be used on **one** WhatsApp service at a time—**WhatsApp, WhatsApp Business,** or **WhatsApp Business API**.
+
+If you want to use your **existing number** for the **WhatsApp Business API**, you must **remove your account** from any other WhatsApp service before proceeding.
 {% endhint %}
 
-4. Upon successful completion, Your bot will be connected to WhatsApp. But as a last step, You have to update your payment method.
+## Step 2: Create a WhatsApp Bot & Complete the Automated Onboarding <a href="#step-2-create-a-whatsapp-bot-and-go-through-the-whatsapp-automated-onboarding-process" id="step-2-create-a-whatsapp-bot-and-go-through-the-whatsapp-automated-onboarding-process"></a>
 
-## **Step 3:** Update Payment Method to WhatsApp <a href="#step-3-update-payment-method-to-whatsapp" id="step-3-update-payment-method-to-whatsapp"></a>
+**2.1 Register Your Bot on Tropitech**
 
-In the Business Manager, update the payment method for your WhatsApp Business Cloud API account to enable seamless transaction processing.
+* **Log in** to your **Tropitech Portal**.
+* Click **"Create Bot"** at the top right.
+* On the next page, select **"WhatsApp"** as the platform.
+* **Provide the required details** and follow the bot creation process.
+* **Scan the QR Code** and initiate a WhatsApp message to create the demo bot.
+* Once verified, click **"Connect to your WhatsApp Number"** to start the **Automated Onboarding**.
+
+**2.2 Complete Meta Automated Onboarding**
+
+* **Select all prerequisites** and click **"Proceed."**
+* Choose between **Automated or Manual onboarding** (this guide covers **Automated Onboarding**).
+* A new pop-up window will open for **Meta onboarding**—follow the on-screen instructions to complete the setup.
+
+Once done, your WhatsApp bot will be **successfully registered and connected!**
+
+{% hint style="warning" %}
+Make sure that **pop-up windows** are not blocked in your browser. If they are, **enable pop-ups** to proceed smoothly with the onboarding process.
+{% endhint %}
+
+Once the onboarding process is successfully completed, your bot will be **connected to WhatsApp**.
+
+🔹 **Final Step:** You must **update your payment method** to ensure uninterrupted service.
+
+## **Step 3:** Update Payment Method for WhatsApp <a href="#step-3-update-payment-method-to-whatsapp" id="step-3-update-payment-method-to-whatsapp"></a>
+
+To ensure smooth transactions, update your **payment method** for the **WhatsApp Business Cloud API** in **Meta Business Manager**. This step is essential for enabling seamless messaging and conversation charges.
 
 **3.1 Access WhatsApp Account Settings**
 
-In the "Meta Business Manager," locate and click on the "Payment Setting" button for your WhatsApp Account.
+* Open **Meta Business Manager**.
+* Locate and click on **"Payment Setting"** for your WhatsApp account.
 
-**3.2 Navigate to Billing and Payments Page**
+**3.2 Navigate to Billing and Payments**
 
-On the "Billing and Payments" page, click on the "Add Payment Method" option to add a new payment method.
+* Go to the **"Billing and Payments"** page.
+* Click **"Add Payment Method"** to proceed.
 
-\
 **3.3 Select Payment Method Type**
 
-Choose the payment method type that you want to use for your WhatsApp account.
-
-Select Payment Method Type
+* Choose your preferred **payment method** (Credit/Debit card, PayPal, etc.).
 
 **3.4 Enter Payment Details**
 
-Enter the necessary payment details based on the selected payment method.
-
-Enter Payment Details
+* Fill in the required **payment details** based on your selected method.
 
 **3.5 Verify Payment Method**
 
-Once you have entered the payment details, proceed with the verification process.
+* Complete the **verification process** to confirm your payment method.
 
 **3.6 Update Business Information**
 
-1. After successful verification, make any necessary updates to your business information.
-2. You have successfully updated the payment method on your WhatsApp account.
+* After verification, review and update your **business information** if necessary.
 
-Congratulations! You have successfully created the BotPenguin WhatsApp Bot using the WhatsApp Business Cloud API and integrated it with the BotPenguin platform. Your WhatsApp Bot is now ready to interact with users and provide automated responses.
+🎉 **Congratulations!** You have successfully created and integrated your **Tropitech WhatsApp Bot** using the **WhatsApp Business Cloud API**. Your bot is now **ready to engage with users and automate responses**!
 
 {% hint style="info" %}
-Please note that specific steps and requirements may vary based on updates and changes in the BotPenguin and WhatsApp Business Cloud API platforms. If you encounter any difficulties during the process or have further questions, please refer to the official documentation of BotPenguin and WhatsApp Business Cloud API, or contact their support teams for assistance.
+🔹 **Important Note:**
+
+The steps and requirements may vary due to updates or changes in the **Tropitech** and **WhatsApp Business Cloud API** platforms.
+
+If you face any issues or have further questions:\
+✅ Refer to the **official documentation** of **Tropitech** and **WhatsApp Business Cloud API**.\
+✅ Contact their **support teams** for assistance.
+
+We're here to help!
 {% endhint %}

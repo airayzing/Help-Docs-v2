@@ -6,7 +6,9 @@ description: >-
 
 # 💳 Update WA account Payment Method
 
-This document will guide you through the step-by-step process of updating the payment method on your WhatsApp account using the Meta Developer Dashboard. By following these instructions, you can set up or modify your payment method for WhatsApp services.
+This guide will take you through the **step-by-step process** of updating your **payment method** on your WhatsApp account using the **Meta Developer Dashboard**.
+
+Follow these instructions to **set up or modify** your payment method for WhatsApp services seamlessly.
 
 #### **Step 1:** Access the Developer Dashboard
 
@@ -60,6 +62,8 @@ This document will guide you through the step-by-step process of updating the pa
 
 1. After successful verification, make any necessary updates to your business information.
 
-Congratulations! You have successfully updated the payment method on your WhatsApp account using the Meta Developer Dashboard. The new payment method is now set up for your WhatsApp services.
+🎉 **Congratulations!** You’ve successfully updated the **payment method** on your WhatsApp account using the **Meta Developer Dashboard**. Your new payment method is now set up for WhatsApp services.
 
-Please ensure to keep your payment details secure and up-to-date. If you encounter any difficulties during the process or have further questions regarding payment methods on WhatsApp, please refer to the official Meta documentation or contact tropitech support team for assistance.
+🔹 **Reminder:** Keep your payment details **secure** and **up to date**.
+
+If you encounter any issues or have further questions, refer to the **official Meta documentation** or reach out to the **Tropitech support team** for assistance

@@ -27,23 +27,19 @@ This document will guide you through the step-by-step process of granting contro
 
 1. Navigate to `System Users` "Users" in the sidebar.
 2.  Click on "System Users" and click "Add" to add a new user\
-    \
-
+    \\
 
     <figure><img src="../../../../../.gitbook/assets/1 – 28.png" alt=""><figcaption></figcaption></figure>
 3.  Accept the policy to start adding user\
-    \
-
+    \\
 
     <figure><img src="../../../../../.gitbook/assets/1 – 29.png" alt=""><figcaption></figcaption></figure>
 4.  Once the "Create system user" pop-up opens, Give a name (E.g. BP-WhatsApp) and keep the user role as "Admin"\
-    \
-
+    \\
 
     <figure><img src="../../../../../.gitbook/assets/1 – 30.png" alt=""><figcaption></figcaption></figure>
 5.  Once the system user is added, Click on the "Generate new token"\
-    \
-
+    \\
 
     <figure><img src="../../../../../.gitbook/assets/1 – 31.png" alt=""><figcaption></figcaption></figure>
 6. Once the "Generate Token" pop-up opens up,
@@ -54,8 +50,7 @@ This document will guide you through the step-by-step process of granting contro
       2. catalog\_management
       3. whatsapp\_business\_messaging
       4.  whatsapp\_business\_management\
-          \
-
+          \\
 
           <figure><img src="../../../../../.gitbook/assets/1 – 32.png" alt=""><figcaption></figcaption></figure>
    4. Click "Generate Token"
@@ -82,6 +77,8 @@ This document will guide you through the step-by-step process of granting contro
 
 <figure><img src="../../../../../.gitbook/assets/1 – 35.png" alt=""><figcaption></figcaption></figure>
 
-Congratulations! You have successfully granted control of a WhatsApp Business Account to a system user. This allows the system user to access endpoints that require control of the WhatsApp Business Account using a System User access token.
+🎉 **Congratulations!** You’ve successfully granted control of your **WhatsApp Business Account** to a system user. This allows them to access endpoints that require account control using a **System User access token**.
 
-Please ensure to grant access to trusted and authorized system users only. If you encounter any difficulties during the process or have further questions regarding WhatsApp Business Account control, please refer to the official Meta documentation or contact their support team for assistance.
+🔹 **Important:** Only grant access to **trusted and authorized** system users to ensure security.
+
+If you have any issues or need further guidance, refer to the **official Meta documentation** or contact their **support team** for assistance.

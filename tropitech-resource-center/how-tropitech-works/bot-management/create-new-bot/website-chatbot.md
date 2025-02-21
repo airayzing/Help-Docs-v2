@@ -1,18 +1,15 @@
 # 📖 Website Chatbot
 
-This guide will walk you through the steps to create your Website chatbot.
+This guide will walk you through the **step-by-step process** of creating your **Website Chatbot** on Tropitech.
 
-To create your Website chatbot , you first need to visit the BotPenguin Dashboard: [https://app.botpenguin.com/home](https://app.botpenguin.com/home)
+To get started, visit the **Tropitech Dashboard**: [https://app.tropitechnology.com/](https://app.tropitechnology.com/)
 
-To start creating your new chatbot, click **"Create New Bot."**
+1. Click **"Create New Bot"** to begin.
+2. Select the **primary purpose** of your chatbot and proceed.
+3. Choose **“Website Chatbot”** as the platform.
+4. A notification will confirm: **"Bot has been successfully created."**
 
-Select the primary purpose for creating your bot and proceed further.
-
-Select the platform: “**Website Chatbot**”
-
-You will see a notification: "**Bot has been successfully created.**”
-
-Your bot has been successfully created. Then you will land up on this page, now you can configure the below mentioned items using the below links:
+Once your bot is created, you’ll land on the configuration page, where you can set up and customize the following features:
 
 
 

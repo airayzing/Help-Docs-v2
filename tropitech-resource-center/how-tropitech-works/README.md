@@ -1,12 +1,14 @@
 ---
 description: >-
-  Look at you, empowered and glowing with the powers of automation and customer
-  engagement
+  Look at you—empowered and thriving with the power of automation and seamless
+  customer engagement! 🚀✨
 ---
 
 # 🏃‍♂️ How Tropitech works?
 
-We have made guides and help documents for every step in your user journey, and if we haven't, just let us know. Here are the key pages to understand all the crucial modules of Tropitech.
+We’ve created **step-by-step guides** and **help documents** to support you at every stage of your Tropitech journey. If there’s anything we’ve missed, just let us know!
+
+Here are the **key pages** to help you master all the essential modules of **Tropitech**:
 
 {% content-ref url="bot-management/" %}
 [bot-management](bot-management/)
