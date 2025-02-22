@@ -6,88 +6,74 @@ description: >-
 
 # 📖 Telegram Chatbot
 
-Want to check out a cool video instead?
+## **Why Choose a Telegram Chatbot?**
 
-Select the "Telegram Chatbot" at platform selection. Then:
+Using a **Telegram chatbot** can elevate your business communication with:
 
-a. You will be asked to enter your phone number which is connected with telegram.
+✅ **Secure Communication** – Telegram offers **strong encryption**, making it ideal for handling **sensitive discussions**.\
+✅ **Broad Reach** – Create **public channels** to broadcast updates to **large audiences** without needing contact details.\
+✅ **Customer Service** – Engage with customers via **private chats** to provide instant support and resolve inquiries.\
+✅ **No Messaging Limits** – Unlike other platforms, Telegram **doesn’t restrict message frequency** or content types.\
+✅ **Multi-Device Access** – Seamlessly access Telegram **across multiple devices** for uninterrupted communication.
 
-b. You will receive a \`Login code\` in your Telegram account. Enter the Login Code
+### **How to Create & Connect Your Telegram Chatbot**
 
-here and click to login to your Telegram Account.
+**1. Select the Platform**
 
-c. You may click to \`resend\` code in case you haven\`t received it. If still not received the
+* Choose **"Telegram Chatbot"** during platform selection.
 
-Login code, please verify the Telegram mobile number and re-enter it by clicking
+**2. Connect Your Telegram Account**
 
-\`Change number\`.
+* Enter the **phone number** linked to your Telegram account.
+* Check Telegram for the **Login Code**, enter it, and click **Login**.
+* If you haven’t received the code, click **Resend**. If still not received, verify your number and click **Change Number** to re-enter it.
 
-#### Manually Connect Your Bot <a href="#manually-connect-your-bot" id="manually-connect-your-bot"></a>
+**3. Manually Connect Your Bot**
 
-1. Enter the Bot name which you want to connect.
-2. Enter the Bot user name which you want to connect
-3. Enter the Bot Authentication Token recieved on telegram from "BotFather".
-4. Click on Connect Bot.
+* Enter your **Bot Name** and **Bot Username**.
+* Provide the **Bot Authentication Token** received from **BotFather**.
+* Click **Connect Bot** to complete the setup.
 
-#### Create Your Bot <a href="#d260crxnv3hx" id="d260crxnv3hx"></a>
+**4. Create Your Bot**
 
-a. You may choose an existing Telegram bot to connect with BotPenguin or you can select "manually connect to bot". Then enter :
+* Choose an **existing Telegram bot** or select **"Manually Connect to Bot"** to create a new one.
+* Enter a **Bot Name** and a **Username** (must end with `_bot` or `bot`, e.g., `abc_bot`).
+* Click **Connect**, and you’ll be directed to the **dashboard** where you can edit your **chat flow** and manage **Telegram Bot Settings**.
 
-* Name of your new bot
-* Username. Username should end with \`bot\`. example: abc\_bot or abcbot.
+### **Managing & Automating Your Telegram Chatbot**
 
-b. Enter the details and click \`Connect\` and you will be directed to the dashboard section
+**1. Edit Your Chat Flow**
 
-where you can \`Edit your chat flow\` and \`Telegram Bot Settings\`.
+* A **chat flow** structures conversations between your chatbot and users.
+* Click **"Edit Your Chat Flow"** to customize it based on your business needs.
+* Use the **pre-created chat flow template** and modify it easily.
+* 📌 **\[Quick Guide: How to Edit Your Chat Flow]**
 
-## Edit Your Chat Flow <a href="#np04rhwyx5y5" id="np04rhwyx5y5"></a>
+**2. Telegram Automation**
 
-a. A chat flow is a structure of messages that determines how a conversation will take
+* Configure **automation settings** for your Telegram bot.
 
-place between your chatbot and the user. Click on the \`Edit Your Chat Flow\` tab to
+**3. Chat Flows**
 
-customize your chat flow.
+* Create multiple chat flows using **"Create Flow"** and assign a name.
+* All created flows will be listed under **"Flow Name"**, allowing you to add unlimited flows.
 
-b. Here, you will find a pre-created template of a chat flow that you can customize as per
+**4. Drip Campaigns**
 
-your business needs. It is very easy and quick to customize the chat flow. Here is the [Quick Guide on How to Edit Your Chat Flow](https://app.gitbook.com/o/s9pfEUl5Kvj2k6UmOE1g/s/APDb8cKQtGlIAfgHjcsQ/~/changes/rsljDZHcj1RxBb7EU3F7/botpenguin-resource-center/how-botpenguin-works/edit-your-chat-flow).
+* A **Drip Campaign** is a structured message sequence for customer onboarding.
+* Click **"Drip Campaigns" > "Create Campaign"** to set one up.
+* 📌 **\[Quick Guide: How to Create Drip Campaigns]**
 
-## Telegram Automation <a href="#ge6bstfezah8" id="ge6bstfezah8"></a>
+**5. Widgets**
 
-Here you can configure automation settings for your telegram bot
+* A **Widget** is a chat interface for websites, ads, or blogs, directing users to your chatbot.
+* Go to **"Widgets" > "Create Widget"** to set one up.
+* 📌 **\[Quick Guide: How to Create a Widget]**
 
-#### Chat Flows <a href="#i86hu1hbn6x7" id="i86hu1hbn6x7"></a>
+**6. Broadcast**
 
-Here, you can also create multiple chat flows from the \`Create flow\` option
+* A **Broadcast** sends a chat flow or message to a selected group in one click.
+* Go to **"Broadcast" > "Create New Broadcast"** to set one up.
+* 📌 **\[Tutorial: How to Create a Broadcast]**
 
-by adding the name of the flow. Once a flow is added, it will be listed under \`Flow name\`.
-
-This way you can add any number of flows.
-
-## Drip Campaigns <a href="#okllboilfm18" id="okllboilfm18"></a>
-
-Drip Campaign is a scheduled and structured flow of messages
-
-created for customer onboarding journeys. To create one, go to the \`Drip Campaigns\` tab and click \`Create Campaign\`. Here is the [Quick Guide on How to Create Drip](https://help.botpenguin.com/botpenguin-resource-center/how-botpenguin-works/bot-settings/drip-campaigns) [Campaigns](https://help.botpenguin.com/botpenguin-resource-center/how-botpenguin-works/bot-settings/drip-campaigns).
-
-## Widgets <a href="#wz8mpkbvip7l" id="wz8mpkbvip7l"></a>
-
-A Widget is a chat interface that can be installed in your website, ads, blogs or
-
-any promotional content to route subscribers to your Chatbot. You can create multiple
-
-widgets by following a few easy steps on the BotPenguin dashboard. To create one, go
-
-to the \`Widgets\` tab in \`Bot Settings\` and click \`Create Widget\` on the extreme right. Here is the [Quick Guide on How to Create a Widget](https://help.botpenguin.com/botpenguin-resource-center/how-botpenguin-works/bot-settings/widget)
-
-## Broadcast <a href="#id-3hgb7fwum0kf" id="id-3hgb7fwum0kf"></a>
-
-A Broadcast is a chat flow or a message that can be blasted in one click, to
-
-the targeted segment or group of contacts. To create one, go to the \`Broadcast\` tab in
-
-the \`Bot Settings\` and click the \`Create New Broadcast\` on the extreme right.
-
-Here is the [Tutorial for Creating a Broadcast](https://help.botpenguin.com/botpenguin-resource-center/how-botpenguin-works/bot-settings/broadcast).
-
-If you still have some questions for our team, write to us at [contact@botpenguin.com](mailto:contact@botpenguin.com) .We will respond back within 48 business hours.
+📩 **Need Help?** Contact us at **soporte@tropitechnology.com**, and we’ll respond within **48 business hours**.

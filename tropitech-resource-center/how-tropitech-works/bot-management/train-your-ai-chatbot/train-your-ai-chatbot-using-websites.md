@@ -1,28 +1,35 @@
 ---
 description: >-
-  This page contains  the stepwise tutorial of how to train your AI chatbot  by 
-  providing the  website URLs.
+  This page provides a step-by-step tutorial on training your AI chatbot using
+  website URLs.
 ---
 
 # 📖 Train your AI chatbot using websites
 
 ## Train using website URLs.
 
-1. Access the bots section and click on the "Bots" button. From there, choose the specific bot that you wish to train.
-2. Next, select the option "Train Your AI Chatbot" displayed on the screen.
+**Step 1: Select Your Bot**
+
+Go to the "Bots" section and click on the **"Bots"** button. Choose the bot you want to train.
+
+**Step 2: Access Training Options**
+
+Click on **"Train Your AI Chatbot"** from the available options on the screen.
 
 <figure><img src="../../../../.gitbook/assets/1 – 44.png" alt=""><figcaption></figcaption></figure>
 
-3. On this page, locate the "Add Website" button and click on it to input the URL of the website you wish to train your bot with.
+**Step 3: Add Website URL**
+
+On the training page, click the **"Add Website"** button and enter the URL of the website you want to use for training your bot.
 
 <figure><img src="../../../../.gitbook/assets/1 – 45.png" alt=""><figcaption></figcaption></figure>
 
-4. Now, enter or copy the link of the website into the designated field and submit the same.
+**Step 4: Enter Website URL**
+
+Paste or type the website link into the designated field and click **"Submit"** to proceed.
 
 <figure><img src="../../../../.gitbook/assets/1 – 46.png" alt=""><figcaption></figcaption></figure>
 
+Once submitted, the training process will begin. You can monitor the training status in the table below, which displays the URL and other relevant details. Training may take a few minutes to complete.
 
-
-Training for your URLs will be started after the same. You can see the training status in the table below with URL and other details. Bot training may take several minutes to complete.
-
-We have included a "Sync Website" button for you to synchronise the bot with the website. By clicking on it, you can synchronise your bot with the website. It will retrain the bot with new content available on the website.
+To keep your bot updated with the latest website content, use the **"Sync Website"** button. Clicking it will retrain the bot with any new information available on the website.

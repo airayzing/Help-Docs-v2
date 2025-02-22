@@ -1,8 +1,8 @@
 ---
 description: >-
-  This section contains tutorials on training your AI chatbot using different
-  sources. Here are various ways of training your chatbot, including website
-  URLs, files, etc. All of them are listed below.
+  This section provides tutorials on training your AI chatbot using various
+  sources, such as website URLs, files, and more. Explore the available training
+  methods below.
 ---
 
 # 📖 Train Your AI Chatbot

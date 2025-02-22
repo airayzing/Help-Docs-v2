@@ -4,43 +4,43 @@ description: This guide will walk you through the steps to create your Instagram
 
 # 📖 Instagram Chatbot
 
-## Why Instagram Chatbot? <a href="#why-instagram-chatbot" id="why-instagram-chatbot"></a>
+## Why Choose an Instagram Chatbot? <a href="#why-instagram-chatbot" id="why-instagram-chatbot"></a>
 
-Creating an Instagram chatbot offers several benefits that can significantly enhance your online presence and business operations:
+Implementing an **Instagram chatbot** brings numerous advantages to your business, enhancing both customer engagement and operational efficiency:
 
-* **24/7 Customer Support:** You can respond instantly to customer inquiries at any time of the day.
-* **Increased Engagement**: Chatbots can engage with your audience in real time, sending personalized messages, updates, and promotions.
-* **Lead Generation**: By interacting with visitors and taking essential information, chatbots can help generate leads, making it easier to convert potential customers into actual customers.
-* **Scalability**: Unlike human agents, chatbots can handle multiple conversations simultaneously.
+✅ **24/7 Customer Support** – Instantly respond to inquiries at any time, ensuring a seamless customer experience.\
+✅ **Increased Engagement** – Interact with your audience in real time through **personalized messages, updates, and promotions**.\
+✅ **Lead Generation** – Capture visitor details and nurture potential customers effortlessly.\
+✅ **Scalability** – Unlike human agents, chatbots can manage **multiple conversations simultaneously**, improving efficiency.
 
-#### To create your Instagram chatbot and manage all your chatbots, you first need to visit the BotPenguin Dashboard\*\*:\*\* [https://app.botpenguin.com/home](https://app.botpenguin.com/home)
+Boost your Instagram presence with automation and drive better customer interactions today
 
-## How to Create Your Instagram Chatbot? <a href="#how-to-create-your-instagram-chatbot" id="how-to-create-your-instagram-chatbot"></a>
+#### To create your Instagram chatbot and manage all your chatbots, you first need to visit the Tropitech Dashboard: [https://app.tropitechnology.com/](https://app.tropitechnology.com/)
 
-Follow these quick steps to create your Instagram chatbot:-
+Follow these simple steps to set up your **Instagram chatbot**:
 
-To start creating your new chatbot, click **"Create New Bot."**
+1️⃣ **Start the Process**
 
-You can view all the bots you have created in the left sidebar.
+* Click **"Create New Bot"** on the Tropitech platform.
+* You can view all your created bots in the **left sidebar**.
 
-Select the primary purpose for creating your bot and proceed further.
+2️⃣ **Choose the Purpose**
 
-Click on "Instagram Chatbot" to begin creating your chatbot.
+* Select the **primary goal** for your chatbot.
+* Click **"Instagram Chatbot"** to begin.
 
-Click on “Login” and enter your login credentials.
+3️⃣ **Login to Your Account**
 
-Enter your phone number/email address and click **“Log in”.** If you want to create a new Facebook account, click on **“Create New Account”**
+* Click **“Login”** and enter your credentials.
+* Enter your **phone number/email** and click **“Log in”**.
+* If you don’t have a Facebook account, click **“Create New Account”**.
 
-Now, click on **“Get Started”.**
+4️⃣ **Set Up Your Business Account**
 
-* Make sure you have an Instagram account.
+* Click **"Get Started"** and ensure you have an **Instagram Business Account**.
+* After logging in, you'll see the setup screen.
+* Select your **Business Account** and click **"Next"**.
+* Review and complete your **business contact details**.
+* Click **“Save”** to finalize the setup.
 
-After logging in with your Instagram account, you’ll see the below screen.
-
-Select the **Business account** to start your Instagram Chatbot and click “Next”.
-
-Review your business contact information and complete your remaining details.
-
-Click on “Save” to continue further.
-
-You have created your Instagram chatbot.
+**Congratulations!** Your **Instagram Chatbot** is now created and ready to engage with your audience.

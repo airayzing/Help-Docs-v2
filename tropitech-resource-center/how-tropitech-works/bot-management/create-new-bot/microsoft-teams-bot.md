@@ -24,7 +24,7 @@ To do MS Teams integration, you will need the following details on your end.
 3. Choose the "Tools" tab and click on "Bot Management Option"
 4. On this Page, Locate the "New Bot" option and add the bot by giving it a name.
 5. Once the bot is created, Enter the following Webhook endpoint address and click "save" to proceed. https://api.v7.botpenguin.com/ms-teams/webhook
-6. Navigate to "Client Secrets" and add new and Copy the Provide secret key. Keep this secret key safe. This will be used while creating the configuration on BotPenguin.
+6. Navigate to "Client Secrets" and add new and Copy the Provide secret key. Keep this secret key safe. This will be used while creating the configuration on Tropitech.
 7. Return to the bot listing page and copy the "Bot ID". Keep this key safe. This will be used while creating the configuration on BotPenguin.
 
 ## Step 2: Create the MS Teams App <a href="#step-2-create-the-ms-teams-app" id="step-2-create-the-ms-teams-app"></a>

@@ -1,31 +1,48 @@
 # 📖 Facebook Chatbot
 
-## Why Facebook Chatbot? <a href="#why-facebook-chatbot" id="why-facebook-chatbot"></a>
+## Why Choose a Facebook Chatbot? <a href="#why-facebook-chatbot" id="why-facebook-chatbot"></a>
 
-Creating a Facebook chatbot offers several benefits that can significantly enhance your online presence and business operations:
+Implementing a **Facebook chatbot** can greatly enhance your business by offering:
 
-* **24/7 Customer Support:** You can respond instantly to customer inquiries at any time of the day.
-* **Increased Engagement**: Chatbots can engage with your audience in real time, sending personalized messages, updates, and promotions.
-* **Lead Generation**: By interacting with visitors and taking essential information, chatbots can help generate leads, making it easier to convert potential customers into actual customers.
-* **Scalability**: Unlike human agents, chatbots can handle multiple conversations simultaneously.
+✅ **24/7 Customer Support** – Instantly respond to customer inquiries anytime.\
+✅ **Increased Engagement** – Send **personalized messages, updates, and promotions** in real time.\
+✅ **Lead Generation** – Capture visitor details and convert potential customers effortlessly.\
+✅ **Scalability** – Unlike human agents, chatbots can handle **multiple conversations simultaneously**.
 
-To create your Facebook chatbot and manage all your chatbots, you first need to visit the BotPenguin Dashboard: [https://app.botpenguin.com/home](https://app.botpenguin.com/home).
+To create your Facebook chatbot and manage all your chatbots, you first need to visit the Tropitech Dashboard: [https://app.tropitechnology.com/](https://app.tropitechnology.com/)
 
 ## How to Create Your Facebook Chatbot? <a href="#how-to-create-your-facebook-chatbot" id="how-to-create-your-facebook-chatbot"></a>
 
-1. Follow these quick steps to create your Facebook chatbot:-
-2. To start creating your new chatbot, click **"Create New Bot."**
-3. Select the primary purpose for creating your bot and proceed further.
-4. Select "**Facebook Chatbot**" to begin creating your chatbot.
-5. Now click on login and connect your facebook account.
-6. Enter your phone number/email address and click “Log in”.
-7. If you want to create a new Facebook account, click on “Create New Account”
-8. Then select your business account which you want botpenguin to access and usse chatbot for. You can opt for all the accounts or select a specific business account only.
-9. Then click on "continue".
-10. You can check and review BotPenguin's access request and then click on save to move ahead.
-11. After following the steps ahead your facebook bot will be ready to use.
-12. You can now edit the flow for your bot. And you can now do customizations accordingly.
+1.  Follow these quick steps to set up your **Facebook chatbot**:
 
-Your Facebook chatbot is created.
+    1️⃣ **Start the Process**
 
-If everything appears correct but you are still unable to proceed, please contact us at [support@botpenguin.com](mailto:contact@botpenguin.com). Our support team is here to assist you with any issues or questions you may have.
+    * Visit the [**Tropitech Dashboard**](https://app.tropitechnology.com/).
+    * Click **"Create New Bot"**.
+    * Select the **primary purpose** of your chatbot.
+    * Click **"Facebook Chatbot"** to begin.
+
+    2️⃣ **Login & Connect Facebook Account**
+
+    * Click **“Login”** and enter your credentials.
+    * Enter your **phone number/email** and click **“Log in”**.
+    * If you don’t have a Facebook account, click **“Create New Account”**.
+
+    3️⃣ **Grant Business Account Access**
+
+    * Select the **Business Account** you want Tropitech to access.
+    * You can **choose all accounts** or select a **specific business account**.
+    * Click **"Continue"**.
+    * Review and approve **Tropitech's access request**, then click **"Save"**.
+
+    4️⃣ **Finalize & Customize**
+
+    * Follow the on-screen steps to complete the setup.
+    * Your **Facebook chatbot** is now created!
+    * You can now **edit your bot’s flow** and customize its features.
+
+
+
+    **Congratulations!** Your **Facebook Chatbot** is now live and ready to enhance your customer interactions!&#x20;
+
+    If you face any issues, contact **soporte@tropitechnology.com** – our support team is here to help!
