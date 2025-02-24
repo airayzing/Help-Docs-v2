@@ -33,7 +33,7 @@ After you have logged into your Reekolect account, Go to the Bots Tab, select th
 3. Go to Plugins > Add new > Search Reekolect > Install now > Activate plugin"
 4. Install the "Reekolect" Plugin and then activate the same.
 5. Upon activating the Plugin, you will be redirected to the plugins page with the confirmation message "Plugin Activated."
-6. Once your Plugin is activated, paste the Bot Penguin API key in the Box named "Reekolect Snippet" that you Copied from your Reekolect account.
+6. Once your Plugin is activated, paste the Reekolect API key in the Box named "Reekolect Snippet" that you Copied from your Reekolect account.
 7. Save the Settings, and you are all set. Reekolect has been integrated into your website.
 
 </details>
