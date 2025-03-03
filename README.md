@@ -1,18 +1,18 @@
 ---
 description: >-
   Complete documentation with all tricks and hacks to help you get started with
-  S10U
+  Acconsentobot
 ---
 
 # 🏠 Introduction
 
-## :white\_check\_mark: Get Started with S10U
+## :white\_check\_mark: Get Started with Acconsentobot
 
-S10U is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
+Acconsentobot is a SaaS-based chatbot builder software that automates business communication for you that gives plenty of benefits.
 
-We have built comprehensive documentation for you to quickly get started. S10U Platform is primarily divided into the following sections.
+We have built comprehensive documentation for you to quickly get started. Acconsentobot Platform is primarily divided into the following sections.
 
-1. Start with S10U - Get started
+1. Start with Acconsentobot - Get started
 2. Bot Management - To create, edit, manage, configure and integrate bots.
 3. Inbox - To manage all customer interactions with the Bot.
 4. Team- To manage your team.
@@ -22,16 +22,16 @@ We have built comprehensive documentation for you to quickly get started. S10U P
 
 You can get detailed know-how by navigating to the below section.
 
-{% content-ref url="S10U-resource-center/how-S10U-works/" %}
-[how-S10U-works](S10U-resource-center/how-S10U-works/)
+{% content-ref url="Acconsentobot-resource-center/how-Acconsentobot-works/" %}
+[how-Acconsentobot-works](Acconsentobot-resource-center/how-Acconsentobot-works/)
 {% endcontent-ref %}
 
-{% content-ref url="S10U-resource-center/frequently-asked-questions-faqs/" %}
-[frequently-asked-questions-faqs](S10U-resource-center/frequently-asked-questions-faqs/)
+{% content-ref url="Acconsentobot-resource-center/frequently-asked-questions-faqs/" %}
+[frequently-asked-questions-faqs](Acconsentobot-resource-center/frequently-asked-questions-faqs/)
 {% endcontent-ref %}
 
-{% content-ref url="S10U-resource-center/common-errors-and-troubleshooting.md" %}
-[common-errors-and-troubleshooting.md](S10U-resource-center/common-errors-and-troubleshooting.md)
+{% content-ref url="Acconsentobot-resource-center/common-errors-and-troubleshooting.md" %}
+[common-errors-and-troubleshooting.md](Acconsentobot-resource-center/common-errors-and-troubleshooting.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
