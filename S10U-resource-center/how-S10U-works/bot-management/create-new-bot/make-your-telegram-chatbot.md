@@ -9,13 +9,11 @@ description: >-
 Here are the steps to create telegram bought on S10U platform.
 
 1. Login into the platform and click on "Create new Bot" on top left. It will ask you to select the platform. Select telegram chat bot as platform and proceed.
-2.  In the next step, it will ask you to fill your mobile number and proceed. You need to interview your telegram number under which you want to create the chat bot.\
-    \
+2.  In the next step, it will ask you to fill your mobile number and proceed. You need to interview your telegram number under which you want to create the chat bot.
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 39.png" alt=""><figcaption></figcaption></figure>
-3.  Once you click next, it will send up one-time verification code on your telegram number, enter that verification code to verify your account.\
-    \
+3.  Once you click next, it will send up one-time verification code on your telegram number, enter that verification code to verify your account.
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 40.png" alt=""><figcaption></figcaption></figure>

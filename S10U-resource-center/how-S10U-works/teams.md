@@ -32,9 +32,9 @@ In S10U, you can efficiently manage team roles and users to streamline access an
 
 #### **Step 3: Create a New Role**
 
-*   Inside the "Team" section, navigate to "Roles" and click "Create Role."\
-    \
-    \
+*   Inside the "Team" section, navigate to "Roles" and click "Create Role."
+    
+    
 
 
     <figure><img src="../../.gitbook/assets/1 – 77.png" alt=""><figcaption></figcaption></figure>
@@ -44,9 +44,9 @@ In S10U, you can efficiently manage team roles and users to streamline access an
 * Set up the role by providing the following details:
   * **Name**: Assign a name for the new role.
   * **Description**: Add a brief description for reference.
-  *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the S10U platform.\
-      \
-      \
+  *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the S10U platform.
+      <!-- \ -->
+      <!-- \ -->
 
 
       <figure><img src="../../.gitbook/assets/1 – 78.png" alt=""><figcaption></figcaption></figure>
@@ -67,8 +67,9 @@ In S10U, you can efficiently manage team roles and users to streamline access an
   * **Phone Number**: Add the user's phone number.
   * **Select Role**: Choose the appropriate role for the user.
   * **Password**: Set a password for the user.
-  *   **Confirm Password**: Confirm the password.\
-      \
+  *   **Confirm Password**: Confirm the password.
+  
+      <!-- \ -->
 
 
       <figure><img src="../../.gitbook/assets/1 – 79.png" alt=""><figcaption></figcaption></figure>

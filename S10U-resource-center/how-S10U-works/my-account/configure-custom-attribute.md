@@ -37,13 +37,12 @@ Custom attributes in S10U allow you to personalize user interactions and collect
 * Log in to your S10U account and access the dashboard.
 * On the side navigation bar, locate and click the "More" button.
 * From the dropdown menu, select "Account/Settings."
-*   In the Account/Settings section, find and click on the "Custom Attributes" tab.\
-    \
+*   In the Account/Settings section, find and click on the "Custom Attributes" tab.
 
 
     <figure><img src="../../../.gitbook/assets/1 – 93.png" alt=""><figcaption></figcaption></figure>
 * Here, you'll find a list of all your custom attributes. You can edit, delete, bulk delete, and add new custom attributes from this tab.
-*   To add a new attribute, click the "Add Attribute" button and fill in the following details:\
+*   To add a new attribute, click the "Add Attribute" button and fill in the following details:
 
 
     <figure><img src="../../../.gitbook/assets/1 – 94.png" alt=""><figcaption></figcaption></figure>

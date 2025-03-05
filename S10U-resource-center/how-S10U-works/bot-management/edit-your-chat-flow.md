@@ -16,8 +16,7 @@ To customize your chatbot's flow, follow these steps:
 
 * Navigate to the bot menu or homepage on the S10U portal.
 * Select your chatbot to open the chatbot builder.
-*   Click on "Edit your chat flow" to access the chatbot builder.\
-    \
+*   Click on "Edit your chat flow" to access the chatbot builder.
 
 
     <figure><img src="../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>

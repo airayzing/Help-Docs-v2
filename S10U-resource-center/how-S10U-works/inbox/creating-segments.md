@@ -18,14 +18,12 @@ Groups are an invaluable tool for executing marketing broadcast campaigns effici
 3. **Downloading Contacts:**
    * From the actions column, you have the option to download all contacts of a specific group. This can be useful for further analysis or targeted communication.
 4. **Creating a New Group:**
-   *   To create a new group, click on "Create Group."\
-       \
+   *   To create a new group, click on "Create Group."
 
 
        <figure><img src="../../../.gitbook/assets/1 – 74.png" alt=""><figcaption></figcaption></figure>
    * Name your group accordingly to distinguish it from others.
-   *   Apply relevant filters to specify the criteria for this group.\
-       \
+   *   Apply relevant filters to specify the criteria for this group.
 
 
        <figure><img src="../../../.gitbook/assets/1 – 75.png" alt=""><figcaption></figcaption></figure>

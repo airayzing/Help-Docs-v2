@@ -40,7 +40,7 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 
 ### **Viewing Current Plan Details**
 
-1.  Go to the "Current Plan" tab.\
+1.  Go to the "Current Plan" tab.
 
 
     <figure><img src="https://github.com/airayzing/helpdocs/blob/develop/.gitbook/assets/image%20(548).png" alt=""><figcaption></figcaption></figure>
@@ -51,7 +51,7 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 
 ### **Managing Billing Preferences**
 
-1.  Access the "Billing" tab.\
+1.  Access the "Billing" tab.
 
 
     <figure><img src="https://github.com/airayzing/helpdocs/blob/develop/.gitbook/assets/image%20(549).png" alt=""><figcaption></figcaption></figure>
@@ -62,7 +62,7 @@ Once you're in the subscription panel, you'll find several tabs to help you mana
 
 ### **Managing Invoices**
 
-1.  Head to the "Invoice" tab.\
+1.  Head to the "Invoice" tab.
 
 
     <figure><img src="https://github.com/airayzing/helpdocs/blob/develop/.gitbook/assets/image%20(550).png" alt=""><figcaption></figcaption></figure>

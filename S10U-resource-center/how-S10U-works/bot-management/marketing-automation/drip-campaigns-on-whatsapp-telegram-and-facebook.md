@@ -13,9 +13,7 @@ Drip Campaigns can be sent on WhatsApp, Facebook and Telegram. You must have at 
 Follow these steps to create a drip campaign through your bot dashboard:
 
 1. **Navigate to Bots:** Go to the dashboard and click on the "Bots" button to access your bots.
-2.  **Select Bot:** Choose the specific bot for which you want to create the drip campaign. Navigate to the Drip Campaign tab under the automation tab and click on "Create New Drip Campaign"\
-    \
-    \
+2.  **Select Bot:** Choose the specific bot for which you want to create the drip campaign. Navigate to the Drip Campaign tab under the automation tab and click on "Create New Drip Campaign"
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 71.png" alt=""><figcaption></figcaption></figure>

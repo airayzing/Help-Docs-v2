@@ -55,8 +55,7 @@ This action will not disable the Live chat request Notifications.
 To change the text for transferring chat to live agent, Follow the below steps.
 
 1. Navigate to Bot's Setting for "Chat Window" under "Website Chatbot Settings".
-2.  Select the "Display name for Transferring to Live/Agent chat" and Edit the field as per the text you want\
-    \\
+2.  Select the "Display name for Transferring to Live/Agent chat" and Edit the field as per the text you want
 
     <figure><img src="https://github.com/aiekochat/GitBook-Sync/blob/aman-help-changes/.gitbook/assets/Change%20Text%20for%20Live%20chat.png" alt=""><figcaption><p>Change text for live chat</p></figcaption></figure>
 
