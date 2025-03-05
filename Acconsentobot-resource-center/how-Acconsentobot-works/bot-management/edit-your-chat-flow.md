@@ -17,7 +17,6 @@ To customize your chatbot's flow, follow these steps:
 * Navigate to the bot menu or homepage on the Acconsentobot portal.
 * Select your chatbot to open the chatbot builder.
 *   Click on "Edit your chat flow" to access the chatbot builder.\
-    \
 
 
     <figure><img src="../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>
@@ -39,8 +38,7 @@ To add and customize components:
 
 **2. Connect Components:**
 
-Drag a line connector from one component to another to establish a connection.\
-
+Drag a line connector from one component to another to establish a connection.\\
 
 **3. Personalize Messages:**
 
@@ -67,6 +65,6 @@ To conclude the chat flow:
 
 ## **Need Further Assistance?**
 
-If you encounter any issues or need assistance, please contact us at [ https://acconsentobot.click/](mailto: https://acconsentobot.click/). We will respond within 48 business hours.
+If you encounter any issues or need assistance, please contact us at \[ https://acconsentobot.click/]\(mailto: https://acconsentobot.click/). We will respond within 48 business hours.
 
 That's it! You're now equipped to customize your chatbot's flow and engage users effectively.

@@ -21,7 +21,6 @@ Status can be assigned to the user chats and contacts for better organising and 
 ### **Create a New Custom** Status
 
 *   To add a new status, click the "Create tag" button\
-    \
 
 
     <figure><img src="../../../.gitbook/assets/1 – 97.png" alt=""><figcaption></figcaption></figure>

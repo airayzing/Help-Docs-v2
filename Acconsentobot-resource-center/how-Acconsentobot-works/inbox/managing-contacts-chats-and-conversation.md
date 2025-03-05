@@ -47,7 +47,6 @@ Once you're in the inbox panel, you'll find several tabs to help you manage your
 ### **Managing Contacts**
 
 *   Contacts are chats with shared contact details or those marked based on chatflow settings.\
-    \
 
 
     <figure><img src="../../../.gitbook/assets/1 – 72.png" alt=""><figcaption></figcaption></figure>
@@ -56,7 +55,6 @@ Once you're in the inbox panel, you'll find several tabs to help you manage your
 ### **Managing Orders**
 
 1.  Open the "Orders" tab under the inbox section.\
-    \
 
 
     <figure><img src="../../../.gitbook/assets/1 – 73.png" alt=""><figcaption></figcaption></figure>

@@ -11,7 +11,6 @@ description: >-
 1. Navigate to the dashboard and access the bot section. Choose the specific bot you want to train with AI.
 2. Next, select the option "Train Your AI Chatbot" displayed on the screen.
 3.  Next, click on the "File Upload" option provided in the navigation bar at the top.\
-    \
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 47.png" alt=""><figcaption></figcaption></figure>
@@ -20,7 +19,6 @@ description: >-
 
     <figure><img src="../../../../.gitbook/assets/1 – 48.png" alt=""><figcaption></figcaption></figure>
 5.  Now, you can upload the files as needed. Click on the "Upload Files" button, and your files will be uploaded.\
-    \
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 49.png" alt=""><figcaption></figcaption></figure>

@@ -27,22 +27,18 @@ This document will guide you through the step-by-step process of granting contro
 
 1. Navigate to `System Users` "Users" in the sidebar.
 2.  Click on "System Users" and click "Add" to add a new user\
-    \
 
 
     <figure><img src="../../../../../.gitbook/assets/1 – 28.png" alt=""><figcaption></figcaption></figure>
 3.  Accept the policy to start adding user\
-    \
 
 
     <figure><img src="../../../../../.gitbook/assets/1 – 29.png" alt=""><figcaption></figcaption></figure>
 4.  Once the "Create system user" pop-up opens, Give a name (E.g. BP-WhatsApp) and keep the user role as "Admin"\
-    \
 
 
     <figure><img src="../../../../../.gitbook/assets/1 – 30.png" alt=""><figcaption></figcaption></figure>
 5.  Once the system user is added, Click on the "Generate new token"\
-    \
 
 
     <figure><img src="../../../../../.gitbook/assets/1 – 31.png" alt=""><figcaption></figcaption></figure>
@@ -54,7 +50,6 @@ This document will guide you through the step-by-step process of granting contro
       2. catalog\_management
       3. whatsapp\_business\_messaging
       4.  whatsapp\_business\_management\
-          \
 
 
           <figure><img src="../../../../../.gitbook/assets/1 – 32.png" alt=""><figcaption></figcaption></figure>

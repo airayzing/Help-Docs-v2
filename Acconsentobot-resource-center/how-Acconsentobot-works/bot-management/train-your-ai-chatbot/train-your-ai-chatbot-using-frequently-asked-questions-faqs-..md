@@ -11,12 +11,10 @@ description: >-
 1. Navigate to the dashboard and access the bot section. Choose the specific bot you want to train with AI.
 2. Next, select the option "Train Your AI Chatbot" displayed on the screen.
 3.  Now, click on the "FAQs" button provided on the top navigation bar.\
-    \
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 50.png" alt=""><figcaption></figcaption></figure>
 4.  Here, on the right side of the screen, you will find the "Add FAQs" button. Click on it to add the FAQs.\
-    \
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 51.png" alt=""><figcaption></figcaption></figure>

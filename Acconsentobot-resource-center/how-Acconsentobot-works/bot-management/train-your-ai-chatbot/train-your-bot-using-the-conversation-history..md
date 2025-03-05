@@ -11,7 +11,6 @@ description: >-
 1. Navigate to the dashboard and access the bot section. Choose the specific bot you want to train with AI.
 2. Next, select the option "Train Your AI Chatbot" displayed on the screen.
 3.  Now, click on the "Conversation History" button provided on the top navigation bar.\
-    \
 
 
     <figure><img src="../../../../.gitbook/assets/1 – 53.png" alt=""><figcaption></figcaption></figure>

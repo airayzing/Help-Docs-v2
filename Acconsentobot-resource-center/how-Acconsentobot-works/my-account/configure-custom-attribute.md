@@ -38,17 +38,13 @@ Custom attributes in Acconsentobot allow you to personalize user interactions an
 * On the side navigation bar, locate and click the "More" button.
 * From the dropdown menu, select "Account/Settings."
 *   In the Account/Settings section, find and click on the "Custom Attributes" tab.\
-    \
 
 
     <figure><img src="../../../.gitbook/assets/1 – 93.png" alt=""><figcaption></figcaption></figure>
 * Here, you'll find a list of all your custom attributes. You can edit, delete, bulk delete, and add new custom attributes from this tab.
-*   To add a new attribute, click the "Add Attribute" button and fill in the following details:\
-
+*   To add a new attribute, click the "Add Attribute" button and fill in the following details:
 
     <figure><img src="../../../.gitbook/assets/1 – 94.png" alt=""><figcaption></figcaption></figure>
-
-
 
     <figure><img src="../../../.gitbook/assets/1 – 95.png" alt=""><figcaption></figcaption></figure>
 
@@ -57,6 +53,4 @@ Custom attributes in Acconsentobot allow you to personalize user interactions an
     * **Optional Details to fill in for saving API Response in custom attributes**
       * **Select Bot**: Choose the bot whose chat input you want to store.
         * **Select Flow**: Choose the flow of that bot.
-        * **Select Question**: Choose the question whose answer you want to store.\
-
-
+        * **Select Question**: Choose the question whose answer you want to store.
