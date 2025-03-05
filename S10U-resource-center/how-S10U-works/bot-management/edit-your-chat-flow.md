@@ -19,7 +19,7 @@ To customize your chatbot's flow, follow these steps:
 *   Click on "Edit your chat flow" to access the chatbot builder.
 
 
-    <figure><img src="../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>
 
 ## **Tools for Editing Chat Flow**
 
