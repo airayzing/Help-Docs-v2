@@ -5,7 +5,7 @@ description: >-
   users.
 ---
 
-# 😀 Train your AI chatbot using Google Sheets.
+# 📖 Train your AI chatbot using Google Sheets.
 
 ### How to Train Your AI Chatbot:
 

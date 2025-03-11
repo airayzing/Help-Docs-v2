@@ -2,7 +2,7 @@
 description: A detailed description of all Trigger Actions.
 ---
 
-# 😀 Trigger Actions
+# 📖 Trigger Actions
 
 #### 1. Live Chat
 
@@ -25,5 +25,5 @@ description: A detailed description of all Trigger Actions.
 * Used to automatically assign live chat requests among team members.
 * You can assign tasks in two ways:
   1. **Assign to a specific team member** – Select the name of the team member.
-  2. **Assign by department** – Select a department and set the assignment logic to **"Round Robin"**, where each team member receives chat requests in a sequence.
+  2. **Assign by department**
 * Option to exclude offline agents and assign tasks only during business hours.

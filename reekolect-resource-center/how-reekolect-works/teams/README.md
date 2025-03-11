@@ -34,10 +34,9 @@ In Reekolect, you can efficiently manage team roles and users to streamline acce
 
 *   Inside the "Team" section, navigate to "Roles" and click "Create Role."\
     \
-    \
+    \\
 
-
-    <figure><img src="../../.gitbook/assets/1 – 77.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/1 – 77.png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 4: Configure Role Details**
 
@@ -46,10 +45,9 @@ In Reekolect, you can efficiently manage team roles and users to streamline acce
   * **Description**: Add a brief description for reference.
   *   **Assign Permissions**: Customize permissions for this role based on your specific needs. Permissions are related to different modules within the Reekolect platform.\
       \
-      \
+      \\
 
-
-      <figure><img src="../../.gitbook/assets/1 – 78.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/1 – 78.png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 5: Save the Role**
 
@@ -68,10 +66,9 @@ In Reekolect, you can efficiently manage team roles and users to streamline acce
   * **Select Role**: Choose the appropriate role for the user.
   * **Password**: Set a password for the user.
   *   **Confirm Password**: Confirm the password.\
-      \
+      \\
 
-
-      <figure><img src="../../.gitbook/assets/1 – 79.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../../.gitbook/assets/1 – 79.png" alt=""><figcaption></figcaption></figure>
 
 #### **Step 8: Create User**
 

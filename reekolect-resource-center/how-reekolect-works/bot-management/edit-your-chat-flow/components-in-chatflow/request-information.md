@@ -2,7 +2,7 @@
 description: 'Here is a structured guide on Chat Components under "Request Information":'
 ---
 
-# 😀 Request Information
+# 📖 Request Information
 
 Here’s a structured breakdown of the available **chat components** and their use cases:
 

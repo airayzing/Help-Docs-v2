@@ -2,7 +2,7 @@
 description: Setup your WhatsApp Catalog!
 ---
 
-# 😀 WhatsApp Catalog Setup
+# 📖 WhatsApp Catalog Setup
 
 ## **How to Set Up Your WhatsApp Catalog**
 

@@ -5,7 +5,7 @@ description: >-
   custom messages.
 ---
 
-# 😀 Instagram Bot Settings
+# 📖 Instagram Bot Settings
 
 ### General Settings for Instagram Chatbot:
 

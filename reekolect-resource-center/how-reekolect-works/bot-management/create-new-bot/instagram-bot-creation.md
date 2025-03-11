@@ -4,7 +4,7 @@ description: >-
   Instagram chatbot.
 ---
 
-# 😀 Instagram Bot Creation
+# 📖 Instagram Bot Creation
 
 Follow these quick steps to create your Instagram chatbot:-
 

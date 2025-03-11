@@ -4,7 +4,7 @@ description: >-
   quicker, and make your chatbot faster!
 ---
 
-# 😀 Pre-Built Chatbot Templates
+# 📖 Pre-Built Chatbot Templates
 
 Reekolect offeres multiple templates that allow for our users to quickly and effeciently start their chatbot joirney.
 

@@ -1,4 +1,8 @@
-# 😀 Components In Chatflow
+---
+description: Discover the uses of all the components on your screen!
+---
+
+# 📖 Components In Chatflow
 
 There are various **chat components** available, each serving different use cases to enhance chatbot interactions.
 

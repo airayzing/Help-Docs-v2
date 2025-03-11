@@ -2,7 +2,7 @@
 description: This page explains the components available in the Send Information section.
 ---
 
-# 😀 Send Information
+# 📖 Send Information
 
 This section provides details about **Chat Components under "Send Information"**.
 

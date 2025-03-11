@@ -5,7 +5,7 @@ description: >-
   seamless, professional presence on WhatsApp.
 ---
 
-# 😀 WhatsApp Profile
+# 📖 WhatsApp Profile
 
 The **WhatsApp Profile** section in the BotPenguin platform is divided into two key sections:
 
@@ -14,15 +14,17 @@ The **WhatsApp Profile** section in the BotPenguin platform is divided into two 
 
 ### Phone Number Details:
 
-| **Phone Number**                           | Displays the number linked to your bot.                                          |
-| ------------------------------------------ | -------------------------------------------------------------------------------- |
-| **Phone Number ID**                        | Unique identifier assigned during Meta onboarding.                               |
-| **WABA ID (WhatsApp Business Account ID)** | Identifies your WhatsApp Business Account.                                       |
-| **Access Token**                           | Enables communication with the WhatsApp Business API.                            |
-| **Messaging Limit**                        | Defines the maximum number of messages your bot can send within a set timeframe. |
-| **Quality Rating**                         | Reflects bot performance based on user engagement.                               |
-| **WhatsApp Business Account Name**         | Displays the registered business account name.                                   |
-| **Editable Fields**                        | Only WABA ID and Access Token can be modified.                                   |
+This section provides essential information about the phone number linked to your WhatsApp bot. Below are the available details:
+
+* **Phone Number**: Displays the phone number associated with your bot.
+* **Phone Number ID**: A unique identifier generated during Meta's onboarding process to distinguish your bot's phone number.
+* **WABA ID (WhatsApp Business Account ID)**: A unique identifier assigned to your WhatsApp Business Account during Meta onboarding.
+* **Access Token**: A secure token that enables your bot to interact with the WhatsApp Business API.
+* **Messaging Limit**: Specifies the maximum number of messages your bot can send within a defined period.
+* **Quality Rating**: Measures the bot's performance based on user interactions. A higher rating signifies better engagement and reliability.
+* **WhatsApp Business Account Name**: Displays the name registered for your WhatsApp Business Account.
+
+**Note**: Only the **WABA ID** and **Access Token** are editable and can be configured as needed.
 
 
 

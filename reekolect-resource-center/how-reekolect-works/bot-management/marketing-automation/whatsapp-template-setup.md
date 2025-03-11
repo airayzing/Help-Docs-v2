@@ -2,7 +2,7 @@
 description: This page contains the information about configuring WhatsApp Templates.
 ---
 
-# 😀 WhatsApp Template Setup
+# 📖 WhatsApp Template Setup
 
 ## **Setting Up WhatsApp Templates:**
 

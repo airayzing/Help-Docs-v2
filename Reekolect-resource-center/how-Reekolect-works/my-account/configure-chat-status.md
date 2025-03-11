@@ -6,7 +6,7 @@ description: This page contains the information on how can we configure the chat
 
 ## Chat Status
 
-Status can be assigned to the user chats and contacts for better organising and management. These Status are also very useful to filter your data and creating groups etc.
+Status can be assigned to the user chats and contacts for better organizing and management. These Status are also very useful to filter your data and creating groups etc.
 
 ## Create & Manage Status
 
@@ -21,8 +21,7 @@ Status can be assigned to the user chats and contacts for better organising and 
 ### **Create a New Custom** Status
 
 *   To add a new status, click the "Create tag" button\
-    \
-
+    \\
 
     <figure><img src="../../../.gitbook/assets/1 – 97.png" alt=""><figcaption></figcaption></figure>
 * Enter the status name and Status color code

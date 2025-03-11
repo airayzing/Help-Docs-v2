@@ -4,11 +4,9 @@ description: >-
   Transfer to WhatsApp feature in Reekolect.
 ---
 
-# 😀 Transfer Chat to WhatsApp Fucntionality
+# 📖 Transfer Chat to WhatsApp Fucntionality
 
 ### Chat Transfer to WhatsApp:
-
-
 
 To enable chat transfer from your website bot to WhatsApp, follow these steps:
 

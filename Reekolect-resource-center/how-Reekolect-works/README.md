@@ -16,8 +16,8 @@ We have made guides and help documents for every step in your user journey, and 
 [inbox](inbox/)
 {% endcontent-ref %}
 
-{% content-ref url="teams.md" %}
-[teams.md](teams.md)
+{% content-ref url="../../reekolect-resource-center/how-reekolect-works/teams/" %}
+[teams](../../reekolect-resource-center/how-reekolect-works/teams/)
 {% endcontent-ref %}
 
 {% content-ref url="subscriptions.md" %}

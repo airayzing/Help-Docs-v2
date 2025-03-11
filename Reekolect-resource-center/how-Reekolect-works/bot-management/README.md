@@ -12,8 +12,8 @@ Here are the guides for managing the different aspects of the Bots
 [create-new-bot](create-new-bot/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../reekolect-resource-center/how-reekolect-works/bot-management/edit-your-chat-flow/" %}
-[edit-your-chat-flow](../../../reekolect-resource-center/how-reekolect-works/bot-management/edit-your-chat-flow/)
+{% content-ref url="edit-your-chat-flow.md" %}
+[edit-your-chat-flow.md](edit-your-chat-flow.md)
 {% endcontent-ref %}
 
 {% content-ref url="train-your-ai-chatbot/" %}

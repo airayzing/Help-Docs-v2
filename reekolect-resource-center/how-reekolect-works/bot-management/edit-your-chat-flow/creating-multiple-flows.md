@@ -5,7 +5,7 @@ description: >-
   chat flow.
 ---
 
-# 😀 Creating Multiple Flows
+# 📖 Creating Multiple Flows
 
 With the ability to create multiple flows in your website chatbot, you can seamlessly connect different flows using the **redirect component**. Follow these steps to set it up:
 
@@ -16,14 +16,14 @@ With the ability to create multiple flows in your website chatbot, you can seaml
 **Create a New Flow**
 
 1. Select your website bot and navigate to the **"Edit Your Chatflow"** section.
-2. Click on **"Create New Flow"** (as shown in the screenshot).
+2. Click on **"Create New Flow.**
 3. Enter the **Flow Name** and click **"Create New Flow."**
 4. Configure the new chat flow—it will now appear in the flow list on this page.
 
 **Set Up a Redirect in an Existing Flow:**
 
 1. Open the existing flow where you want to trigger the new flow.
-2. Add the **"Redirect"** chat component (as shown in the screenshot).
+2. Add the **"Redirect"** chat component.
 3. From the dropdown, select the flow to which you want to redirect.
 
 #### **Flow Redirection:**
