@@ -17,10 +17,9 @@ To customize your chatbot's flow, follow these steps:
 * Navigate to the bot menu or homepage on the Reekolect portal.
 * Select your chatbot to open the chatbot builder.
 *   Click on "Edit your chat flow" to access the chatbot builder.\
-    \
+    \\
 
-
-    <figure><img src="../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/1 – 41.png" alt=""><figcaption></figcaption></figure>
 
 ## **Tools for Editing Chat Flow**
 
@@ -39,8 +38,7 @@ To add and customize components:
 
 **2. Connect Components:**
 
-Drag a line connector from one component to another to establish a connection.\
-
+Drag a line connector from one component to another to establish a connection.\\
 
 **3. Personalize Messages:**
 
@@ -49,7 +47,7 @@ Drag a line connector from one component to another to establish a connection.\
 
 ## Chat Components
 
-There are various types of chat component available and it is recommended to use the correct chat component for better data cature and error handling. here are the list of available chat component and its usecase.
+There are various types of chat component available and it is recommended to use the correct chat component for better data capture and error handling. here are the list of available chat component and its use case.
 
 | Component       | Use case                                                |
 | --------------- | ------------------------------------------------------- |
