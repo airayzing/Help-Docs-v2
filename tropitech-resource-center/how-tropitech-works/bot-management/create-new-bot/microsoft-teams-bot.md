@@ -8,12 +8,14 @@ description: >-
 
 ## Required information for Creating MS Teams Chatbot <a href="#required-information-for-creating-ms-teams-chatbot" id="required-information-for-creating-ms-teams-chatbot"></a>
 
-To do MS Teams integration, you will need the following details on your end.
+To integrate your chatbot with MS Teams, ensure you have the following details:
 
-* Bot ID
-* Bot Password
-* Update the Webhook endpoint in the Bot Details
-* Create and Publish an app for your organization
+* **Bot ID**
+* **Bot Password**
+* **Webhook Endpoint** (Update it in the Bot Details)
+* **Create and Publish** an app for your organization
+
+
 
 ## Steps to complete integration <a href="#steps-to-complete-integration" id="steps-to-complete-integration"></a>
 
@@ -70,4 +72,4 @@ To do MS Teams integration, you will need the following details on your end.
 
 Once you have updated the same. Your bot will be created.
 
-Please reach out to us at contact@botpenguin.com for further assistance.
+Please reach out to us at **soporte@tropitechnology.com** for further assistance.
