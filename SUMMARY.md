@@ -6,7 +6,7 @@
 
 * [🏃‍♂️ Czym jest ChatBot XL i do czego służy?](centrum-zasobow-chatbotxl/how-chatbotxl-works/README.md)
   * [📖 Pierwsze kroki z ChatBot XL](centrum-zasobow-chatbotxl/how-chatbotxl-works/onboarding.md)
-  * [📖 Bot Management](centrum-zasobow-chatbotxl/how-chatbotxl-works/bot-management/README.md)
+  * [📖 Boty - Tworzenie i zarządzanie botami](centrum-zasobow-chatbotxl/how-chatbotxl-works/bot-management/README.md)
     * [📖 Create new Bot](centrum-zasobow-chatbotxl/how-chatbotxl-works/bot-management/create-new-bot/README.md)
       * [📖 Website, Live chat or Landing Page Bots](centrum-zasobow-chatbotxl/how-chatbotxl-works/bot-management/create-new-bot/make-your-microsoft-teams-bot.md)
       * [📖 WhatsApp Bot Creation with Manual Onboarding](centrum-zasobow-chatbotxl/how-chatbotxl-works/bot-management/create-new-bot/whatsapp-bot-creation-with-manual-onboarding/README.md)
