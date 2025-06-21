@@ -1,12 +1,12 @@
 ---
 description: >-
-  Zasilany przez AI – pełny energii, gotowy wykorzystać moc automatyzacji i
-  zaangażowania klientów!
+  Zasilany AI – pełen energii i gotowy do wykorzystania potencjału automatyzacji
+  oraz zwiększenia zaangażowania klientów.
 ---
 
-# 🏃‍♂️ Jak działa ChatBot XL?
+# 🏃‍♂️ Czym jest ChatBot XL i do czego służy?
 
-Opracowaliśmy szczegółowe poradniki i dokumentację pomocną na każdym etapie Twojej podróży jako użytkownika. Jeśli jednak czegoś zabraknie, daj nam znać, a chętnie to uzupełnimy. Poniżej znajdziesz kluczowe strony, które pozwolą Ci lepiej zrozumieć najważniejsze moduły ChatBot XL.
+[**ChatBot XL**](https://chatbotxl.com/pl/) to zaawansowana platforma do tworzenia chatbotów opartych na sztucznej inteligencji, zaprojektowana z myślą o różnych branżach i zastosowaniach. Umożliwia tworzenie wirtualnych asystentów, którzy automatyzują komunikację z klientami na stronach internetowych, w sklepach internetowych czy w mediach społecznościowych.
 
 {% content-ref url="bot-management/" %}
 [bot-management](bot-management/)
